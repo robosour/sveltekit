@@ -7,6 +7,7 @@
     var output=''
     let selection: string;
     $: temp= input.split("\t")
+    input=temp[3]
     $:  if(input.includes(";")){
         input =input.replace(' ;',';')
         input=input.replace('; ',';')

@@ -19,11 +19,7 @@
 	let match_num: RegExpMatchArray | null;
 	let match_date: RegExpMatchArray | null;
 	let license: string;
-	let d = [
-		'Misc Tab => change details and Disable Automatic Updates',
-		'Permissions Set',
-		'Generate License, double check date'
-	];
+
 </script>
 
 <div class="grid grid-cols-3">
@@ -34,7 +30,11 @@
 		<ul class="list">
 			<li>
 				<input type="checkbox" bind:checked={$test.lic1} />
-				<label for="" class="ml-10">Misc Tab => change details and Disable Automatic Updates </label>
+				<label for="" class="ml-10">Misc Tab => change details </label>
+			</li>
+			<li>
+				<input type="checkbox" bind:checked={$test.lic4} />
+				<label for="" class="ml-10">Disable Automatic Updates </label>
 			</li>
 			<li>
 				<input type="checkbox" bind:checked={$test.lic2} />

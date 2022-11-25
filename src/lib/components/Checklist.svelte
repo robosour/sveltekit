@@ -19,14 +19,14 @@
 			<li>
 				<input type="checkbox" bind:checked={$test.prep3} />
 				<label for="" class="ml-10">
-					Fill out ticket for physical folder (dated like: 9 September)
+					Fill out ticket for physical folder (eg. 9 Sep)
 				</label>
 			</li>
 			<li>
 				<input type="checkbox" bind:checked={$test.prep4} />
                 <label for="" class="ml-10">
 
-				Write on side of folder (Hosted - School Name - LMS)
+				Write on folder (Hosted - School Name - LMS)
 				<label for="" class="ml-10" />
 			</li>
 			<div class="card card-body bg-primary-200">

@@ -39,7 +39,7 @@ export let test = writable(get(key), {
     lost: (''),
     patronT: (''),
     date: (''),
-    delete: (''),
+    delete: ('-'),
     // dupCopy=(''),
     // withoutCopy = '',
     pat_all: (''),
@@ -51,6 +51,8 @@ export let test = writable(get(key), {
     lic1: false,
     lic2: false,
     lic3: false,
+    lic4: false,
+
 
     //prep checklist
     prep1: false,
@@ -72,6 +74,17 @@ export let test = writable(get(key), {
     tidy9: false,
     tidy10: false,
     tidy11: false,
+    tidy12: false,
+
+    //delivery checkloist 
+    deliver1:false,
+    deliver2:false,
+    deliver3:false,
+    deliver4:false,
+    deliver5:false,
+    deliver6:false,
+    deliver7:false,
+    deliver8:false,
 
 
     //Patron Barcodes

@@ -110,6 +110,14 @@
             </label>
             <input type="text" bind:value={$test.borgit} class="rounded text-pink-500" />
         </div>
+        <div class="mr-10 col-span-2 h-min">
+            <label class="label mt-4 is-inline-flex " for="code"
+                >Notes:
+            </label>
+            <textarea name="" id="" cols="30" rows="10" bind:value={$test.notes}></textarea>
+        </div>
+
+
     </form>
 </div>
 <br />

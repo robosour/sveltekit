@@ -1,15 +1,14 @@
 <script lang="ts">
-	import Notes from '$lib/components/Notes.svelte';
-	import Reroute from '$lib/components/Reroute.svelte';
-	import Tidy from '$lib/components/Tidy.svelte';
-	import Borgit from '$lib/components/DistricBorgit.svelte';
-	import EmptyBorgit from '$lib/components/EmptyBorgit.svelte';
-	import EmptyPrep from '$lib/components/EmptyPrep.svelte';
 	import Licensing from '$lib/components/Licensing.svelte';
+	import Notes from '$lib/components/Notes.svelte';
 	import Pmf from '$lib/components/PMF.svelte';
+	import Reroute from '$lib/components/Reroute.svelte';
+	import SchoolBorgit from '$lib/components/SchoolBorgit.svelte';
+	import Tidy from '$lib/components/Tidy.svelte';
 	import { test } from '$lib/stores/localskeletonStore';
 	import { Tab, TabGroup } from '@brainandbones/skeleton';
 	import { writable, type Writable } from 'svelte/store';
+	import Deliver from '$lib/components/Deliver.svelte';
 	// $test.country = '';
 	const storeTab: Writable<string> = writable('a');
 </script>
@@ -20,7 +19,7 @@
 	
 	</div> -->
 	<div>
-		<h2 class=" flex font-sans justify-center mt-10 ">{$test.name} - {$test.code}</h2>
+		<h2 class=" flex font-sans justify-center mt-10 ">{$test.name} - {$test.code} </h2>
 		<br />
 	</div>
 
@@ -32,6 +31,7 @@
 				<Tab class="w-full justify-center" value="c">Licensing</Tab>
 				<Tab class="w-full justify-center" value="d">Tidy {$test.tidy}</Tab>
 				<Tab class="w-full justify-center" value="g">Migration Notes</Tab>
+				<Tab class="w-full justify-center" value="h">Deliver</Tab>
 				<Tab class="w-full justify-center" value="p">Notes</Tab>
 
 				<!-- <Tab class="w-full justify-center" value="c">Tidy</Tab> -->
@@ -41,12 +41,13 @@
 
 	<!-- Conditionally display content -->
 	{#if $storeTab === 'a'}<Pmf />{/if}
-	{#if $storeTab === 'b'}<Borgit />{/if}
+	{#if $storeTab === 'b'}<SchoolBorgit />{/if}
 
 	{#if $storeTab === 'c'}
 		<Licensing />>
 	{/if}
 	{#if $storeTab === 'd'}<Tidy />{/if}
 	{#if $storeTab === 'g'}<Reroute />{/if}
+	{#if $storeTab === 'h'}<Deliver />{/if}
 	{#if $storeTab === 'p'}<Notes />{/if}
 </div>

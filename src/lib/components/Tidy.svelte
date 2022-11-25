@@ -76,6 +76,10 @@
             <label for="" class="ml-10"> Test connections</label>
         </li>
         <li>
+            <input type="checkbox" bind:checked={$test.tidy12} />
+            <label for="" class="ml-10"> Save Migration Notes Report (oml & pdf)            </label>
+        </li>
+        <li>
             <input type="checkbox" bind:checked={$test.tidy7} />
             <label for="" class="ml-10"> Collections tidy => Collection Report            </label>
         </li>

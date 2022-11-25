@@ -2,7 +2,7 @@
 	import { test } from '$lib/stores/localskeletonStore';
 </script>
 
-<div class="flex flex-col card card-body  mr-10">
+<div class="flex flex-col card card-body  mr-10 ">
 	<h3 class="flex justify-center">Permissions</h3>
 	<hr />
 
@@ -26,11 +26,9 @@
 			</li>
 			<li>
 				<input type="checkbox" bind:checked={$test.brwsync} />
-				<label for="" class="ml-10"> Borrower Sync</label>
+				<label for="" class="ml-10"> <mark class="bg-fuchsia-200">Borrower Sync</mark></label>
 			</li>
-			<span class=" bg-primary-200">
-				Note: If Brw Sync is enabled, remember to check Has Paid when licensing! :)
-			</span><br />
+	
 			<li>
 				<input type="checkbox" bind:checked={$test.biometrics} />
 				<label for="" class="ml-10"> Biometrics</label>
@@ -67,6 +65,9 @@
 				<input type="checkbox" bind:checked={$test.unioncatalogue} />
 				<label for="" class="ml-10"> Union Catalogue - Allow Access</label>
 			</li>
+			<span class=" bg-primary-200 dark:text-black">
+				Note: If Brw Sync is enabled, remember to check Has Paid when licensing! :)
+			</span><br />
 		</div>
 		<!-- ... -->
 	</ul>

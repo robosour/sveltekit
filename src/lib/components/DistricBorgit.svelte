@@ -25,7 +25,7 @@
 			{$test.type} <br />
 			<strong>ODIN: </strong>	{$test.districtName}
 			{$test.type}
-			<span class="badge bg-primary-200">
+			<span class="badge bg-primary-200 text-black">
 				Note: High = Secondary // Middle = ?? // Elementary = Primary
 			</span><br />
 			<strong>Select Country:</strong>
@@ -39,10 +39,10 @@
 		<h5>Data Checker</h5>
 		<hr />
 		<p class="p-5">
-			<span class="badge bg-primary-300 text-lg m-3"> Resources : {$test.resources}</span><br />
-			<span class="badge bg-primary-300 text-lg m-3"> Copies : {$test.copies}</span><br />
-			<span class="badge bg-primary-300 text-lg m-3"> Patrons: {$test.patrons}</span><br />
-			<span class="badge bg-primary-300 text-lg m-3"> On Loan: {$test.on_loan}</span><br />
+			<span class="badge bg-primary-300 text-lg m-3 text-black"> Resources : {$test.resources}</span><br />
+			<span class="badge bg-primary-300 text-lg m-3 text-black"> Copies : {$test.copies}</span><br />
+			<span class="badge bg-primary-300 text-lg m-3 text-black"> Patrons: {$test.patrons}</span><br />
+			<span class="badge bg-primary-300 text-lg m-3 text-black"> On Loan: {$test.on_loan}</span><br />
 		</p>
 	</div>
 	<div class="p-10">

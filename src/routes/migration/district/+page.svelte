@@ -5,6 +5,7 @@
 	import { writable, type Writable } from 'svelte/store';
 	import Checklist from '$lib/components/Checklist.svelte';
 	import Notes from '$lib/components/Notes.svelte';
+	import Deliver from '$lib/components/Deliver.svelte';
 
 	import Reroute from '$lib/components/Reroute.svelte';
 	import Preparation from '$lib/components/Preparation.svelte';
@@ -46,6 +47,7 @@
 				<Tab class="w-full justify-center" value="b">Licensing</Tab>
 				<Tab class="w-full justify-center" value="d">Tidy {$test.tidy}</Tab>
 				<Tab class="w-full justify-center" value="g">Migration Notes</Tab>
+				<Tab class="w-full justify-center" value="h">Deliver</Tab>
 				<Tab class="w-full justify-center" value="p">Notes</Tab>
 
 				<!-- <Tab class="w-full justify-center" value="e">Detach & Folders</Tab>
@@ -66,6 +68,7 @@
 	{#if $storeTab === 'e'}<Folders />{/if}
 	{#if $storeTab === 'f'}<Checklist title="Deliver" checks={e} />{/if}
 	{#if $storeTab === 'g'}<Reroute />{/if}
+	{#if $storeTab === 'h'}<Deliver />{/if}
 	{#if $storeTab === 'p'}<Notes></Notes>{/if}
 
 	{#if $storeTab === 'j'}Change status, get update for scis, remove day after training complete{/if}

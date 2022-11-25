@@ -25,8 +25,7 @@
 	<div class="">
 		<TabGroup selected={storeTab}
 			><div class="flex flex-cols w-full">
-				<Tab class="w-full justify-center" value="a">Prep</Tab>
-				<Tab class="w-full justify-center" value="b">Borgit</Tab>
+				<Tab class="w-full justify-center" value="a">Set-Up and Migrate</Tab>
 				<Tab class="w-full justify-center" value="c">Licensing</Tab>
 				<Tab class="w-full justify-center" value="d">Tidy & Deliver</Tab>
 
@@ -38,7 +37,6 @@
 
 	<!-- Conditionally display content -->
 	{#if $storeTab === 'a'}<EmptyPrep></EmptyPrep>{/if}
-	{#if $storeTab === 'b'}<EmptyBorgit></EmptyBorgit>{/if}
 	{#if $storeTab === 'c'}<Licensing/>{/if}
 	{#if $storeTab === 'd'}<EmptyTidy></EmptyTidy>{/if}
 

@@ -3,7 +3,7 @@
 
 	let showPat = false;
 	let showCopy = false;
-	let showWithout = false;
+	let showWithout = true;
 	let hideAmarillo = true;
 	// $: upper = ($test.code + '').toUpperCase;
 </script>
@@ -122,7 +122,7 @@
 			</li>
 			<li>
 				<input type="checkbox" on:click={() => (showWithout = !showWithout)} />
-				<label for="">Resources without Copies</label>
+				<label for="">No Resources without Copies</label>
 			</li>
 			<li>
 				<input type="checkbox" on:click={() => (hideAmarillo = !hideAmarillo)} />

@@ -1,23 +1,23 @@
 <script>
-	import { GradientHeading } from '@brainandbones/skeleton';
-	import { test, key } from '$lib/stores/localskeletonStore';
-	import Checklist from './Checklist.svelte';
+	import { GradientHeading } from "@brainandbones/skeleton";
+	import { test, key } from "$lib/stores/localskeletonStore";
+	import Checklist from "./Checklist.svelte";
 
 	let b = [
-		' Set-Up and stage 1',
-		'Stage 2 - Brooklyn Files Screen ',
-		'Checkboxes (Stage 235)',
-		'Author Eyeball (Stage 240)',
-		'Subject Eyeball (Stage 244)',
-		'Keyword Eyeball (Stage 246) ',
-		'Campus Eyeball (Stage 248)',
-		'Media Eyeball (Stage 290)',
-		'Wrap Up / Attach Database'
+		" Set-Up and stage 1",
+		"Stage 2 - Brooklyn Files Screen ",
+		"Checkboxes (Stage 235)",
+		"Author Eyeball (Stage 240)",
+		"Subject Eyeball (Stage 244)",
+		"Keyword Eyeball (Stage 246) ",
+		"Campus Eyeball (Stage 248)",
+		"Media Eyeball (Stage 290)",
+		"Wrap Up / Attach Database",
 	];
 </script>
 
-<div class="grid grid-cols-2">
-	<div class="card card-body m-10">
+<div class="">
+	<div class="card card-body mr-10 mt-10">
 		<h5>Borgit Set-up</h5>
 		<hr />
 		<p>
@@ -27,9 +27,9 @@
 		</p>
 		<br />
 		<hr />
-			<h5>Please define the desired Brooklyn file</h5>
+		<h5>Please define the desired Brooklyn file</h5>
 
-        <hr />
+		<hr />
 		<br />
 		<p>
 			<strong>Brooklyn type selection:</strong>
@@ -43,16 +43,11 @@
 			<strong>Select Country:</strong>
 			{$test.country}<br />
 			<strong>Select School Type: </strong>{$test.type} <br />
-			<strong>Set Financial Year Start Date: </strong>{$test.fin_date}<br />
+			<strong>Set Financial Year Start Date: </strong>{$test.fin_date}<br
+			/>
 		</p>
 		<hr />
 	</div>
-
-\
-
-
-
-
 </div>
 
 <style>

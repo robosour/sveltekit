@@ -4,6 +4,7 @@
 	import EmptyForm from './EmptyForm.svelte';
 	import Preparation from './Preparation.svelte';
 	import Permissions from './Permissions.svelte';
+    import EmptyBorgit from './EmptyBorgit.svelte';
 	let a = [
 		' Migrations Schedule - highlight & assign self ',
 		'Print Pre-Migration Form, Purchase Order, etc.',
@@ -20,8 +21,9 @@
         <Permissions></Permissions>
     </div>
 
-	<div>
+	<div class="flex flex-col w-auto">
         
 		<Checklist  />
+		<EmptyBorgit></EmptyBorgit>
 	</div>
 </div>
