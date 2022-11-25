@@ -29,7 +29,7 @@
 				Write on folder (Hosted - School Name - LMS)
 				<label for="" class="ml-10" />
 			</li>
-			<div class="card card-body bg-primary-200">
+			<div class="card card-body bg-primary-200 dark:bg-primary-200 dark:text-black">
 				Make sure that the school's "as sent" folder contains the right files for the LMS type before starting Borgit
 			</div>
 

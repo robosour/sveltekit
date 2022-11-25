@@ -31,7 +31,7 @@
 				<input type="checkbox" bind:checked={$test.borg6} />
 				<label for="" class="ml-10"> Media Eyeball</label>
 			</li>
-            <div class="card card-body bg-primary-200">				
+            <div class="card card-body bg-primary-200 dark:bg-primary-200 dark:text-black">				
 				License the school on Customer Database to continue :)
             
             </div>

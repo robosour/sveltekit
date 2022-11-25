@@ -44,7 +44,7 @@
 				<input type="checkbox" bind:checked={$test.lic3} />
 				<label for="" class="ml-10"> Generate License, double check date</label>
 			</li>
-            <div class="card card-body bg-primary-200">				
+            <div class="card card-body bg-primary-200 dark:bg-primary-200 dark:text-black">				
                 
                 Input the school code on borgit and transfer folder from Migrations to the school's working folder :)
             </div>

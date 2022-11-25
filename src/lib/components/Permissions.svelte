@@ -65,9 +65,12 @@
 				<input type="checkbox" bind:checked={$test.unioncatalogue} />
 				<label for="" class="ml-10"> Union Catalogue - Allow Access</label>
 			</li>
-			<span class=" bg-primary-200 dark:text-black">
+			<div class="card card-body bg-primary-200 dark:bg-primary-200 dark:text-black">				
+                
 				Note: If Brw Sync is enabled, remember to check Has Paid when licensing! :)
-			</span><br />
+
+            </div>
+			<br />
 		</div>
 		<!-- ... -->
 	</ul>

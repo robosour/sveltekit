@@ -42,6 +42,7 @@
 				within Accessit. Any issues will be discussed and clarified with them and once we know what
 				is required, these can be quickly addressed by the Migrations team.
 			</p>
+			<hr>
 
 			{#if hideAmarillo}
 				<p>
