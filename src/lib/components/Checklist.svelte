@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<div class="flex flex-col card card-body  mr-10">
+	<div class="flex flex-col card card-body  mr-10 leading-none">
 		<h3 class="flex justify-center">Preparation Checklist</h3>
 		<hr />
 
@@ -29,9 +29,7 @@
 				Write on folder (Hosted - School Name - LMS)
 				<label for="" class="ml-10" />
 			</li>
-			<div class="card card-body bg-primary-200 dark:bg-primary-200 dark:text-black">
-				Make sure that the school's "as sent" folder contains the right files for the LMS type before starting Borgit
-			</div>
+	
 
 			<!-- ... -->
 		</ul>

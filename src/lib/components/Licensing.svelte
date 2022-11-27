@@ -2,6 +2,7 @@
 	import Checklist from './Checklist.svelte';
 	import { test } from '$lib/stores/localskeletonStore';
 	import Permissions from './Permissions.svelte';
+    import LicPermissions from './LicPermissions.svelte';
 
 	function click() {
 		match_num = license.match(/Number =(.*)/);
@@ -22,8 +23,8 @@
 
 </script>
 
-<div class="grid grid-cols-3">
-    <div class="flex flex-col card card-body  mr-10">
+<div class="grid grid-cols-3 ">
+    <div class="flex flex-col card card-body  mr-10 h-min">
 		<h3 class="flex justify-center">Licensing Checklist</h3>
 		<hr>
 
@@ -57,11 +58,11 @@
 		<Checklist checks={d} title="Licensing Checklist" />
 	</div> -->
     <div>
-        <Permissions></Permissions>
+        <!-- <Permissions></Permissions> -->
+		<LicPermissions></LicPermissions>
     </div>
 	<div class="">
-		<label class="grid justify-center" for="">Paste License here:</label>
-		<textarea class="form-textarea w-11/12  h-96 rounded " bind:value={license} />
+		<textarea class="form-textarea w-11/12  h-96 rounded " placeholder="Paste License Here" bind:value={license} />
 		<button on:click={click} class=" btn btn-ghost-accent w-11/12">Save License</button>
 	</div>
 </div>

@@ -5,6 +5,7 @@
 	import EmptyPrep from '$lib/components/EmptyPrep.svelte';
 	import { test } from '$lib/stores/localskeletonStore';
 	import { Tab, TabGroup } from '@brainandbones/skeleton';
+	import Notes from '$lib/components/Notes.svelte';
 	import { writable, type Writable } from 'svelte/store';
 	// $test.country = ''
 	const storeTab: Writable<string> = writable('a');
@@ -28,6 +29,8 @@
 				<Tab class="w-full justify-center" value="a">Set-Up and Migrate</Tab>
 				<Tab class="w-full justify-center" value="c">Licensing</Tab>
 				<Tab class="w-full justify-center" value="d">Tidy & Deliver</Tab>
+				<Tab class="w-full justify-center" value="p">Notes</Tab>
+
 
 
 				<!-- <Tab class="w-full justify-center" value="c">Tidy</Tab> -->
@@ -37,9 +40,10 @@
 
 	<!-- Conditionally display content -->
 	{#if $storeTab === 'a'}<EmptyPrep></EmptyPrep>{/if}
-	{#if $storeTab === 'c'}<Licensing/>{/if}
+	{#if $storeTab === 'c'}<EmptyBorgit></EmptyBorgit>{/if}
 	{#if $storeTab === 'd'}<EmptyTidy></EmptyTidy>{/if}
 
+	{#if $storeTab === 'p'}<Notes></Notes>{/if}
 
 
 

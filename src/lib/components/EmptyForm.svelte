@@ -100,6 +100,15 @@
             />
         </div>
         <div class="mr-10">
+            <label class="label mt-4 is-inline-flex" for="code">Install date: </label>
+            <input type="text" bind:value={$test.install_date} class="rounded text-pink-500" />
+        </div>
+
+        <div class="mr-10">
+            <label class="label mt-4 is-inline-flex" for="code">Training date: </label>
+            <input type="text" bind:value={$test.training_date} class="rounded text-pink-500" />
+        </div>
+        <div class="mr-10">
             <label class="label mt-4 is-inline-flex" for="code">LMS: </label>
             <input type="text" bind:value={$test.lms} class="rounded text-pink-500" />
         </div>
@@ -109,12 +118,6 @@
                 >Borgit #:
             </label>
             <input type="text" bind:value={$test.borgit} class="rounded text-pink-500" />
-        </div>
-        <div class="mr-10 col-span-2 h-min">
-            <label class="label mt-4 is-inline-flex " for="code"
-                >Notes:
-            </label>
-            <textarea name="" id="" cols="30" rows="10" bind:value={$test.notes}></textarea>
         </div>
 
 

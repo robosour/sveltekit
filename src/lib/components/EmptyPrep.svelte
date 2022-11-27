@@ -24,6 +24,5 @@
 	<div class="flex flex-col w-auto">
         
 		<Checklist  />
-		<EmptyBorgit></EmptyBorgit>
 	</div>
 </div>

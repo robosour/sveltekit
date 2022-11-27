@@ -46,7 +46,7 @@
 </div>
 
 
-<div class="flex flex-col card card-body  mr-10">
+<div class="flex flex-col card card-body  mr-10 leading-none">
     <h3 class="flex justify-center">Tidy Checklist</h3>
     <hr>
 

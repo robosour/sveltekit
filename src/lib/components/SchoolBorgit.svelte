@@ -4,8 +4,12 @@
 	import Checklist from './Checklist.svelte';
 </script>
 
-<div class="flex w-max">
-	<div class="card card-body m-10">
+<div class="flex ">
+	
+	<div class="card card-body m-10 h-min">
+		<div class="card card-body bg-primary-200 dark:bg-primary-200 dark:text-black">
+			Make sure that the school's "as sent" folder contains the right files for the LMS type before starting Borgit
+		</div>
 		<h5>Borgit Set-up</h5>
 		<hr />
 
@@ -23,7 +27,7 @@
 			<strong>Brooklyn type selection:</strong>
 			{$test.country}
 			{$test.type} <br />
-			<strong>ODIN: </strong>	{$test.districtName}
+			<strong>ODIN: </strong>	{$test.country}
 			{$test.type}
 			<br />
 			<strong>Select Country:</strong>

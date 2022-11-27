@@ -27,7 +27,7 @@
         <p>│ ├ {$test.name} Migration Notes.pdf</p>
         <p>│ ├ Collection Usage Report.pdf</p>
         <p>│ ├ Location Usage Report.pdf</p>
-        <p>│ ├ {$test.code}.zip <mark>(goes in clients folder)</mark></p>
+        <p> - {$test.code}.zip <mark>(goes in clients folder)</mark></p>
     </div>
     <div class="card card-body">
         <h3 class="flex justify-center">Delivery Checklist</h3>
@@ -45,17 +45,18 @@
                 </label>
             </li>
             <li>
-                <input type="checkbox" bind:checked={$test.deliver3} />
-                <label for="" class="ml-10">
-                    Check school folder complete</label
-                >
-            </li>
-            <li>
                 <input type="checkbox" bind:checked={$test.deliver4} />
                 <label for="" class="ml-10">
                     Zip School Brooklyns and Cut to clients folder</label
                 >
             </li>
+            <li>
+                <input type="checkbox" bind:checked={$test.deliver3} />
+                <label for="" class="ml-10">
+                    Check school folder complete</label
+                >
+            </li>
+
             <li>
                 <input type="checkbox" bind:checked={$test.deliver5} />
                 <label for="" class="ml-10"> Move school to z -Done</label>
@@ -79,5 +80,22 @@
 
             <!-- ... -->
         </ul>
+        {#if $test.country == ("NZ" ||  "AU" || "Australia" || "AUS")}
+        <div class="space-y-5">
+            <button
+                type="submit"
+                class="btn bg-warning-400 btn-base"
+            >
+                Send Migration Update Email to School?
+            </button><br>
+
+            <button
+                type="submit"
+                class="btn bg-warning-400 btn-base "
+            >
+                Send SCIS Email 3 Days Before Training? ({$test.training_date})</button
+            >
+        </div>
+        {/if}
     </div>
 </main>

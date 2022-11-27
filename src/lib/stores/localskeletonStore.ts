@@ -40,12 +40,20 @@ export let test = writable(get(key), {
     patronT: (''),
     date: (''),
     delete: ('-'),
+    training_date: ('-'),
+    install_date: ('-'),
     // dupCopy=(''),
     // withoutCopy = '',
     pat_all: (''),
     pat_set: (''),
     copy_all: (''),
     copy_set: (''),
+
+    //uk purchaise teirs
+    hop: false,
+    skip: false,
+    jump: false,
+
 
     //licensing
     lic1: false,

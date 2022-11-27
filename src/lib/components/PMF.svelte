@@ -27,7 +27,13 @@
 	<div>
 		<EmptyForm />
 	</div>
-    <div><Permissions></Permissions></div>
+    <div><Permissions></Permissions>
+	    <div >
+
+            <Checklist></Checklist>
+
+        </div></div>
+
 	<div>
 		<h3 class="flex justify-center p-5 border text-black border-dotted bg-amber-200 rounded-xl">
 			Pre-Migration Form
@@ -63,12 +69,9 @@
 				<label class="label mt-4 is-inline-flex" for="code">Delete all By date: </label>
 				<input type="text" bind:value={$test.delete} class="rounded text-pink-500" />
 			</div>
+			
 		</form>
-        <div class="mt-5">
-
-            <Checklist></Checklist>
-
-        </div>
+    
 	</div>
 
 </div>
