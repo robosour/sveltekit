@@ -2,8 +2,6 @@ import { writable } from 'svelte-local-storage-store'
 import { get } from 'svelte/store'
 export var key = writable('key', 'init')
 
-
-
 // First param `preferences` is the local storage key.
 // Second param is the initial value.
 export let test = writable(get(key), {
@@ -12,13 +10,19 @@ export let test = writable(get(key), {
     districtName: "",
     address: (''),
     notes: (''),
+    status: (""),
     training: (''),
     country: (''),
+    url: (''),
     phone: (''),
     code: (''),
+    contact: (''),
+    email: (''),
+    installer: (''),
+    trainer: (''),
     type: (''),
     lms: (''),
-    fin_date: (''),
+    fin_date: Date(),
     patrons: (''),
     patron_bc: (''),
     resources: (''),
@@ -27,7 +31,6 @@ export let test = writable(get(key), {
     on_loan: (''),
     borgit: (''),
     tidy: (''),
-
     dup_pat: (''),
     dup_copy: (''),
     no_copy: (''),
@@ -40,20 +43,18 @@ export let test = writable(get(key), {
     patronT: (''),
     date: (''),
     delete: ('-'),
-    training_date: ('-'),
-    install_date: ('-'),
+    training_date: Date(),
+    install_date: Date() ,
     // dupCopy=(''),
     // withoutCopy = '',
     pat_all: (''),
     pat_set: (''),
     copy_all: (''),
     copy_set: (''),
-
     //uk purchaise teirs
     hop: false,
     skip: false,
     jump: false,
-
 
     //licensing
     lic1: false,
@@ -61,14 +62,11 @@ export let test = writable(get(key), {
     lic3: false,
     lic4: false,
 
-
     //prep checklist
     prep1: false,
     prep2: false,
     prep3: false,
     prep4: false,
-
-
 
     //tidy
     tidy1: false,
@@ -83,17 +81,16 @@ export let test = writable(get(key), {
     tidy10: false,
     tidy11: false,
     tidy12: false,
-
     //delivery checkloist 
-    deliver1:false,
-    deliver2:false,
-    deliver3:false,
-    deliver4:false,
-    deliver5:false,
-    deliver6:false,
-    deliver7:false,
-    deliver8:false,
-
+    deliver1: false,
+    deliver2: false,
+    deliver3: false,
+    deliver4: false,
+    deliver5: false,
+    deliver6: false,
+    deliver7: false,
+    deliver8: false,
+    deliver9: false,
 
     //Patron Barcodes
     pb1: false,
@@ -111,12 +108,8 @@ export let test = writable(get(key), {
     cb8: false,
     cb9: false,
     cb10: false,
-
     cb11: false,
-
     cb12: false,
-
-
 
 
     //borgit checklist
@@ -128,7 +121,6 @@ export let test = writable(get(key), {
     borg6: false,
     borg7: false,
     borg: false,
-
 
     // permissions
     sip2: false,
@@ -146,7 +138,4 @@ export let test = writable(get(key), {
     unioncatalogue: false,
     phone_app: false,
 
-
-
 })
-

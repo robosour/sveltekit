@@ -2,7 +2,6 @@
     import { key } from "$lib/stores/localskeletonStore";
     import { Modal } from "flowbite-svelte";
     let formModal = false;
-
     let formData = { cd: "", slug: "" };
     $: formData.slug = $key
         .toLocaleLowerCase()
@@ -13,18 +12,15 @@
 <button
     on:click={() => (formModal = true)}
     type="submit"
-    class="btn btn-ghost-primary  btn-lg" >+ School Migration</button
+    class="btn btn-ghost-primary  btn-lg">+ School Migration</button
 >
 <Modal bind:open={formModal} size="xs" autoclose={false}>
-    <form class="flex flex-col space-y-6" action="/migration/school/" >
-
+    <form class="flex flex-col space-y-6" action="/migration/school/">
         <h3 class="text-xl font-medium text-gray-900 dark:text-white p-0">
             Start a new School Migration
         </h3>
-
         <label for="cd">School Code:</label>
-		<input size="50" id="cd" type="text" name="cd" bind:value={$key} />
-
+        <input size="50" id="cd" type="text" name="cd" bind:value={$key} />
 
         <button type="submit" class="btn bg-primary-500 btn-base text-white"
             >Begin</button

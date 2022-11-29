@@ -9,7 +9,6 @@
 >
 	Tidy Notes
 </h3>
-
 <div class="grid grid-cols-1 mr-10">
 	<div>
 		<div class="ml-10">
@@ -32,7 +31,6 @@
 			<label for=""># of Lost copies - (CTRL + S)</label>
 			<input type="text" bind:value={$test.lost} />
 		</div>
-
 		<div class="grid grid-cols-3">
 			<div class="ml-10">
 				<br /> <button class="btn btn-ringed-warning">Patrons</button>
@@ -57,12 +55,10 @@
 				<label for="">Sets </label>
 				<input type="text" bind:value={$test.copy_set} />
 			</div>
-
 			<div class="ml-5 space-x-2">
 				<label for="">Total</label>
 				<input type="text" bind:value={$test.copy_all} />
 			</div>
 		</div>
-
 	</div>
 </div>

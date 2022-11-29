@@ -1,5 +1,6 @@
 <script>
     import { test } from "$lib/stores/localskeletonStore";
+    import Email from "./Email.svelte";
 </script>
 
 <main class="grid grid-cols-2 p-5 space-x-7 ">
@@ -27,12 +28,12 @@
         <p>│ ├ {$test.name} Migration Notes.pdf</p>
         <p>│ ├ Collection Usage Report.pdf</p>
         <p>│ ├ Location Usage Report.pdf</p>
-        <p> - {$test.code}.zip <mark>(goes in clients folder)</mark></p>
+        <p>- {$test.code}.zip <mark>(goes in clients folder)</mark></p>
     </div>
+
     <div class="card card-body">
         <h3 class="flex justify-center">Delivery Checklist</h3>
         <hr />
-
         <ul class="list">
             <li>
                 <input type="checkbox" bind:checked={$test.deliver1} />
@@ -56,7 +57,6 @@
                     Check school folder complete</label
                 >
             </li>
-
             <li>
                 <input type="checkbox" bind:checked={$test.deliver5} />
                 <label for="" class="ml-10"> Move school to z -Done</label>
@@ -67,35 +67,33 @@
                     Update Migrations Spreadsheet, Cut row and Move to bottom</label
                 >
             </li>
-            <li>
-                <input type="checkbox" bind:checked={$test.deliver7} />
-                <label for="" class="ml-10">
-                    Upload report files to Sharepoint</label
-                >
-            </li>
+            {#if $test.country == "AU" || $test.country == "NZ"}
+                <li>
+                    <input type="checkbox" bind:checked={$test.deliver7} />
+                    <label for="" class="ml-10">
+                        Send email with attached reports</label
+                    >
+                </li>
+                <li>
+                    <input type="checkbox" bind:checked={$test.deliver9} />
+                    <label for="" class="ml-10"> Send SCIS Email</label>
+                </li>
+                <!-- content here -->
+            {:else}
+                <!-- else content here -->
+                <li>
+                    <input type="checkbox" bind:checked={$test.deliver7} />
+                    <label for="" class="ml-10">
+                        Upload report files to Sharepoint</label
+                    >
+                </li>
+            {/if}
             <li>
                 <input type="checkbox" bind:checked={$test.deliver8} />
                 <label for="" class="ml-10"> Post in Teams</label>
             </li>
-
             <!-- ... -->
         </ul>
-        {#if $test.country == ("NZ" ||  "AU" || "Australia" || "AUS")}
-        <div class="space-y-5">
-            <button
-                type="submit"
-                class="btn bg-warning-400 btn-base"
-            >
-                Send Migration Update Email to School?
-            </button><br>
 
-            <button
-                type="submit"
-                class="btn bg-warning-400 btn-base "
-            >
-                Send SCIS Email 3 Days Before Training? ({$test.training_date})</button
-            >
-        </div>
-        {/if}
     </div>
 </main>

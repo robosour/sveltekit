@@ -5,7 +5,6 @@
 <div class="flex flex-col card card-body  mr-10 ">
 	<h3 class="flex justify-center">Permissions</h3>
 	<hr />
-
 	<ul class="list">
 		<div class="flex leading-none">
 			<div class="leading-none">
@@ -29,7 +28,6 @@
 					<input type="checkbox" bind:checked={$test.brwsync} />
 					<label for="" class="ml-10"> Borrower Sync</label>
 				</li>
-
 				<li>
 					<input type="checkbox" bind:checked={$test.biometrics} />
 					<label for="" class="ml-10"> Biometrics</label>
@@ -81,14 +79,11 @@
 					<label for="" class="ml-10"> Union Catalogue</label>
 				</li>
 			</div>
-	
 		</div>
 		<hr />
 
-
 		<div class="flex ">
 			{#if $test.country == ("UK" || "uk")}
-			
 				<li>
 					<input type="checkbox" bind:checked={$test.hop} />
 					<label for="" class="ml-10"> Hop</label>
