@@ -1,10 +1,8 @@
 <script lang="ts">
 	import Permissions from "./Permissions.svelte";
 	import { test, key } from "$lib/stores/localskeletonStore";
-
 	let data: string = ""; //pasted row from district spreadsheet
 	$: list = data.split("\t");
-
 	function load() {
 		// $test.code = $key
 		$test.name = list[5];

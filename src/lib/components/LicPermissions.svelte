@@ -27,7 +27,7 @@
         >
             Hop
         </div>
-   {/if}
+    {/if}
     {#if $test.skip}
         <div
             class="card card-body bg-warning-200 dark:bg-warning-200 dark:text-black"
@@ -35,7 +35,7 @@
             Skip
         </div>
         <!-- content here -->
-      {/if}
+    {/if}
     {#if $test.jump}
         <div
             class="card card-body bg-warning-200 dark:bg-warning-200 dark:text-black"
@@ -43,76 +43,62 @@
             Jump
         </div>
         <!-- content here -->
-     {/if}
+    {/if}
     <hr />
-
     {#if $test.sip2}
-        <br>+ SIP2
+        <br />+ SIP2
         <!-- content here -->
         <br />{/if}
-
     {#if $test.sms}
-        <br>+ SMS
+        <br />+ SMS
         <!-- content here -->
         <br />{/if}
-
     {#if $test.ldap}
-        <br>+ AD/LDAP
+        <br />+ AD/LDAP
         <!-- content here -->
         <br />{/if}
-
     {#if $test.sso}
-        <br>+ SSO
+        <br />+ SSO
         <!-- content here -->
         <br />{/if}
-
     {#if $test.brwsync}
-        <br>+ Borrower Sync
+        <br />+ Borrower Sync
         <!-- content here -->
         <br />{/if}
-
     {#if $test.biometrics}
-        <br>+ Biometrics
+        <br />+ Biometrics
         <!-- content here -->
         <br />{/if}
-
     {#if $test.ar}
-        <br>+ Accelerated Reader
+        <br />+ Accelerated Reader
         <!-- content here -->
         <br />{/if}
-
     {#if $test.fingerprint}
-        <br>+ Fingerprint Support
+        <br />+ Fingerprint Support
         <!-- content here -->
         <br />{/if}
-
     {#if $test.autocomplete_lite}
-        <br>+ Auto-Complete Lite
+        <br />+ Auto-Complete Lite
         <!-- content here -->
         <br />{/if}
-
     {#if $test.autocomplete_full}
-        <br>+ Auto-Complete Full
+        <br />+ Auto-Complete Full
         <!-- content here -->
         <br />{/if}
-
     {#if $test.anonbrwHistory}
-        <br>+ Anonymise Borrower History
+        <br />+ Anonymise Borrower History
         <!-- content here -->
         <br />{/if}
-
     {#if $test.phone_app}
-        <br>+ Phone App
+        <br />+ Phone App
         <!-- content here -->
         <br />{/if}
-
     {#if $test.kiosk}
-        <br>+ Kiosk App
+        <br />+ Kiosk App
         <!-- content here -->
         <br />{/if}
-
     {#if $test.unioncatalogue}
-        <br>+ Union Catalogue
+        <br />+ Union Catalogue
         <!-- content here -->
         <br />{/if}
     {#if $test.brwsync}
