@@ -1,9 +1,12 @@
 <script>
+    import Notes from "./Notes.svelte";
     import { test } from "$lib/stores/localskeletonStore";
     import Checklist from "./Checklist.svelte";
     import CopyBac from "./CopyBac.svelte";
     import PatBac from "./PatBac.svelte";
     import TidyForm from "./TidyForm.svelte";
+
+    let x = $test.license.split("\n");
 </script>
 
 <div class="grid grid-cols-3">
@@ -21,8 +24,33 @@
                     <span>&#128222;</span>
                     <span class="flex-auto">{$test.phone}</span>
                 </li>
+                <li>
+                    <span class="flex-auto"
+                        >https://na.accessit.online/{$test.code}</span
+                    >
+                </li>
+                <li>
+                    <span class="flex-auto">{x[1]}</span>
+                </li>
+                <li>
+                    <span class="flex-auto">{x[2]}</span>
+                </li>
+                <li>
+                    <span class="flex-auto">{x[3]}</span>
+                </li>
+                <li>
+                    <span class="flex-auto">{x[4]}</span>
+                </li>
+
                 <!-- ... -->
             </ul>
+            <hr />
+
+            <p>{$test.name} Migration Notes</p>
+
+            <p>Collection Usage Report</p>
+
+            <p>Location Usage Report</p>
         </div>
         <div class="grid grid-cols-2">
             <div>

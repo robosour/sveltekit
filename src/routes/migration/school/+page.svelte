@@ -10,6 +10,7 @@
 	import Deliver from "$lib/components/Deliver.svelte";
 	import MigNotesBase from "$lib/components/MigNotesBase.svelte";
 	import Email from "$lib/components/Email.svelte";
+	import FriendAdder from "$lib/components/FriendAdder.svelte";
 	// $test.country = '';
 	const storeTab: Writable<string> = writable("a");
 </script>
@@ -23,7 +24,7 @@
 		<FriendAdder></FriendAdder>
 	</div>
 		<h2 class=" flex font-sans justify-center mt-10 ">
-			{$test.name} - {$test.code}
+			{$test.code} - {$test.name} - {$test.lms}
 		</h2>
 		<br />
 	</div>

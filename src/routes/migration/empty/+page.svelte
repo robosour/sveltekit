@@ -7,6 +7,8 @@
 	import { Tab, TabGroup } from "@brainandbones/skeleton";
 	import Notes from "$lib/components/Notes.svelte";
 	import { writable, type Writable } from "svelte/store";
+	import FriendAdder from "$lib/components/FriendAdder.svelte";
+	
 	// $test.country = ''
 	const storeTab: Writable<string> = writable("a");
 </script>
@@ -20,7 +22,7 @@
 		<FriendAdder></FriendAdder>
 	</div>
 		<h2 class=" flex font-sans justify-center mt-10 ">
-			{$test.name} - {$test.code}
+			{$test.code} - {$test.name} - {$test.lms}
 		</h2>
 		<br />
 	</div>
@@ -34,7 +36,6 @@
 				<Tab class="w-full justify-center" value="c">Licensing</Tab>
 				<Tab class="w-full justify-center" value="d">Tidy & Deliver</Tab
 				>
-				<Tab class="w-full justify-center" value="p">Notes</Tab>
 
 				<!-- <Tab class="w-full justify-center" value="c">Tidy</Tab> -->
 			</div>

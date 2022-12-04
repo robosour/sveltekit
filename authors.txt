@@ -1,0 +1,2807 @@
+true	Boo, Sweeney.,	Boo, Sweeney.	suggested
+true	Douyé, Sylvia,	Douyé, Sylvia	suggested
+true	Heineman, William Joseph	Heineman, William Joseph	suggested
+true	Ewing, Eve L,	Ewing, Eve L	suggested
+true	Harold L. Shoen, 1986 yearbook editor	Harold L. Shoen, 1986 yearbook editor	suggested
+true	Hiroto Wada,	Hiroto Wada	suggested
+true	Fraioli, James O.,	Fraioli, James O.	suggested
+true	2 Entertain Firm	2 Entertain Firm	suggested
+true	ed. by Jess Stein and Stuart Berg Flexner	ed. by Jess Stein and Stuart Berg Flexner	suggested
+true	Max Brallier,	Max Brallier	suggested
+true	Kao.,	Kao.	suggested
+true	Rodr̕guez, Ana Mar̕a	Rodr̕guez, Ana Mar̕a	suggested
+true	Sally Regan,	Sally Regan	suggested
+true	Duncan, Emily A.,	Duncan, Emily A.	suggested
+true	Fleischman, John,	Fleischman, John	suggested
+true	Henderson, Helene,	Henderson, Helene	suggested
+true	compiled by Kenneth E. Easterday, Loren L. Henry, F. Morgan Simpson	compiled by Kenneth E. Easterday, Loren L. Henry, F. Morgan Simpson	suggested
+true	Murrow, Edward R. and Friendly, Fred W	Murrow, Edward R. and Friendly, Fred W	suggested
+true	Moore, David Barclay,	Moore, David Barclay	suggested
+true	Noble, Diana J.,	Noble, Diana J.	suggested
+true	Peters, Tom and Townsend, Robert	Peters, Tom and Townsend, Robert	suggested
+true	Helquist, Brett, ill	Helquist, Brett, ill	suggested
+true	Santat, Dan, ill	Santat, Dan, ill	suggested
+true	Brothers, Deborah E	Brothers, Deborah E	suggested
+true	Kirk, Ruth M.,	Kirk, Ruth M.	suggested
+true	paintings by Bill Farnsworth	paintings by Bill Farnsworth	suggested
+true	Manuel Rivas,	Manuel Rivas	suggested
+true	Lilley, Stephen R.,	Lilley, Stephen R.	suggested
+true	Charles, Tami,	Charles, Tami	suggested
+true	Emboss,	Emboss	suggested
+true	Shinya, Shima.,	Shinya, Shima.	suggested
+true	Harriet Muncaster,	Harriet Muncaster	suggested
+true	Heard, Steven and John T. Davis	Heard, Steven and John T. Davis	suggested
+true	Melchior-Durand, Stéphane,	Melchior-Durand, Stéphane	suggested
+true	Bednar, Chuck,	Bednar, Chuck	suggested
+true	Ryan, Pam Muñoz,	Ryan, Pam Muñoz	suggested
+true	Stephanek, Mattie J.T	Stephanek, Mattie J.T	suggested
+true	Petry, Ann,	Petry, Ann	suggested
+true	Matsui, Yūsei,	Matsui, Yūsei	suggested
+true	Sylvester, Natalia.,	Sylvester, Natalia.	suggested
+true	de la Peña, Matt,	de la Peña, Matt	suggested
+true	Sylvester, Basil.,	Sylvester, Basil.	suggested
+true	Chandler, Rachel,	Chandler, Rachel	suggested
+true	Marshall, Joseph,	Marshall, Joseph	suggested
+true	Baker, Brynn,	Baker, Brynn	suggested
+true	edited by] Linda Silvey, James R. Smart	edited by] Linda Silvey, James R. Smart	suggested
+true	Mutň, Burleigh	Mutň, Burleigh	suggested
+true	Braden, Ann,	Braden, Ann	suggested
+true	Ryan, Pam Muǫz	Ryan, Pam Muǫz	suggested
+true	Pérez, Celia C.,	Pérez, Celia C.	suggested
+true	May, W. J	May, W. J	suggested
+true	selected by X.J. Kennedy and Dorothy Kennedy	selected by X.J. Kennedy and Dorothy Kennedy	suggested
+true	Cruz, B̀rbara	Cruz, B̀rbara	suggested
+true	Walter & Louise Simonson,	Walter & Louise Simonson	suggested
+true	Carson, Robert,	Carson, Robert	suggested
+true	Jimňez, Francisco,	Jimňez, Francisco	suggested
+true	Herǹndez, Jo Ann Yolanda	Herǹndez, Jo Ann Yolanda	suggested
+true	Hiro Maijima,	Hiro Maijima	suggested
+true	Robert Hauptman, Susan Hubbs Motin, editors	Robert Hauptman, Susan Hubbs Motin, editors	suggested
+true	Bernardo, Anil︢	Bernardo, Anil︢	suggested
+true	edited by Mary Winston	edited by Mary Winston	suggested
+true	Adam & Makana Wallenta,	Adam & Makana Wallenta	suggested
+true	Russell, Rachel Renée,	Russell, Rachel Renée	suggested
+true	Punch 21	Punch 21	suggested
+true	Shinobumaru,	Shinobumaru	suggested
+true	Maz Kanata,	Maz Kanata	suggested
+true	Shammas, Nadia.,	Shammas, Nadia.	suggested
+true	V.E. Schwab,	V.E. Schwab	suggested
+true	Ruths, Mitali Banerjee,	Ruths, Mitali Banerjee	suggested
+true	Nelson, George S	Nelson, George S	suggested
+true	Simmons, Bertie A	Simmons, Bertie A	suggested
+true	Guzmán, Lila,	Guzmán, Lila	suggested
+true	@Radical.media Firm	@Radical.media Firm	suggested
+true	Cazenove y William	Cazenove y William	suggested
+true	Benoist, Melissa.,	Benoist, Melissa.	suggested
+true	Samuel C. Brownstein	Samuel C. Brownstein	suggested
+true	Reid Banks, Lynne,	Reid Banks, Lynne	suggested
+true	Skottie Young,	Skottie Young	suggested
+true	Willis, Maggie Edkins	Willis, Maggie Edkins	suggested
+true	Sıdwestrundfunk Germany	Sıdwestrundfunk Germany	suggested
+true	Scholz, Matthias Paul	Scholz, Matthias Paul	suggested
+true	Olney, Ross Robert,	Olney, Ross Robert	suggested
+true	Preston, Daryl W	Preston, Daryl W	suggested
+true	Ito, Junji.,	Ito, Junji.	suggested
+true	Marilyn J. Zweng, general yearbook editor	Marilyn J. Zweng, general yearbook editor	suggested
+true	Camper, Cathy,	Camper, Cathy	suggested
+true	Clfiton Middle School	Clfiton Middle School	suggested
+true	DeLonge, Tom.,	DeLonge, Tom.	suggested
+true	Hubbard, Rita Lorraine.,	Hubbard, Rita Lorraine.	suggested
+true	introduction by Alvin M. Josephy, Jr	introduction by Alvin M. Josephy, Jr	suggested
+true	Tchaikovsky, Peter Illyich	Tchaikovsky, Peter Illyich	suggested
+true	Russell, Charles W	Russell, Charles W	suggested
+true	[Julie L. Carnagie, editor	[Julie L. Carnagie, editor	suggested
+true	S̕s, Peter,	S̕s, Peter	suggested
+true	Williams, Kidada E	Williams, Kidada E	suggested
+true	Feathers, Beka.,	Feathers, Beka.	suggested
+true	Lê, Minh,	Lê, Minh	suggested
+true	Garc̕a, Cristina,	Garc̕a, Cristina	suggested
+true	Brusca, Mar̕a Cristina, ill	Brusca, Mar̕a Cristina, ill	suggested
+true	Kanare, Howard M,	Kanare, Howard M	suggested
+true	Kye, Sŭng-hŭi	Kye, Sŭng-hŭi	suggested
+true	Lee, Yoon Ha.,	Lee, Yoon Ha.	suggested
+true	Foudy, Julie,	Foudy, Julie	suggested
+true	illustrated by Joan Holub	illustrated by Joan Holub	suggested
+true	Brown, Jr., H. Jackson and Spizman, Robyn	Brown, Jr., H. Jackson and Spizman, Robyn	suggested
+true	Guzm̀n, Lila,	Guzm̀n, Lila	suggested
+true	Murphy, Dennis Stuart	Murphy, Dennis Stuart	suggested
+true	Newell, Sydney B	Newell, Sydney B	suggested
+true	Roy, Jennifer.,	Roy, Jennifer.	suggested
+true	edited by Aggie Vinik, Linda Silvey, Barnabas Hughes	edited by Aggie Vinik, Linda Silvey, Barnabas Hughes	suggested
+true	Jason Fry,	Jason Fry	suggested
+true	Salomon, Nadia.,	Salomon, Nadia.	suggested
+true	Endō, Tatsuya,	Endō, Tatsuya	suggested
+true	by Jim Hargrove	by Jim Hargrove	suggested
+true	illustrated by Jane Dyer	illustrated by Jane Dyer	suggested
+true	Routh, Juď Lee	Routh, Juď Lee	suggested
+true	David B. Guralnik, editor in chief emeritus	David B. Guralnik, editor in chief emeritus	suggested
+true	Tasuki Fujimoto,	Tasuki Fujimoto	suggested
+true	Truffaut, François	Truffaut, François	suggested
+true	Barrington, Richard,	Barrington, Richard	suggested
+true	Saldaą, Reň	Saldaą, Reň	suggested
+true	Schmitt, Adam P.,	Schmitt, Adam P.	suggested
+true	completely rev. by Denis Girard, with the assistance of Gaston Dulong, Oliver Van Oss, and Charles Guinness	completely rev. by Denis Girard, with the assistance of Gaston Dulong, Oliver Van Oss, and Charles Guinness	suggested
+true	Hernandez, Carlos Alberto Pablo,	Hernandez, Carlos Alberto Pablo	suggested
+true	Shofner, Melissa Raé,	Shofner, Melissa Raé	suggested
+true	Clara Cunha,	Clara Cunha	suggested
+true	Yuto Suzuki,	Yuto Suzuki	suggested
+true	Clark, Zack Loran,	Clark, Zack Loran	suggested
+true	Alston, B. B.,	Alston, B. B.	suggested
+true	edited] by E.L. Thorndike, Clarence L. Barnhart	edited] by E.L. Thorndike, Clarence L. Barnhart	suggested
+true	Owens, Tom,	Owens, Tom	suggested
+true	Weber, Jennifer L.,	Weber, Jennifer L.	suggested
+true	Patterson, Još	Patterson, Još	suggested
+true	Dugan, Jennifer.,	Dugan, Jennifer.	suggested
+true	Burt, Jake.,	Burt, Jake.	suggested
+true	Schneider, Beth B	Schneider, Beth B	suggested
+true	Bush, Charles A.,	Bush, Charles A.	suggested
+true	Demuth, Patricia,	Demuth, Patricia	suggested
+true	Watson, Renée,	Watson, Renée	suggested
+true	Tur, Miriam Bonastre,	Tur, Miriam Bonastre	suggested
+true	Keuss, Jeff and Lia Sloth	Keuss, Jeff and Lia Sloth	suggested
+true	Miller, Robert H,	Miller, Robert H	suggested
+true	Escabasse, Sophie.,	Escabasse, Sophie.	suggested
+true	Hickam, Homer H., 1943	Hickam, Homer H., 1943	suggested
+true	Casad, Dede W.,	Casad, Dede W.	suggested
+true	Souter, Janet and Gerry Souter	Souter, Janet and Gerry Souter	suggested
+true	Boyce, Jo Ann Allen,	Boyce, Jo Ann Allen	suggested
+true	Davidson & Associates	Davidson & Associates	suggested
+true	Rice, James,	Rice, James	suggested
+true	Raúl the Third,	Raúl the Third	suggested
+true	general editors, William B. Kessel, Robert Wooster	general editors, William B. Kessel, Robert Wooster	suggested
+true	edited by Lesley Brown	edited by Lesley Brown	suggested
+true	Miin,	Miin	suggested
+true	Polg̀r, Zsuzsa, 1969	Polg̀r, Zsuzsa, 1969	suggested
+true	Higson, Charlie & Kev Walker	Higson, Charlie & Kev Walker	suggested
+true	Mary Montgomery Lindquist, 1987 Yearbook editor	Mary Montgomery Lindquist, 1987 Yearbook editor	suggested
+true	Cazenove y William,	Cazenove y William	suggested
+true	Gilbert, Sheri L	Gilbert, Sheri L	suggested
+true	Baker, Jenifer M	Baker, Jenifer M	suggested
+true	Conor McCreery,	Conor McCreery	suggested
+true	selected and edited by Jane Yolen	selected and edited by Jane Yolen	suggested
+true	Paris, Stephanie Herweck,	Paris, Stephanie Herweck	suggested
+true	Sho Aimoto,	Sho Aimoto	suggested
+true	Phillips, Margaret Coull	Phillips, Margaret Coull	suggested
+true	Valenti, Karla Arenas.,	Valenti, Karla Arenas.	suggested
+true	Ortega, Claribel A.,	Ortega, Claribel A.	suggested
+true	Obreg̤n, Još Mar̕a,	Obreg̤n, Još Mar̕a	suggested
+true	Moreno-Hinojosa, Herǹn	Moreno-Hinojosa, Herǹn	suggested
+true	Grau, Andrě	Grau, Andrě	suggested
+true	text by David Hurst Thomas ... [et al.]	text by David Hurst Thomas .. [et al.]	suggested
+true	Hilton, Marilyn,	Hilton, Marilyn	suggested
+true	Brewer, Zac,	Brewer, Zac	suggested
+true	Thompson, Linda,	Thompson, Linda	suggested
+true	Raine, Carolyn H	Raine, Carolyn H	suggested
+true	Ōba, Tsugumi	Ōba, Tsugumi	suggested
+true	Clark, Arthur A	Clark, Arthur A	suggested
+true	Schraff, Anne E.,	Schraff, Anne E.	suggested
+true	Bisantz, Kate,	Bisantz, Kate	suggested
+true	Arthur B. Ellis ... [et al	Arthur B. Ellis .. [et al	suggested
+true	Tabata, Yūki,	Tabata, Yūki	suggested
+true	S4C Firm	S4C Firm	suggested
+true	Codell, Esmß Raji,	Codell, Esmß Raji	suggested
+true	Davis, Donald D,	Davis, Donald D	suggested
+true	Eva Millet,	Eva Millet	suggested
+true	Peters, Edward I	Peters, Edward I	suggested
+true	Latos, Alexandra.,	Latos, Alexandra.	suggested
+true	Cink, Lorraine,	Cink, Lorraine	suggested
+true	Skottie Young & Nick Kocher,	Skottie Young & Nick Kocher	suggested
+true	Melchior-Durand, Stephane,	Melchior-Durand, Stephane	suggested
+true	selected and annotated by] Catherine Clinton	selected and annotated by] Catherine Clinton	suggested
+true	edited by Betty Ballantine, Ian Ballantine	edited by Betty Ballantine, Ian Ballantine	suggested
+true	edited by] Elaine Landau	edited by] Elaine Landau	suggested
+true	Padilla Peralta, Dan-el,	Padilla Peralta, Dan-el	suggested
+true	Fyvie, Erica,	Fyvie, Erica	suggested
+true	Chung, Arree,	Chung, Arree	suggested
+true	Hayden Robel,	Hayden Robel	suggested
+true	Stewart, Robert ,Ph.D., Clint Twist, and Edward Horton	Stewart, Robert ,Ph.D., Clint Twist, and Edward Horton	suggested
+true	Hansen, John C.,	Hansen, John C.	suggested
+true	Kate, Nancy,	Kate, Nancy	modified
+true	Lindell, Suzanne	Lindell, Suzanne	modified
+true	Chandler, Lawrence	Chandler, Lawrence	modified
+true	Holzhaus, P.G	Holzhaus, PG	modified
+true	McCoy, David B	McCoy, David B	modified
+true	Singer, Irma	Singer, Irma	modified
+true	Mao, Casey,	Mao, Casey	modified
+true	McKenzie, Pamela Walker,	McKenzie, Pamela Walker	modified
+true	Sill, Cathryn P,	Sill, Cathryn P	modified
+true	Owens, Shandra	Owens, Shandra	modified
+true	Triumph Learning, LLC	Triumph Learning, Llc	modified
+true	Marks, Johnny, 1909-1985	Marks, Johnny, 1909-1985	modified
+true	Martz, David	Martz, David	modified
+true	Rodríguez, Patty,	Rodríguez, Patty	modified
+true	Ferraro, Bonnie	Ferraro, Bonnie	modified
+true	Artinian, Zareh MacPherson	Artinian, Zareh MacPherson	modified
+true	Jake, Linda	Jake, Linda	modified
+true	Marino Walters, Jennifer,	Marino Walters, Jennifer	modified
+true	Hudson, Finn	Hudson, Finn	modified
+true	French, Amy,	French, Amy	modified
+true	Robinson, Elizabeth Keeler,	Robinson, Elizabeth Keeler	modified
+true	Dana, Liz,	Dana, Liz	modified
+true	Montgomery, Judy K,	Montgomery, Judy K	modified
+true	Baker, Maryann	Baker, Maryann	modified
+true	Denenberg, Dennis,	Denenberg, Dennis	modified
+true	Francis, Stan	Francis, Stan	modified
+true	Flowers, Luke,	Flowers, Luke	modified
+true	Gabrysch, Kelly T	Gabrysch, Kelly T	modified
+true	Snow, Ruth	Snow, Ruth	modified
+true	Harlan, Bart	Harlan, Bart	modified
+true	Gaitán, Carolina, 1984	Gaitán, Carolina, 1984	modified
+true	Kriner, Jeffrey	Kriner, Jeffrey	modified
+true	Penny, Cathleen	Penny, Cathleen	modified
+true	Loren, Josephina	Loren, Josephina	modified
+true	Diaz, Joanne Ruelos,	Diaz, Joanne Ruelos	modified
+true	Milne, A. A. Alan Alexander, 1882-1956	Milne, A A Alan Alexander, 1882-1956	modified
+true	Simons, Lisa M. Bolt,	Simons, Lisa M Bolt	modified
+true	Velde Vande, Vivian	Velde Vande, Vivian	modified
+true	Michaels, Ben	Michaels, Ben	modified
+true	Leikam, Eric	Leikam, Eric	modified
+true	Caf̌ Productions Ltd	Caf̌ Productions Ltd	modified
+true	Michelle, Charlotte	Michelle, Charlotte	modified
+true	Your Baby Can Firm	Your Baby Can Firm	modified
+true	Coverly, Dave,	Coverly, Dave	modified
+true	Thor, Asta	Thor, Asta	modified
+true	Stone, Julian	Stone, Julian	modified
+true	Persio, Ellen	Persio, Ellen	modified
+true	Killoran, Ariana,	Killoran, Ariana	modified
+true	Nielsen, Aubrie	Nielsen, Aubrie	modified
+true	Hensley, Ryan	Hensley, Ryan	modified
+true	Guerra, Anthony	Guerra, Anthony	modified
+true	Cohen, Stephanie	Cohen, Stephanie	modified
+true	Smithling, C. F	Smithling, C F	modified
+true	Mulhall, Jill	Mulhall, Jill	modified
+true	Crawford, Nury Castillo	Crawford, Nury Castillo	modified
+true	Churchill, Jackie	Churchill, Jackie	modified
+true	Cerier, Laura	Cerier, Laura	modified
+true	Katz Cooper, Sharon,	Katz Cooper, Sharon	modified
+true	Bleiman, Andrew,	Bleiman, Andrew	modified
+true	Byrne, Valentina,	Byrne, Valentina	modified
+true	Terrapin, Blaise	Terrapin, Blaise	modified
+true	Alvarez, Melanie	Alvarez, Melanie	modified
+true	Jagadorn, Sienna	Jagadorn, Sienna	modified
+true	Mao, Casey	Mao, Casey	modified
+true	Dwier, Barbara	Dwier, Barbara	modified
+true	Goodtimes Home Video	Goodtimes Home Video	modified
+true	Tan, Richard,	Tan, Richard	modified
+true	Fog City Press	Fog City Press	modified
+true	McWilliams, Eileen	McWilliams, Eileen	modified
+true	Regier, DeMar,	Regier, Demar	modified
+true	Kotkin, Carlos	Kotkin, Carlos	modified
+true	Fogelberg, Rachel	Fogelberg, Rachel	modified
+true	Minkoff, Marilyn	Minkoff, Marilyn	modified
+true	Gábor, Eva, 1921	Gábor, Eva, 1921	modified
+true	Fahey, Grace	Fahey, Grace	modified
+true	Nguyen, Jay	Nguyen, Jay	modified
+true	Edwards, Knute	Edwards, Knute	modified
+true	Renwick, Ian D	Renwick, Ian D	modified
+true	Fauce, Stephanie,	Fauce, Stephanie	modified
+true	Egan, Bob	Egan, Bob	modified
+true	Carey, Jennifer Davis,	Carey, Jennifer Davis	modified
+true	Dumont, Jean-François,	Dumont, Jean-François	modified
+true	May, Robert Lewis, 1905	May, Robert Lewis, 1905	modified
+true	Zhu, Ruby,	Zhu, Ruby	modified
+true	L. A. Goal Social services agency	L A Goal Social Services Agency	modified
+true	Scully, Dee	Scully, Dee	modified
+true	Montoya, Rosa	Montoya, Rosa	modified
+true	Deal, Sandra D.,	Deal, Sandra D	modified
+true	Miller, Sharee,	Miller, Sharee	modified
+true	Weinberg, Jennifer,	Weinberg, Jennifer	modified
+true	Ericson, Emma,	Ericson, Emma	modified
+true	McDonald, Laura	McDonald, Laura	modified
+true	Hebert, Trey	Hebert, Trey	modified
+true	Pelé,	Pelé	modified
+true	Gerard, Emily Beth	Gerard, Emily Beth	modified
+true	Anderson, Bruce, Film producer	Anderson, Bruce, Film Producer	modified
+true	Tucker, Stanley,	Tucker, Stanley	modified
+true	Tripp, Natalie	Tripp, Natalie	modified
+true	Sigue, Stephanie	Sigue, Stephanie	modified
+true	Heron, Henry E.,	Heron, Henry E	modified
+true	Stroud, Helen	Stroud, Helen	modified
+true	Mazza, Aria Nicoletta	Mazza, Aria Nicoletta	modified
+true	Barneveld, Erik	Barneveld, Erik	modified
+true	Sixt, Jan,	Sixt, Jan	modified
+true	Santos, Philippe	Santos, Philippe	modified
+true	Kimble, Erika	Kimble, Erika	modified
+true	Shannon, David, 1959	Shannon, David, 1959	modified
+true	Dodson, Barbara	Dodson, Barbara	modified
+true	Rivas, Rocio	Rivas, Rocio	modified
+true	Phillips, Ruby Ann,	Phillips, Ruby Ann	modified
+true	Bliss, James	Bliss, James	modified
+true	Ryan, Pam Muñoz,	Ryan, Pam Muñoz	modified
+true	Alvarado, Ana María	Alvarado, Ana María	modified
+true	Cuff, Marcie Chambers	Cuff, Marcie Chambers	modified
+true	Marks, Lorenzo	Marks, Lorenzo	modified
+true	Johnson, Etta	Johnson, Etta	modified
+true	Gréban, Quentin,	Gréban, Quentin	modified
+true	Kells, Deanne,	Kells, Deanne	modified
+true	Archer, Reese	Archer, Reese	modified
+true	Gabriel, Luke	Gabriel, Luke	modified
+true	Samuels, Sarah,	Samuels, Sarah	modified
+true	Stratton, Phoebe,	Stratton, Phoebe	modified
+true	Nowicki, David	Nowicki, David	modified
+true	Cortese, Ted	Cortese, Ted	modified
+true	Hasbro, Inc	Hasbro, Inc	modified
+true	Andersen, H. C. 1805-1875., [videorecording]	Andersen, H C 1805-1875, [Videorecording]	modified
+true	McNamara, Noelle	McNamara, Noelle	modified
+true	Bellavia, Rebecca	Bellavia, Rebecca	modified
+true	Haynes, Clarence A.,	Haynes, Clarence A	modified
+true	Moore, Lacey	Moore, Lacey	modified
+true	Castro Smith, Charise	Castro Smith, Charise	modified
+true	Marie, Lynne	Marie, Lynne	modified
+true	Garcia, Christian	Garcia, Christian	modified
+true	Press, J.,	Press, J	modified
+true	Jasperse, Gloria	Jasperse, Gloria	modified
+true	Silver, Diane G	Silver, Diane G	modified
+true	De La Guardia, Sabrine	De La Guardia, Sabrine	modified
+true	Russell, Rachel Renée,	Russell, Rachel Renée	modified
+true	Luce, Kelli	Luce, Kelli	modified
+true	Berkow, Danielle	Berkow, Danielle	modified
+true	Andrieu, Kalynn L	Andrieu, Kalynn L	modified
+true	Bank, Max	Bank, Max	modified
+true	Violich, Craig	Violich, Craig	modified
+true	Booth, Daphne	Booth, Daphne	modified
+true	Cruz, Rita	Cruz, Rita	modified
+true	Fenner, Matthew,	Fenner, Matthew	modified
+true	Ledu, Stéphanie	Ledu, Stéphanie	modified
+true	Shannon, Catherine M	Shannon, Catherine M	modified
+true	Murrray, Aaron R	Murrray, Aaron R	modified
+true	Teachers College Reading and Writing Project Columbia University	Teachers College Reading And Writing Project Columbia University	modified
+true	Yoder, Keith	Yoder, Keith	modified
+true	Wilson, Abby	Wilson, Abby	modified
+true	Gordon, Ralph	Gordon, Ralph	modified
+true	Obach, Riley	Obach, Riley	modified
+true	Smithe, Liz	Smithe, Liz	modified
+true	Coots, J. Fred, 1897-1985	Coots, J Fred, 1897-1985	modified
+true	Conway, Sommer,	Conway, Sommer	modified
+true	Comodromos, Eliza	Comodromos, Eliza	modified
+true	Atwater, Nico	Atwater, Nico	modified
+true	Pershing, Kate	Pershing, Kate	modified
+true	Samson, Darnell,	Samson, Darnell	modified
+true	McFadden, Bob	McFadden, Bob	modified
+true	Lemke, Amy	Lemke, Amy	modified
+true	Bautista Rojas, Carlos,	Bautista Rojas, Carlos	modified
+true	Saldanha, Carlos, 1965	Saldanha, Carlos, 1965	modified
+true	Reading Safari U.S	Reading Safari US	modified
+true	Kopp, Kathleen,	Kopp, Kathleen	modified
+true	Rhodes, Roberta Pantal	Rhodes, Roberta Pantal	modified
+true	Deren, Anna	Deren, Anna	modified
+true	Demuth, Patricia,	Demuth, Patricia	modified
+true	McDonnell, Ginger,	McDonnell, Ginger	modified
+true	Crawford, Lena	Crawford, Lena	modified
+true	O'Connell, Sanjida, 1970	O'Connell, Sanjida, 1970	modified
+true	Avery, Logan,	Avery, Logan	modified
+true	Cone, Hannah	Cone, Hannah	modified
+true	Canadian Wildlife Federation	Canadian Wildlife Federation	modified
+true	Takman, Ann	Takman, Ann	modified
+true	Murano, Carl	Murano, Carl	modified
+true	Lee, Cory	Lee, Cory	modified
+true	Sorrell, Christi E	Sorrell, Christi E	modified
+true	Lamb, Jenny,	Lamb, Jenny	modified
+true	Chain, Barbara	Chain, Barbara	modified
+true	Moore, Jordan,	Moore, Jordan	modified
+true	Austin, Joanna	Austin, Joanna	modified
+true	Kenney, Karen,	Kenney, Karen	modified
+true	Passe, Shannon	Passe, Shannon	modified
+true	Shaw, Steve Hamliton	Shaw, Steve Hamliton	modified
+true	Harris, Gwen,	Harris, Gwen	modified
+true	Murphy, Alexa	Murphy, Alexa	modified
+true	Klayman, Neil Steven,	Klayman, Neil Steven	modified
+true	Wrinkle, Stacy	Wrinkle, Stacy	modified
+true	Guerrero, Diane, 1986	Guerrero, Diane, 1986	modified
+true	Moss, Shelly	Moss, Shelly	modified
+true	Arnold, Marsha Diane,	Arnold, Marsha Diane	modified
+true	Stavetski, Barbara	Stavetski, Barbara	modified
+true	González, Jorge,	González, Jorge	modified
+true	Shava, Ryder,	Shava, Ryder	modified
+true	Lucas, Matt, 1974	Lucas, Matt, 1974	modified
+true	Marina, A. K	Marina, A K	modified
+true	Diaz, Tomas	Diaz, Tomas	modified
+true	Mahut, Sandra,	Mahut, Sandra	modified
+true	Kentshill, Susan	Kentshill, Susan	modified
+true	Alston, B. B.,	Alston, B B	modified
+true	Lakritz, Deborah,	Lakritz, Deborah	modified
+true	Dominguez, Angela,	Dominguez, Angela	modified
+true	Kelso, Vera	Kelso, Vera	modified
+true	Vassos, Paul,	Vassos, Paul	modified
+true	Wallis, Quvenzhané,	Wallis, Quvenzhané	modified
+true	Harper, Gavin	Harper, Gavin	modified
+true	Evelyn, Ada,	Evelyn, Ada	modified
+true	Martin, Bobi.,	Martin, Bobi	modified
+true	Milne, Stephanie	Milne, Stephanie	modified
+true	Greenblatt, Sela	Greenblatt, Sela	modified
+true	Colozza, L. M	Colozza, L M	modified
+true	Ortega, Claribel A.,	Ortega, Claribel A	modified
+true	Alves, Josh, ill	Alves, Josh, Ill	modified
+true	Ray, Kenyetta	Ray, Kenyetta	modified
+true	Dash, Meredity	Dash, Meredity	modified
+true	Duke, Shriley	Duke, Shriley	modified
+true	Gillespie, Haven, 1888-1975	Gillespie, Haven, 1888-1975	modified
+true	Desmond, Carl	Desmond, Carl	modified
+true	Henry, Sabrina N	Henry, Sabrina N	modified
+true	Grout, Beth Jenkins	Grout, Beth Jenkins	modified
+true	Baumann, Susan	Baumann, Susan	modified
+true	McCann, Pat	McCann, Pat	modified
+true	Carter, Denzel T	Carter, Denzel T	modified
+true	Tucker, Marianne, ill	Tucker, Marianne, Ill	modified
+true	Dufresne, Michèle,	Dufresne, Michèle	modified
+true	Imagine Television Firm	Imagine Television Firm	modified
+true	Rustad, Martha,	Rustad, Martha	modified
+true	Mueller, Heath	Mueller, Heath	modified
+true	Teagarden, Lilly	Teagarden, Lilly	modified
+true	diMartini, Carmella	Dimartini, Carmella	modified
+true	Paxton, Maureen	Paxton, Maureen	modified
+true	Henslowe, Raymond	Henslowe, Raymond	modified
+true	Thompson, Pam Marie	Thompson, Pam Marie	modified
+true	Gentry-Ederer, Karen	Gentry-Ederer, Karen	modified
+true	Mazza, Lisa Chesters,	Mazza, Lisa Chesters	modified
+true	Tessier, Caitlin	Tessier, Caitlin	modified
+true	California Association of Professors of Educational Administration	California Association Of Professors Of Educational Administration	modified
+true	Kavicky, Emily	Kavicky, Emily	modified
+true	Baddeley, Hermione, 1908-1986	Baddeley, Hermione, 1908-1986	modified
+true	George, Thomas,	George, Thomas	modified
+true	Ronson, Samantha	Ronson, Samantha	modified
+true	Allen, Rex, 1924	Allen, Rex, 1924	modified
+true	Cabot-Conyers, Ravi	Cabot-Conyers, Ravi	modified
+true	Frank Schaffer Publications	Frank Schaffer Publications	modified
+true	Manolis, Kay,	Manolis, Kay	modified
+true	Dodd, Samuel	Dodd, Samuel	modified
+true	Scieszkas, Jon	Scieszkas, Jon	modified
+true	Paris, Stephanie Herweck,	Paris, Stephanie Herweck	modified
+true	Nicoletta, Aria,	Nicoletta, Aria	modified
+true	Geister-Jones, Sophie,	Geister-Jones, Sophie	modified
+true	Crisp, Dan, ill	Crisp, Dan, Ill	modified
+true	Martinez, Manuel	Martinez, Manuel	modified
+true	Sherman, Richard M, 1928	Sherman, Richard M, 1928	modified
+true	Joyce, William, 1957	Joyce, William, 1957	modified
+true	Chabert, Jack,	Chabert, Jack	modified
+true	Tabb, Patricia	Tabb, Patricia	modified
+true	Jameson, Brendan	Jameson, Brendan	modified
+true	Brennan, Joseph Killorin	Brennan, Joseph Killorin	modified
+true	Beach, Michelle,	Beach, Michelle	modified
+true	Botero, María Cecilia, 1955	Botero, María Cecilia, 1955	modified
+true	Letera, Jackie	Letera, Jackie	modified
+true	Alpern, Julie	Alpern, Julie	modified
+true	Terasawa, Miki	Terasawa, Miki	modified
+true	Dancing Bear, Belinda	Dancing Bear, Belinda	modified
+true	Martin, Dayna,	Martin, Dayna	modified
+true	Mackenzie, Amy Allen	MacKenzie, Amy Allen	modified
+true	Lewis, Kathryn E	Lewis, Kathryn E	modified
+true	García Bernal, Gael, 1978	García Bernal, Gael, 1978	modified
+true	Durham, Ruth	Durham, Ruth	modified
+true	McKim, Dorothy	McKim, Dorothy	modified
+true	Kilodavis, Cheryl,	Kilodavis, Cheryl	modified
+true	Bynum, Betty K.,	Bynum, Betty K	modified
+true	Báez, Angela	Báez, Angela	modified
+true	Feliz, Rhenzy, 1997	Feliz, Rhenzy, 1997	modified
+true	Svec, Wendy,	Svec, Wendy	modified
+true	Watson, Donna	Watson, Donna	modified
+true	Cornhill, Solly,	Cornhill, Solly	modified
+true	Powell, Ella	Powell, Ella	modified
+true	Zhu, Ruby	Zhu, Ruby	modified
+true	Panec, D. J.,	Panec, D J	modified
+true	Howe, Annie,	Howe, Annie	modified
+true	Beasley, Kate,	Beasley, Kate	modified
+true	Kay, Jill	Kay, Jill	modified
+true	Monroe, Lulu	Monroe, Lulu	modified
+true	St. Ephan, Susan,	St Ephan, Susan	modified
+true	Roemer, Larry	Roemer, Larry	modified
+true	Rocket Pictures Beverly Hills, Calif	Rocket Pictures Beverly Hills, Calif	modified
+true	Bower, Mary Alice	Bower, Mary Alice	modified
+true	Marlow, Linda	Marlow, Linda	modified
+true	Wright, Wesley.,	Wright, Wesley	modified
+true	Randell, Beverley, 1931	Randell, Beverley, 1931	modified
+true	Carmichael, Brad	Carmichael, Brad	modified
+true	Colby, Jennifer,	Colby, Jennifer	modified
+true	Nelid, Piper	Nelid, Piper	modified
+true	Flores, Carolyn Dee	Flores, Carolyn Dee	modified
+true	Gilbert, J. J	Gilbert, J J	modified
+true	Raúf, Onjali Q.,	Raúf, Onjali Q	modified
+true	Miller, Dean,	Miller, Dean	modified
+true	Alperen, Julie	Alperen, Julie	modified
+true	Adams, Barbara V	Adams, Barbara V	modified
+true	Earle, Erin,	Earle, Erin	modified
+true	Klein, Adria F. Adria Fay	Klein, Adria F Adria Fay	modified
+true	Lehtimäki, Vesa	Lehtimäki, Vesa	modified
+true	Hitner, Harry	Hitner, Harry	modified
+true	Barzdukas, Vidas	Barzdukas, Vidas	modified
+true	Flowerpot Press	Flowerpot Press	modified
+true	Kirby, Nell	Kirby, Nell	modified
+true	Corkin, Tania	Corkin, Tania	modified
+true	Conklin, Melissa	Conklin, Melissa	modified
+true	McGrath, Barbara B.,	McGrath, Barbara B	modified
+true	Herrmann, Agnes	Herrmann, Agnes	modified
+true	Vietro, Lee	Vietro, Lee	modified
+true	Leo Feist, Inc	Leo Feist, Inc	modified
+true	Fanning, Krista	Fanning, Krista	modified
+true	Melvin, Jerry	Melvin, Jerry	modified
+true	Stall, Julie	Stall, Julie	modified
+true	Ted Cortese	Ted Cortese	modified
+true	Cotler, Stephen L.,	Cotler, Stephen L	modified
+true	Hardy, Will	Hardy, Will	modified
+true	Ryan, Evelyn	Ryan, Evelyn	modified
+true	White, E. B 1899	White, E B 1899	modified
+true	Griffin, Maria	Griffin, Maria	modified
+true	Davis, Katherine, 1892-1980	Davis, Katherine, 1892-1980	modified
+true	Janikian, Areka	Janikian, Areka	modified
+true	Conklin, Blance	Conklin, Blance	modified
+true	Ciocchi, Catherine	Ciocchi, Catherine	modified
+true	Fredericks, Nora	Fredericks, Nora	modified
+true	Klein, Adria F./ Gallagher-Cole, Mernie ILT	Klein, Adria F/ Gallagher-Cole, Mernie Ilt	modified
+true	Mack, Aaron	MacK, Aaron	modified
+true	Saldaña, René,	Saldaña, René	modified
+true	González, Karina Nicole,	González, Karina Nicole	modified
+true	Edwin, David,	Edwin, David	modified
+true	Triumph Learning	Triumph Learning	modified
+true	Northrup, Mary,	Northrup, Mary	modified
+true	Dufresne, Michéle	Dufresne, Michéle	modified
+true	Santos, Ricardo	Santos, Ricardo	modified
+true	Little, Rachel,	Little, Rachel	modified
+true	Richter, Marie	Richter, Marie	modified
+true	Lee, Jackie	Lee, Jackie	modified
+true	Ellis, Roman,	Ellis, Roman	modified
+true	Katze, Micah	Katze, Micah	modified
+true	Baker, Cindy	Baker, Cindy	modified
+true	Joven, C. C.,	Joven, C C	modified
+true	Larson, Kirsten W.,	Larson, Kirsten W	modified
+true	Rock 'N Learn	Rock 'n Learn	modified
+true	Brown, Jesse	Brown, Jesse	modified
+true	Eaton, Maxwell,	Eaton, Maxwell	modified
+true	Regallo, Gus	Regallo, Gus	modified
+true	Lewis, Natalie	Lewis, Natalie	modified
+true	Keith, Robert	Keith, Robert	modified
+true	Ernesto, Lilly	Ernesto, Lilly	modified
+true	Warner, Dennis	Warner, Dennis	modified
+true	Vogt, John	Vogt, John	modified
+true	Lamb, Harvey	Lamb, Harvey	modified
+true	Britt, Paige,	Britt, Paige	modified
+true	Rothbardt, Karen J	Rothbardt, Karen J	modified
+true	Kirchner, Jason	Kirchner, Jason	modified
+true	Playtone Firm	Playtone Firm	modified
+true	LaBaff, Stephanie,	Labaff, Stephanie	modified
+true	Jaworowicz, Grace	Jaworowicz, Grace	modified
+true	Black, Emiliano Bermejo	Black, Emiliano Bermejo	modified
+true	Quilty, Jessica	Quilty, Jessica	modified
+true	Wells, Howard	Wells, Howard	modified
+true	Wiener Sängerknaben	Wiener Sängerknaben	modified
+true	Shamsi, Shirin,	Shamsi, Shirin	modified
+true	Hyde, Madeline,	Hyde, Madeline	modified
+true	WGBH Boston Video	Wgbh Boston Video	modified
+true	Michael, Sarah,	Michael, Sarah	modified
+true	Siegel, Jaye,	Siegel, Jaye	modified
+true	Chévere, Celenia	Chévere, Celenia	modified
+true	Castillo, Mauro, 1978	Castillo, Mauro, 1978	modified
+true	Kleiner, Arthur	Kleiner, Arthur	modified
+true	Holland, Ilona E	Holland, Ilona E	modified
+true	Sheldon-Dean, Hannah,	Sheldon-Dean, Hannah	modified
+true	Johansen, Eduard	Johansen, Eduard	modified
+true	Powers, Adrian	Powers, Adrian	modified
+true	Flaherty, Susannah	Flaherty, Susannah	modified
+true	Parra Sr , Angelo M	Parra Sr , Angelo M	modified
+true	Evans, Chenille	Evans, Chenille	modified
+true	Knight, Casey	Knight, Casey	modified
+true	Holmes, Parker,	Holmes, Parker	modified
+true	Spunter, Bill,	Spunter, Bill	modified
+true	Vigoda, Abe, 1921	Vigoda, Abe, 1921	modified
+true	Richert, Catherine	Richert, Catherine	modified
+true	Christie, Peter,	Christie, Peter	modified
+true	Broucek, Margaret	Broucek, Margaret	modified
+true	Mann, Larry D., 1922	Mann, Larry D, 1922	modified
+true	Allen, Nancy,	Allen, Nancy	modified
+true	Bayard Canada	Bayard Canada	modified
+true	Bruneau, LeeAnn	Bruneau, Leeann	modified
+true	Molina, Concepcion,	Molina, Concepcion	modified
+true	Asbjørnsen, Peter Christen,	Asbjørnsen, Peter Christen	modified
+true	Johnson, R. Kikuo,	Johnson, R Kikuo	modified
+true	Sanchez, C.M	Sanchez, CM	modified
+true	Jennings, Terry Catasus,	Jennings, Terry Catasus	modified
+true	Ungaro, Ellen	Ungaro, Ellen	modified
+true	Gleisner, Jeanna Lee	Gleisner, Jeanna Lee	modified
+true	Chesterfield, Jayson,	Chesterfield, Jayson	modified
+true	Koolloori, Eva,	Koolloori, Eva	modified
+true	Dowd, Nancy	Dowd, Nancy	modified
+true	Jude, Riley,	Jude, Riley	modified
+true	Smith, Dalton,	Smith, Dalton	modified
+true	Stark, Ryan	Stark, Ryan	modified
+true	Aurora Productions	Aurora Productions	modified
+true	Nash, Julia	Nash, Julia	modified
+true	Magill, Elizabeth 1971	Magill, Elizabeth 1971	modified
+true	Davis, Natalie	Davis, Natalie	modified
+true	Victor, Renée	Victor, Renée	modified
+true	Beebe, Daniel	Beebe, Daniel	modified
+true	Jacobs, Dawn	Jacobs, Dawn	modified
+true	Child's Play Firm	Child's Play Firm	modified
+true	Ulinski, Michael	Ulinski, Michael	modified
+true	Kidd, Ron	Kidd, Ron	modified
+true	Sibbing, Phyllis, Armelie	Sibbing, Phyllis, Armelie	modified
+true	Allen, Diane	Allen, Diane	modified
+true	Tempkin, Javier	Tempkin, Javier	modified
+true	O'Brien, Annie,	O'Brien, Annie	modified
+true	Ayers, Linda	Ayers, Linda	modified
+true	Rios, Gloria	Rios, Gloria	modified
+true	Davis, Stephan	Davis, Stephan	modified
+true	Isaacs Senzell, Sally	Isaacs Senzell, Sally	modified
+true	Kuhl, Molly	Kuhl, Molly	modified
+true	Johnson, Beth A.,	Johnson, Beth A	modified
+true	Nelid, Piper,	Nelid, Piper	modified
+true	Vassos, Paul	Vassos, Paul	modified
+true	Kaminski, Mary	Kaminski, Mary	modified
+true	Hendricks, Diana	Hendricks, Diana	modified
+true	Sánchez Korrol, Virginia,	Sánchez Korrol, Virginia	modified
+true	Hartman, Mary Dell	Hartman, Mary Dell	modified
+true	Berda, Chryste L.,	Berda, Chryste L	modified
+true	Craft, Jane,	Craft, Jane	modified
+true	Keogh, Josie,	Keogh, Josie	modified
+true	Court, Kimberly,	Court, Kimberly	modified
+true	Panico, Missy	Panico, Missy	modified
+true	Rock 'N Learn Firm	Rock 'n Learn Firm	modified
+true	Easton, Carly	Easton, Carly	modified
+true	Kirk, Deana	Kirk, Deana	modified
+true	Samson, Darnell	Samson, Darnell	modified
+true	Martin, Iris	Martin, Iris	modified
+true	Díaz Rivas, Miguel	Díaz Rivas, Miguel	modified
+true	United Artists Ltd	United Artists Ltd	modified
+true	McCann, Pat,	McCann, Pat	modified
+true	Fonda, Marie	Fonda, Marie	modified
+true	Robert Mack Productions	Robert MacK Productions	modified
+true	Kentor, Sandra,	Kentor, Sandra	modified
+true	Souby, Anne,	Souby, Anne	modified
+true	Miranda, Lin-Manuel, 1980	Miranda, Lin-Manuel, 1980	modified
+true	Jones, Joe	Jones, Joe	modified
+true	Howe, Annie	Howe, Annie	modified
+true	Karsten, Dylan,	Karsten, Dylan	modified
+true	Shepherd, Zeke	Shepherd, Zeke	modified
+true	Bush, Jared, 1974	Bush, Jared, 1974	modified
+true	Morgan, Allen, 1946	Morgan, Allen, 1946	modified
+true	Bernstein, Jon	Bernstein, Jon	modified
+true	The Parent Institute	The Parent Institute	modified
+true	Deenihan, Jamie L. B.,	Deenihan, Jamie L B	modified
+true	Crow, Mindy	Crow, Mindy	modified
+true	Larson, Carl	Larson, Carl	modified
+true	Carlson, Naomi	Carlson, Naomi	modified
+true	Ferrer, José, 1912-1992	Ferrer, José, 1912-1992	modified
+true	Stratton, Phoebe	Stratton, Phoebe	modified
+true	Barkley, Callie,	Barkley, Callie	modified
+true	Levitow, Abe	Levitow, Abe	modified
+true	Manrique, María Eugenia,	Manrique, María Eugenia	modified
+true	James, Jesse,	James, Jesse	modified
+true	Collingsworth, Blake	Collingsworth, Blake	modified
+true	Family Channel	Family Channel	modified
+true	Ramsey, Logan	Ramsey, Logan	modified
+true	Malone, Gavin	Malone, Gavin	modified
+true	Benoit, David	Benoit, David	modified
+true	Koenig, Jenaya	Koenig, Jenaya	modified
+true	Mohr, Carole	Mohr, Carole	modified
+true	Kentcorn, S.J,	Kentcorn, SJ	modified
+true	Jenks, Wendy Roh	Jenks, Wendy Roh	modified
+true	Turner, Katherine,	Turner, Katherine	modified
+true	Cruz, Joanna	Cruz, Joanna	modified
+true	Brissette, Jim	Brissette, Jim	modified
+true	Donner, Erica,	Donner, Erica	modified
+true	Maurer, Daniel D	Maurer, Daniel D	modified
+true	Trifer, Jen	Trifer, Jen	modified
+true	Overend Prior, Jennifer,	Overend Prior, Jennifer	modified
+true	Davis, Scottie	Davis, Scottie	modified
+true	Strand, Jennifer,	Strand, Jennifer	modified
+true	Sciarrino, Stephanie	Sciarrino, Stephanie	modified
+true	McArthur, Marcus,	McArthur, Marcus	modified
+true	Barnes, Iris J.,	Barnes, Iris J	modified
+true	Griffin, Sasha	Griffin, Sasha	modified
+true	Booth, Jack, 1946	Booth, Jack, 1946	modified
+true	Wright, Myles	Wright, Myles	modified
+true	Crawford, Castillo Nury	Crawford, Castillo Nury	modified
+true	Parks, Jesse,	Parks, Jesse	modified
+true	Hedlund, Stephanie,	Hedlund, Stephanie	modified
+true	Godfrey, Neal S	Godfrey, Neal S	modified
+true	Vurnakes, Claudia,	Vurnakes, Claudia	modified
+true	Rigby Education Firm	Rigby Education Firm	modified
+true	Berube, Kate,	Berube, Kate	modified
+true	Neiley, Dani,	Neiley, Dani	modified
+true	Burnell, Heather Ayris,	Burnell, Heather Ayris	modified
+true	Kincaid, Mary	Kincaid, Mary	modified
+true	Allen, Diane,	Allen, Diane	modified
+true	Jackson, Richelle	Jackson, Richelle	modified
+true	Pinkerton, Daniel	Pinkerton, Daniel	modified
+true	Fletcher, Sheila,	Fletcher, Sheila	modified
+true	Ortiz, Raquel M	Ortiz, Raquel M	modified
+true	Cocca, Lisa	Cocca, Lisa	modified
+true	Hester, Elizabeth,	Hester, Elizabeth	modified
+true	Kirk, Alina,	Kirk, Alina	modified
+true	Ragno, Nancy Nickell	Ragno, Nancy Nickell	modified
+true	Kim, Flora	Kim, Flora	modified
+true	Phillipe, Monica	Phillipe, Monica	modified
+true	Smythe, Katie,	Smythe, Katie	modified
+true	Mancilla, Eric	Mancilla, Eric	modified
+true	Dannon, Bob	Dannon, Bob	modified
+true	Hutter, Carollyne	Hutter, Carollyne	modified
+true	Curriculum Associates, Inc	Curriculum Associates, Inc	modified
+true	Kelley, C	Kelley, C	modified
+true	Rossiter, Max,	Rossiter, Max	modified
+true	Bettin, Val	Bettin, Val	modified
+true	Perez, Celia C.,	Perez, Celia C	modified
+true	Kaba, Mariame,	Kaba, Mariame	modified
+true	Bell, Kristen,	Bell, Kristen	modified
+true	McDonald, Luke	McDonald, Luke	modified
+true	Anthony, David Henry,	Anthony, David Henry	modified
+true	Medley, Steven P.,	Medley, Steven P	modified
+true	Cepeda, Angie, 1974	Cepeda, Angie, 1974	modified
+true	Sweeney, Diane,	Sweeney, Diane	modified
+true	Washington, Venus,	Washington, Venus	modified
+true	Karanja, Caroline,	Karanja, Caroline	modified
+true	Liu, Evan	Liu, Evan	modified
+true	Hauss, Sandra	Hauss, Sandra	modified
+true	Mars, Bruno, 1985	Mars, Bruno, 1985	modified
+true	Robinson, Larry, 1929	Robinson, Larry, 1929	modified
+true	McCune, Susan	McCune, Susan	modified
+true	Lordi, Catherine	Lordi, Catherine	modified
+true	Silvie, Monica,	Silvie, Monica	modified
+true	Kopo, Norma	Kopo, Norma	modified
+true	Thomas, Danny	Thomas, Danny	modified
+true	Valderrama, Wilmer, 1980	Valderrama, Wilmer, 1980	modified
+true	Lawrence, Trina,	Lawrence, Trina	modified
+true	Corn, Leslie	Corn, Leslie	modified
+true	Sudduth, Brent H,	Sudduth, Brent H	modified
+true	Shea, Bobby	Shea, Bobby	modified
+true	Chung, Arree,	Chung, Arree	modified
+true	Blane and DeRosa Productions	Blane And Derosa Productions	modified
+true	Watkins, Adam F.,	Watkins, Adam F	modified
+true	Bloodworth, Baker	Bloodworth, Baker	modified
+true	Springer, Kate,	Springer, Kate	modified
+true	Burke, Erin	Burke, Erin	modified
+true	Reed, Gordon J	Reed, Gordon J	modified
+true	Willman, Lisa	Willman, Lisa	modified
+true	Silver, Julie	Silver, Julie	modified
+true	Engelbreit, Mary, ill	Engelbreit, Mary, Ill	modified
+true	Oachs, Emily Rose,	Oachs, Emily Rose	modified
+true	Taylor, Olivia	Taylor, Olivia	modified
+true	Rodgers, Randy	Rodgers, Randy	modified
+true	Falcon, Michael	Falcon, Michael	modified
+true	Neal, Rie,	Neal, Rie	modified
+true	Kate, Nancy	Kate, Nancy	modified
+true	Lau, Susan	Lau, Susan	modified
+true	Ozckus, Lori	Ozckus, Lori	modified
+true	Dempski, Seth	Dempski, Seth	modified
+true	Mitchell, Rachel	Mitchell, Rachel	modified
+true	McPherson, Stephanie S	McPherson, Stephanie S	modified
+true	Court, Alvin	Court, Alvin	modified
+true	Sakayama, Bob	Sakayama, Bob	modified
+true	Johns, Natalie K	Johns, Natalie K	modified
+true	Mayer, Philip	Mayer, Philip	modified
+true	Teton, Linda	Teton, Linda	modified
+true	Monroe, Nathan	Monroe, Nathan	modified
+true	Collins, Kathy,	Collins, Kathy	modified
+true	Snyder, Serena,	Snyder, Serena	modified
+true	Halket, Amy Levin,	Halket, Amy Levin	modified
+true	O'Donnell, Claudea	O'Donnell, Claudea	modified
+true	Sloth, Ryan	Sloth, Ryan	modified
+true	Gorman, Jaqueline Laks,	Gorman, Jaqueline Laks	modified
+true	Dean, Dennis,	Dean, Dennis	modified
+true	Weingartner, Amy E	Weingartner, Amy E	modified
+true	Johnson, Sandra	Johnson, Sandra	modified
+true	Schlichte, Jody,	Schlichte, Jody	modified
+true	Pollatschek, Susanne	Pollatschek, Susanne	modified
+true	Hartman, Elizabeth, 1941-1987	Hartman, Elizabeth, 1941-1987	modified
+true	Lunney, Lisa	Lunney, Lisa	modified
+true	Holloway, Lauren,	Holloway, Lauren	modified
+true	Anderson, Moria	Anderson, Moria	modified
+true	McGovern, Kate L	McGovern, Kate L	modified
+true	Gómez, Ana,	Gómez, Ana	modified
+true	Neyman, Boris	Neyman, Boris	modified
+true	Zacks, Anne	Zacks, Anne	modified
+true	Indovino, Shaina,	Indovino, Shaina	modified
+true	Clark, Donna Schmeltekopk	Clark, Donna Schmeltekopk	modified
+true	Meier, Anna,	Meier, Anna	modified
+true	Burwasser, Daniel A	Burwasser, Daniel A	modified
+true	Bendix, Mary	Bendix, Mary	modified
+true	Lin, Amy Hsu,	Lin, Amy Hsu	modified
+true	Byrne, Valentina	Byrne, Valentina	modified
+true	Styne, Jule, 1905-1994	Styne, Jule, 1905-1994	modified
+true	Wilson, Rachel M.,	Wilson, Rachel M	modified
+true	Abramson, Jill,	Abramson, Jill	modified
+true	Luyken, Corinna,	Luyken, Corinna	modified
+true	Bauman, Leslie	Bauman, Leslie	modified
+true	Doeck, Maryann	Doeck, Maryann	modified
+true	Barnes, Joan Iris,	Barnes, Joan Iris	modified
+true	Bryant, Jennifer,	Bryant, Jennifer	modified
+true	Mondo Publishing U.S	Mondo Publishing US	modified
+true	de la Peña, Matt,	De La Peña, Matt	modified
+true	McCunney, Michelle	McCunney, Michelle	modified
+true	Bruno, Frankie	Bruno, Frankie	modified
+true	Samuels, Sarah	Samuels, Sarah	modified
+true	Franklin, Maya,	Franklin, Maya	modified
+true	Walters, Abby,	Walters, Abby	modified
+true	Svec, Wendy	Svec, Wendy	modified
+true	Shull, Ira	Shull, Ira	modified
+true	Bradshaw, Cody	Bradshaw, Cody	modified
+true	Cappacio, George	Cappacio, George	modified
+true	Spevack, Judy	Spevack, Judy	modified
+true	Greene, Lila,	Greene, Lila	modified
+true	Anderson, Karin,	Anderson, Karin	modified
+true	Sis, Peter, illustrator	Sis, Peter, Illustrator	modified
+true	UPA Pictures	Upa Pictures	modified
+true	Hicer, Nancy,	Hicer, Nancy	modified
+true	Sirota, Lyn,	Sirota, Lyn	modified
+true	Lawrence, Elizabeth,	Lawrence, Elizabeth	modified
+true	DeCicco, Avery,	Decicco, Avery	modified
+true	Byrne, Eileen,	Byrne, Eileen	modified
+true	Kolloori, Eva,	Kolloori, Eva	modified
+true	Birney, Betty G.,	Birney, Betty G	modified
+true	Dosier, Susan,	Dosier, Susan	modified
+true	Nouvion, Judith,	Nouvion, Judith	modified
+true	Méndez, Yamile Saied,	Méndez, Yamile Saied	modified
+true	Richards, Sharon	Richards, Sharon	modified
+true	Brannon, Barbara	Brannon, Barbara	modified
+true	Calson, Christine M	Calson, Christine M	modified
+true	Christinson, Jan	Christinson, Jan	modified
+true	Claire, Linda,	Claire, Linda	modified
+true	Butz, Stephen D	Butz, Stephen D	modified
+true	Van Allen, Leo,	Van Allen, Leo	modified
+true	Derosier, M Michelle,	Derosier, M Michelle	modified
+true	Ames, Ed	Ames, Ed	modified
+true	Pernick, Gary	Pernick, Gary	modified
+true	Halloran, Anna	Halloran, Anna	modified
+true	Lloyd, Megan Wagner,	Lloyd, Megan Wagner	modified
+true	Tichbourne, Amy,	Tichbourne, Amy	modified
+true	McElroy, Joan	McElroy, Joan	modified
+true	Paul, Liza	Paul, Liza	modified
+true	Mattison, Ruth,	Mattison, Ruth	modified
+true	Jake, Linda,	Jake, Linda	modified
+true	Laurelia, Emily de	Laurelia, Emily De	modified
+true	Graham, Caleb	Graham, Caleb	modified
+true	Petersen, Kathleen C. Null	Petersen, Kathleen C Null	modified
+true	Burach, Ross,	Burach, Ross	modified
+true	Allen, Kayleigh	Allen, Kayleigh	modified
+true	Waterhouse, Lucy,	Waterhouse, Lucy	modified
+true	Alvarez, Rosa	Alvarez, Rosa	modified
+true	Baldwin, Ellen	Baldwin, Ellen	modified
+true	Claassen, Christina	Claassen, Christina	modified
+true	Lau, David	Lau, David	modified
+true	Fox, Roxane	Fox, Roxane	modified
+true	Van Horn, Katrina	Van Horn, Katrina	modified
+true	Stein, Rachael	Stein, Rachael	modified
+true	Fitch, Amber	Fitch, Amber	modified
+true	Albermarle, Rufus	Albermarle, Rufus	modified
+true	Warkulwiz, Beverly	Warkulwiz, Beverly	modified
+true	King, Emiliya,	King, Emiliya	modified
+true	Medrick, Jo	Medrick, Jo	modified
+true	Farber, Rachel	Farber, Rachel	modified
+true	Rawley, Pauline	Rawley, Pauline	modified
+true	Finn, Anne	Finn, Anne	modified
+true	Leach, Sara,	Leach, Sara	modified
+true	Noble, Sofia	Noble, Sofia	modified
+true	Cervantes, Jesús	Cervantes, Jesús	modified
+true	Charles, Dagney	Charles, Dagney	modified
+true	Treml, Renée,	Treml, Renée	modified
+true	Beaton, Kathryn,	Beaton, Kathryn	modified
+true	Galligan, Gale,	Galligan, Gale	modified
+true	Byrd, Josiah	Byrd, Josiah	modified
+true	Wallace, Nancy K.,	Wallace, Nancy K	modified
+true	Hesper, Sam,	Hesper, Sam	modified
+true	Nadler, Jill	Nadler, Jill	modified
+true	Jenskins, Tyrese	Jenskins, Tyrese	modified
+true	Pucci, Toni	Pucci, Toni	modified
+true	Burkholder, Margaret	Burkholder, Margaret	modified
+true	Villano, Danielle	Villano, Danielle	modified
+true	Lichten, Betty,	Lichten, Betty	modified
+true	Lipsett, Will	Lipsett, Will	modified
+true	Profiri, Charline,	Profiri, Charline	modified
+true	Bright, Robert, 1902	Bright, Robert, 1902	modified
+true	Beasley, Ava	Beasley, Ava	modified
+true	Holly, Bill	Holly, Bill	modified
+true	Café Productions Ltd	Café Productions Ltd	modified
+true	Hernandez, Carlos Alberto Pablo,	Hernandez, Carlos Alberto Pablo	modified
+true	Corcorane, Ann,	Corcorane, Ann	modified
+true	Slike, Janet,	Slike, Janet	modified
+true	Kentor, Sondra,	Kentor, Sondra	modified
+true	Kemp, Kristin	Kemp, Kristin	modified
+true	Clark-Edmands, Sheila	Clark-Edmands, Sheila	modified
+true	Hall, Hannah C.,	Hall, Hannah C	modified
+true	Stewart, Kyle,	Stewart, Kyle	modified
+true	Olmsted, Michelle	Olmsted, Michelle	modified
+true	Scavatto, Mario	Scavatto, Mario	modified
+true	Brenston, Robin	Brenston, Robin	modified
+true	Harris, Gwen	Harris, Gwen	modified
+true	Riley, Elliot,	Riley, Elliot	modified
+true	Finnigan, Sean,	Finnigan, Sean	modified
+true	Blackmon, Clarissa	Blackmon, Clarissa	modified
+true	Matos, Rebecca	Matos, Rebecca	modified
+true	Kruse, Nancy, 1965	Kruse, Nancy, 1965	modified
+true	Necko, Carolyn	Necko, Carolyn	modified
+true	Brass, Caroline	Brass, Caroline	modified
+true	Brookes, Rachel W	Brookes, Rachel W	modified
+true	Farina, Katy,	Farina, Katy	modified
+true	D'Anna, Cindy	D'Anna, Cindy	modified
+true	Sussman, Michael B.,	Sussman, Michael B	modified
+true	Kazar, Alan	Kazar, Alan	modified
+true	Merideth, Susan,	Merideth, Susan	modified
+true	Hanson, Dorothy	Hanson, Dorothy	modified
+true	Adassa	Adassa	modified
+true	Lost Charge	Lost Charge	modified
+true	Hargrove, Isadora	Hargrove, Isadora	modified
+true	De Wolfe, Billy, 1907-1974	De Wolfe, Billy, 1907-1974	modified
+true	Foster, K. L	Foster, K L	modified
+true	Brand, Dionne,	Brand, Dionne	modified
+true	Harasymiw, Mark J	Harasymiw, Mark J	modified
+true	Grigsby, Chris	Grigsby, Chris	modified
+true	Flagg, Zoey	Flagg, Zoey	modified
+true	Goss, Elizabeth,	Goss, Elizabeth	modified
+true	Rabe, Samantha	Rabe, Samantha	modified
+true	Saldaana, Renae	Saldaana, Renae	modified
+true	Gaertner, Meg,	Gaertner, Meg	modified
+true	Perez, Lilly	Perez, Lilly	modified
+true	Chilembwe, Ted	Chilembwe, Ted	modified
+true	Lê, Minh,	Lê, Minh	modified
+true	Dreyer, Kira	Dreyer, Kira	modified
+true	Meyers, Bernadette	Meyers, Bernadette	modified
+true	Zoehfeld, Kathy	Zoehfeld, Kathy	modified
+true	Layne, Susan A	Layne, Susan A	modified
+true	Guzman, Sienna	Guzman, Sienna	modified
+true	Picou, Lin.,	Picou, Lin	modified
+true	Huffman, Mindy,	Huffman, Mindy	modified
+true	Ansberry, Karen Rohrich,	Ansberry, Karen Rohrich	modified
+true	Russ, Rachel,	Russ, Rachel	modified
+true	Reagan, Naomi	Reagan, Naomi	modified
+true	Sampson, Delilah	Sampson, Delilah	modified
+true	Meyer, Eileen R.,	Meyer, Eileen R	modified
+true	Maluma, 1994	Maluma, 1994	modified
+true	Truran, Stacy	Truran, Stacy	modified
+true	Jones, Scottie	Jones, Scottie	modified
+true	Scott, Benjamin,	Scott, Benjamin	modified
+true	Fleck, Gertrude	Fleck, Gertrude	modified
+true	Lawson, Lela,	Lawson, Lela	modified
+true	Haber, Rebecca	Haber, Rebecca	modified
+true	Cordova, Lucia	Cordova, Lucia	modified
+true	Sadar, Albin,	Sadar, Albin	modified
+true	Alan, Sondra	Alan, Sondra	modified
+true	Homzie, Hillary,	Homzie, Hillary	modified
+true	Brissette, James	Brissette, James	modified
+true	Bright, F. M	Bright, F M	modified
+true	Adair, Zack,	Adair, Zack	modified
+true	Faulkner, Megan,	Faulkner, Megan	modified
+true	Polinsky, Paige V.,	Polinsky, Paige V	modified
+true	Random House Children's Firm	Random House Children's Firm	modified
+true	Chilson, Martin	Chilson, Martin	modified
+true	Scarletti, Jeff	Scarletti, Jeff	modified
+true	American Film Investment Corp	American Film Investment Corp	modified
+true	Betrand, Diane Gonzales	Betrand, Diane Gonzales	modified
+true	Wears, Katie M	Wears, Katie M	modified
+true	Lordi, Catherine,	Lordi, Catherine	modified
+true	Stilwell, Debra	Stilwell, Debra	modified
+true	Diamandopoulous, Stavros	Diamandopoulous, Stavros	modified
+true	Prowell, Denise,	Prowell, Denise	modified
+true	Cordova, Esther Pia,	Cordova, Esther Pia	modified
+true	Curriculum Associates Firm	Curriculum Associates Firm	modified
+true	Jennings, Terry Catasus	Jennings, Terry Catasus	modified
+true	Rice, Erika	Rice, Erika	modified
+true	Luna, Shawn	Luna, Shawn	modified
+true	Micklos, Jr. John	Micklos, Jr John	modified
+true	Staton, Hilary	Staton, Hilary	modified
+true	Kijak, Anna	Kijak, Anna	modified
+true	Sevra, Robert	Sevra, Robert	modified
+true	Kertell, Lynn Maslen,	Kertell, Lynn Maslen	modified
+true	Adams, Diane,	Adams, Diane	modified
+true	Kleinhenz, Meltzer	Kleinhenz, Meltzer	modified
+true	Weitzman, Ilana., ill	Weitzman, Ilana, Ill	modified
+true	Olson, Elsie,	Olson, Elsie	modified
+true	Nicholson, Carrie	Nicholson, Carrie	modified
+true	Beatriz, Stephanie	Beatriz, Stephanie	modified
+true	Woop Studios, ill	Woop Studios, Ill	modified
+true	Sargent, Patrick	Sargent, Patrick	modified
+true	Kelley, Iris	Kelley, Iris	modified
+true	Schumacher, Bev	Schumacher, Bev	modified
+true	Andersen, Michelle Garcia,	Andersen, Michelle Garcia	modified
+true	Colton, Katharine	Colton, Katharine	modified
+true	Shaughnessy, Charles, 1955	Shaughnessy, Charles, 1955	modified
+true	Court, Kimberly	Court, Kimberly	modified
+true	Lisson, Jonas	Lisson, Jonas	modified
+true	Hernandez, Laurie,	Hernandez, Laurie	modified
+true	Pomery, John	Pomery, John	modified
+true	McKenna, Kay	McKenna, Kay	modified
+true	Kuszewski, Ivy,	Kuszewski, Ivy	modified
+true	Bedeksy, Baron	Bedeksy, Baron	modified
+true	Sisk, Maeve	Sisk, Maeve	modified
+true	July, Jeane	July, Jeane	modified
+true	Roemer, Robert	Roemer, Robert	modified
+true	Hargrove, Isadora,	Hargrove, Isadora	modified
+true	Beem, Florence	Beem, Florence	modified
+true	Flannigan, Corey	Flannigan, Corey	modified
+true	Parrish, Sherry,	Parrish, Sherry	modified
+true	Christie, Lee	Christie, Lee	modified
+true	Tichbourne, Amy	Tichbourne, Amy	modified
+true	Gilbert, Elizabeth T., ill	Gilbert, Elizabeth T, Ill	modified
+true	Rijada, Myles	Rijada, Myles	modified
+true	Barbieri, Gladys Elizabeth,	Barbieri, Gladys Elizabeth	modified
+true	Field, Erica,	Field, Erica	modified
+true	Mizrachi, Esther	Mizrachi, Esther	modified
+true	Small, Jane	Small, Jane	modified
+true	Fitch, Amber,	Fitch, Amber	modified
+true	Carosella, Melissa,	Carosella, Melissa	modified
+true	Harrison, Micah	Harrison, Micah	modified
+true	Bernstein, Leora,	Bernstein, Leora	modified
+true	Charles, Tami,	Charles, Tami	modified
+true	Stewart, Kyle	Stewart, Kyle	modified
+true	Porter, Olive	Porter, Olive	modified
+true	Peale, Jonathan	Peale, Jonathan	modified
+true	Cirriculum Associates, LLC	Cirriculum Associates, Llc	modified
+true	Saperstein, Henry G., 1918-1998	Saperstein, Henry G, 1918-1998	modified
+true	Jackson, Demi,	Jackson, Demi	modified
+true	McClure, Robin,	McClure, Robin	modified
+true	Cupp, Dave,	Cupp, Dave	modified
+true	Horender, Philip	Horender, Philip	modified
+true	Fein, Caitlin,	Fein, Caitlin	modified
+true	Brannan, Annie	Brannan, Annie	modified
+true	Walker, Susan Sandvig	Walker, Susan Sandvig	modified
+true	Marshall, L. J	Marshall, L J	modified
+true	Carra, Leslie	Carra, Leslie	modified
+true	Tammany, Mark	Tammany, Mark	modified
+true	Cole, Carol A.,	Cole, Carol A	modified
+true	Vander Heyden, Linda	Vander Heyden, Linda	modified
+true	Royce, Christine Anne,	Royce, Christine Anne	modified
+true	Freeman, Irena	Freeman, Irena	modified
+true	Ingham, Barrie	Ingham, Barrie	modified
+true	Bennett, Doraine,	Bennett, Doraine	modified
+true	Sagitarius Entertainment Firm	Sagitarius Entertainment Firm	modified
+true	Thomas, Rory	Thomas, Rory	modified
+true	Rowe, Julie	Rowe, Julie	modified
+true	Williams, Susie,	Williams, Susie	modified
+true	Roselló, Jarod,	Roselló, Jarod	modified
+true	Mead, Kathryn	Mead, Kathryn	modified
+true	Lizzio, Samantha,	Lizzio, Samantha	modified
+true	Bednarchuk, Bruce	Bednarchuk, Bruce	modified
+true	Murphy, Roscoe	Murphy, Roscoe	modified
+true	White, E. B 1899-1985	White, E B 1899-1985	modified
+true	Koto, Tanner	Koto, Tanner	modified
+true	Appleby, Alex.,	Appleby, Alex	modified
+true	Behar, Natalie	Behar, Natalie	modified
+true	Sisk, Cameron	Sisk, Cameron	modified
+true	Luke, Davia	Luke, Davia	modified
+true	Jenkins, Jamie,	Jenkins, Jamie	modified
+true	Mason, Kimberlee	Mason, Kimberlee	modified
+true	Titzer, Robert C	Titzer, Robert C	modified
+true	Bear, Baldwin B	Bear, Baldwin B	modified
+true	Winn, Kevin P.,	Winn, Kevin P	modified
+true	Durfey-Lavoie, Lee,	Durfey-Lavoie, Lee	modified
+true	Engles, Diane	Engles, Diane	modified
+true	Feldstone, Lena	Feldstone, Lena	modified
+true	McGraw-Hill Companies., McGraw-Hill School Division	McGraw-Hill Companies, McGraw-Hill School Division	modified
+true	Remington, Ben	Remington, Ben	modified
+true	Coulton, Mia,	Coulton, Mia	modified
+true	Watson, Renée,	Watson, Renée	modified
+true	Mohr, Carole,	Mohr, Carole	modified
+true	St.Phan, Susan	StPhan, Susan	modified
+true	Ross, Chudney	Ross, Chudney	modified
+true	Cisneros, Terri	Cisneros, Terri	modified
+true	Celzo, Riley	Celzo, Riley	modified
+true	Parnell, Declan,	Parnell, Declan	modified
+true	Statham, Jason, 1972	Statham, Jason, 1972	modified
+true	Edizioni Piemme	Edizioni Piemme	modified
+true	Lucero, Lucy	Lucero, Lucy	modified
+true	Lockerd, Jodi	Lockerd, Jodi	modified
+true	Parsley, Elise,	Parsley, Elise	modified
+true	Stubbs, Susan	Stubbs, Susan	modified
+true	Cowan, Jo	Cowan, Jo	modified
+true	Kennedy, Marge M.,	Kennedy, Marge M	modified
+true	Rice, Dona Herwerk	Rice, Dona Herwerk	modified
+true	Golding, Theresa	Golding, Theresa	modified
+true	Malone, Charlotte	Malone, Charlotte	modified
+true	Nelson, Steve, 1907-1981	Nelson, Steve, 1907-1981	modified
+true	Cadejo, Oscar	Cadejo, Oscar	modified
+true	King, Alexandra	King, Alexandra	modified
+true	Prough, Chandra	Prough, Chandra	modified
+true	Rodriquez, Kenneth	Rodriquez, Kenneth	modified
+true	Madison, Amelia	Madison, Amelia	modified
+true	Schuck, Donald L	Schuck, Donald L	modified
+true	LeHahn, Davis	Lehahn, Davis	modified
+true	Collins, Savina,	Collins, Savina	modified
+true	Barrs, Karen	Barrs, Karen	modified
+true	Smith, Rich,	Smith, Rich	modified
+true	González, Xelena,	González, Xelena	modified
+true	Josephina, Luis	Josephina, Luis	modified
+true	Harasymiw, R. M	Harasymiw, R M	modified
+true	Singh, Vimla	Singh, Vimla	modified
+true	Rossi, Ann M	Rossi, Ann M	modified
+true	Dufresne, Michèle	Dufresne, Michèle	modified
+true	Darrow, Jessica, 1995	Darrow, Jessica, 1995	modified
+true	Malet, Arthur, 1927	Malet, Arthur, 1927	modified
+true	Laszlo, Eva	Laszlo, Eva	modified
+true	Petrokis, Dixie Lee	Petrokis, Dixie Lee	modified
+true	Rushworth, Gary	Rushworth, Gary	modified
+true	Hutchinson, Hanna,	Hutchinson, Hanna	modified
+true	Severn, Duane	Severn, Duane	modified
+true	Wojick, Luke	Wojick, Luke	modified
+true	Rabe, Sam	Rabe, Sam	modified
+true	Carole, Bonnie	Carole, Bonnie	modified
+true	Obach, Rowan	Obach, Rowan	modified
+true	Sugarman, Dorothy Alexander	Sugarman, Dorothy Alexander	modified
+true	Springer, Kate	Springer, Kate	modified
+true	Brown, India Hill,	Brown, India Hill	modified
+true	Merino Flores, Yvett, 1970	Merino Flores, Yvett, 1970	modified
+true	Reyes, Sandi,	Reyes, Sandi	modified
+true	Torres, Lisa	Torres, Lisa	modified
+true	Pérez, Marlene	Pérez, Marlene	modified
+true	Petra, Lon	Petra, Lon	modified
+true	Osterink, Carole	Osterink, Carole	modified
+true	Griffith, Christine,	Griffith, Christine	modified
+true	Griswold, Cliff,	Griswold, Cliff	modified
+true	Lincoln, Caleb	Lincoln, Caleb	modified
+true	Sloth, Coach	Sloth, Coach	modified
+true	Apgar, Elizabeth	Apgar, Elizabeth	modified
+true	O'Neill, John R	O'Neill, John R	modified
+true	Binns, Barbara,	Binns, Barbara	modified
+true	Tan, Richard	Tan, Richard	modified
+true	Wells, Phoebe	Wells, Phoebe	modified
+true	Nagai, Mariko,	Nagai, Mariko	modified
+true	Franklin, Loralei M.,	Franklin, Loralei M	modified
+true	Díaz, Katacha	Díaz, Katacha	modified
+true	Cabell, Richard	Cabell, Richard	modified
+true	Kate, Nancy,	Kate, Nancy	modified
+true	Lindell, Suzanne	Lindell, Suzanne	modified
+true	Chandler, Lawrence	Chandler, Lawrence	modified
+true	Holzhaus, P.G	Holzhaus, PG	modified
+true	McCoy, David B	McCoy, David B	modified
+true	Singer, Irma	Singer, Irma	modified
+true	Mao, Casey,	Mao, Casey	modified
+true	McKenzie, Pamela Walker,	McKenzie, Pamela Walker	modified
+true	Sill, Cathryn P,	Sill, Cathryn P	modified
+true	Owens, Shandra	Owens, Shandra	modified
+true	Triumph Learning, LLC	Triumph Learning, Llc	modified
+true	Marks, Johnny, 1909-1985	Marks, Johnny, 1909-1985	modified
+true	Martz, David	Martz, David	modified
+true	Rodríguez, Patty,	Rodríguez, Patty	modified
+true	Ferraro, Bonnie	Ferraro, Bonnie	modified
+true	Artinian, Zareh MacPherson	Artinian, Zareh MacPherson	modified
+true	Jake, Linda	Jake, Linda	modified
+true	Marino Walters, Jennifer,	Marino Walters, Jennifer	modified
+true	Hudson, Finn	Hudson, Finn	modified
+true	French, Amy,	French, Amy	modified
+true	Robinson, Elizabeth Keeler,	Robinson, Elizabeth Keeler	modified
+true	Dana, Liz,	Dana, Liz	modified
+true	Montgomery, Judy K,	Montgomery, Judy K	modified
+true	Baker, Maryann	Baker, Maryann	modified
+true	Denenberg, Dennis,	Denenberg, Dennis	modified
+true	Francis, Stan	Francis, Stan	modified
+true	Flowers, Luke,	Flowers, Luke	modified
+true	Gabrysch, Kelly T	Gabrysch, Kelly T	modified
+true	Snow, Ruth	Snow, Ruth	modified
+true	Harlan, Bart	Harlan, Bart	modified
+true	Gaitán, Carolina, 1984	Gaitán, Carolina, 1984	modified
+true	Kriner, Jeffrey	Kriner, Jeffrey	modified
+true	Penny, Cathleen	Penny, Cathleen	modified
+true	Loren, Josephina	Loren, Josephina	modified
+true	Diaz, Joanne Ruelos,	Diaz, Joanne Ruelos	modified
+true	Milne, A. A. Alan Alexander, 1882-1956	Milne, A A Alan Alexander, 1882-1956	modified
+true	Simons, Lisa M. Bolt,	Simons, Lisa M Bolt	modified
+true	Velde Vande, Vivian	Velde Vande, Vivian	modified
+true	Michaels, Ben	Michaels, Ben	modified
+true	Leikam, Eric	Leikam, Eric	modified
+true	Caf̌ Productions Ltd	Caf̌ Productions Ltd	modified
+true	Michelle, Charlotte	Michelle, Charlotte	modified
+true	Your Baby Can Firm	Your Baby Can Firm	modified
+true	Coverly, Dave,	Coverly, Dave	modified
+true	Thor, Asta	Thor, Asta	modified
+true	Stone, Julian	Stone, Julian	modified
+true	Persio, Ellen	Persio, Ellen	modified
+true	Killoran, Ariana,	Killoran, Ariana	modified
+true	Nielsen, Aubrie	Nielsen, Aubrie	modified
+true	Hensley, Ryan	Hensley, Ryan	modified
+true	Guerra, Anthony	Guerra, Anthony	modified
+true	Cohen, Stephanie	Cohen, Stephanie	modified
+true	Smithling, C. F	Smithling, C F	modified
+true	Mulhall, Jill	Mulhall, Jill	modified
+true	Crawford, Nury Castillo	Crawford, Nury Castillo	modified
+true	Churchill, Jackie	Churchill, Jackie	modified
+true	Cerier, Laura	Cerier, Laura	modified
+true	Katz Cooper, Sharon,	Katz Cooper, Sharon	modified
+true	Bleiman, Andrew,	Bleiman, Andrew	modified
+true	Byrne, Valentina,	Byrne, Valentina	modified
+true	Terrapin, Blaise	Terrapin, Blaise	modified
+true	Alvarez, Melanie	Alvarez, Melanie	modified
+true	Jagadorn, Sienna	Jagadorn, Sienna	modified
+true	Mao, Casey	Mao, Casey	modified
+true	Dwier, Barbara	Dwier, Barbara	modified
+true	Goodtimes Home Video	Goodtimes Home Video	modified
+true	Tan, Richard,	Tan, Richard	modified
+true	Fog City Press	Fog City Press	modified
+true	McWilliams, Eileen	McWilliams, Eileen	modified
+true	Regier, DeMar,	Regier, Demar	modified
+true	Kotkin, Carlos	Kotkin, Carlos	modified
+true	Fogelberg, Rachel	Fogelberg, Rachel	modified
+true	Minkoff, Marilyn	Minkoff, Marilyn	modified
+true	Gábor, Eva, 1921	Gábor, Eva, 1921	modified
+true	Fahey, Grace	Fahey, Grace	modified
+true	Nguyen, Jay	Nguyen, Jay	modified
+true	Edwards, Knute	Edwards, Knute	modified
+true	Renwick, Ian D	Renwick, Ian D	modified
+true	Fauce, Stephanie,	Fauce, Stephanie	modified
+true	Egan, Bob	Egan, Bob	modified
+true	Carey, Jennifer Davis,	Carey, Jennifer Davis	modified
+true	Dumont, Jean-François,	Dumont, Jean-François	modified
+true	May, Robert Lewis, 1905	May, Robert Lewis, 1905	modified
+true	Zhu, Ruby,	Zhu, Ruby	modified
+true	L. A. Goal Social services agency	L A Goal Social Services Agency	modified
+true	Scully, Dee	Scully, Dee	modified
+true	Montoya, Rosa	Montoya, Rosa	modified
+true	Deal, Sandra D.,	Deal, Sandra D	modified
+true	Miller, Sharee,	Miller, Sharee	modified
+true	Weinberg, Jennifer,	Weinberg, Jennifer	modified
+true	Ericson, Emma,	Ericson, Emma	modified
+true	McDonald, Laura	McDonald, Laura	modified
+true	Hebert, Trey	Hebert, Trey	modified
+true	Pelé,	Pelé	modified
+true	Gerard, Emily Beth	Gerard, Emily Beth	modified
+true	Anderson, Bruce, Film producer	Anderson, Bruce, Film Producer	modified
+true	Tucker, Stanley,	Tucker, Stanley	modified
+true	Tripp, Natalie	Tripp, Natalie	modified
+true	Sigue, Stephanie	Sigue, Stephanie	modified
+true	Heron, Henry E.,	Heron, Henry E	modified
+true	Stroud, Helen	Stroud, Helen	modified
+true	Mazza, Aria Nicoletta	Mazza, Aria Nicoletta	modified
+true	Barneveld, Erik	Barneveld, Erik	modified
+true	Sixt, Jan,	Sixt, Jan	modified
+true	Santos, Philippe	Santos, Philippe	modified
+true	Kimble, Erika	Kimble, Erika	modified
+true	Shannon, David, 1959	Shannon, David, 1959	modified
+true	Dodson, Barbara	Dodson, Barbara	modified
+true	Rivas, Rocio	Rivas, Rocio	modified
+true	Phillips, Ruby Ann,	Phillips, Ruby Ann	modified
+true	Bliss, James	Bliss, James	modified
+true	Ryan, Pam Muñoz,	Ryan, Pam Muñoz	modified
+true	Alvarado, Ana María	Alvarado, Ana María	modified
+true	Cuff, Marcie Chambers	Cuff, Marcie Chambers	modified
+true	Marks, Lorenzo	Marks, Lorenzo	modified
+true	Johnson, Etta	Johnson, Etta	modified
+true	Gréban, Quentin,	Gréban, Quentin	modified
+true	Kells, Deanne,	Kells, Deanne	modified
+true	Archer, Reese	Archer, Reese	modified
+true	Gabriel, Luke	Gabriel, Luke	modified
+true	Samuels, Sarah,	Samuels, Sarah	modified
+true	Stratton, Phoebe,	Stratton, Phoebe	modified
+true	Nowicki, David	Nowicki, David	modified
+true	Cortese, Ted	Cortese, Ted	modified
+true	Hasbro, Inc	Hasbro, Inc	modified
+true	Andersen, H. C. 1805-1875., [videorecording]	Andersen, H C 1805-1875, [Videorecording]	modified
+true	McNamara, Noelle	McNamara, Noelle	modified
+true	Bellavia, Rebecca	Bellavia, Rebecca	modified
+true	Haynes, Clarence A.,	Haynes, Clarence A	modified
+true	Moore, Lacey	Moore, Lacey	modified
+true	Castro Smith, Charise	Castro Smith, Charise	modified
+true	Marie, Lynne	Marie, Lynne	modified
+true	Garcia, Christian	Garcia, Christian	modified
+true	Press, J.,	Press, J	modified
+true	Jasperse, Gloria	Jasperse, Gloria	modified
+true	Silver, Diane G	Silver, Diane G	modified
+true	De La Guardia, Sabrine	De La Guardia, Sabrine	modified
+true	Russell, Rachel Renée,	Russell, Rachel Renée	modified
+true	Luce, Kelli	Luce, Kelli	modified
+true	Berkow, Danielle	Berkow, Danielle	modified
+true	Andrieu, Kalynn L	Andrieu, Kalynn L	modified
+true	Bank, Max	Bank, Max	modified
+true	Violich, Craig	Violich, Craig	modified
+true	Booth, Daphne	Booth, Daphne	modified
+true	Cruz, Rita	Cruz, Rita	modified
+true	Fenner, Matthew,	Fenner, Matthew	modified
+true	Ledu, Stéphanie	Ledu, Stéphanie	modified
+true	Shannon, Catherine M	Shannon, Catherine M	modified
+true	Murrray, Aaron R	Murrray, Aaron R	modified
+true	Teachers College Reading and Writing Project Columbia University	Teachers College Reading And Writing Project Columbia University	modified
+true	Yoder, Keith	Yoder, Keith	modified
+true	Wilson, Abby	Wilson, Abby	modified
+true	Gordon, Ralph	Gordon, Ralph	modified
+true	Obach, Riley	Obach, Riley	modified
+true	Smithe, Liz	Smithe, Liz	modified
+true	Coots, J. Fred, 1897-1985	Coots, J Fred, 1897-1985	modified
+true	Conway, Sommer,	Conway, Sommer	modified
+true	Comodromos, Eliza	Comodromos, Eliza	modified
+true	Atwater, Nico	Atwater, Nico	modified
+true	Pershing, Kate	Pershing, Kate	modified
+true	Samson, Darnell,	Samson, Darnell	modified
+true	McFadden, Bob	McFadden, Bob	modified
+true	Lemke, Amy	Lemke, Amy	modified
+true	Bautista Rojas, Carlos,	Bautista Rojas, Carlos	modified
+true	Saldanha, Carlos, 1965	Saldanha, Carlos, 1965	modified
+true	Reading Safari U.S	Reading Safari US	modified
+true	Kopp, Kathleen,	Kopp, Kathleen	modified
+true	Rhodes, Roberta Pantal	Rhodes, Roberta Pantal	modified
+true	Deren, Anna	Deren, Anna	modified
+true	Demuth, Patricia,	Demuth, Patricia	modified
+true	McDonnell, Ginger,	McDonnell, Ginger	modified
+true	Crawford, Lena	Crawford, Lena	modified
+true	O'Connell, Sanjida, 1970	O'Connell, Sanjida, 1970	modified
+true	Avery, Logan,	Avery, Logan	modified
+true	Cone, Hannah	Cone, Hannah	modified
+true	Canadian Wildlife Federation	Canadian Wildlife Federation	modified
+true	Takman, Ann	Takman, Ann	modified
+true	Murano, Carl	Murano, Carl	modified
+true	Lee, Cory	Lee, Cory	modified
+true	Sorrell, Christi E	Sorrell, Christi E	modified
+true	Lamb, Jenny,	Lamb, Jenny	modified
+true	Chain, Barbara	Chain, Barbara	modified
+true	Moore, Jordan,	Moore, Jordan	modified
+true	Austin, Joanna	Austin, Joanna	modified
+true	Kenney, Karen,	Kenney, Karen	modified
+true	Passe, Shannon	Passe, Shannon	modified
+true	Shaw, Steve Hamliton	Shaw, Steve Hamliton	modified
+true	Harris, Gwen,	Harris, Gwen	modified
+true	Murphy, Alexa	Murphy, Alexa	modified
+true	Klayman, Neil Steven,	Klayman, Neil Steven	modified
+true	Wrinkle, Stacy	Wrinkle, Stacy	modified
+true	Guerrero, Diane, 1986	Guerrero, Diane, 1986	modified
+true	Moss, Shelly	Moss, Shelly	modified
+true	Arnold, Marsha Diane,	Arnold, Marsha Diane	modified
+true	Stavetski, Barbara	Stavetski, Barbara	modified
+true	González, Jorge,	González, Jorge	modified
+true	Shava, Ryder,	Shava, Ryder	modified
+true	Lucas, Matt, 1974	Lucas, Matt, 1974	modified
+true	Marina, A. K	Marina, A K	modified
+true	Diaz, Tomas	Diaz, Tomas	modified
+true	Mahut, Sandra,	Mahut, Sandra	modified
+true	Kentshill, Susan	Kentshill, Susan	modified
+true	Alston, B. B.,	Alston, B B	modified
+true	Lakritz, Deborah,	Lakritz, Deborah	modified
+true	Dominguez, Angela,	Dominguez, Angela	modified
+true	Kelso, Vera	Kelso, Vera	modified
+true	Vassos, Paul,	Vassos, Paul	modified
+true	Wallis, Quvenzhané,	Wallis, Quvenzhané	modified
+true	Harper, Gavin	Harper, Gavin	modified
+true	Evelyn, Ada,	Evelyn, Ada	modified
+true	Martin, Bobi.,	Martin, Bobi	modified
+true	Milne, Stephanie	Milne, Stephanie	modified
+true	Greenblatt, Sela	Greenblatt, Sela	modified
+true	Colozza, L. M	Colozza, L M	modified
+true	Ortega, Claribel A.,	Ortega, Claribel A	modified
+true	Alves, Josh, ill	Alves, Josh, Ill	modified
+true	Ray, Kenyetta	Ray, Kenyetta	modified
+true	Dash, Meredity	Dash, Meredity	modified
+true	Duke, Shriley	Duke, Shriley	modified
+true	Gillespie, Haven, 1888-1975	Gillespie, Haven, 1888-1975	modified
+true	Desmond, Carl	Desmond, Carl	modified
+true	Henry, Sabrina N	Henry, Sabrina N	modified
+true	Grout, Beth Jenkins	Grout, Beth Jenkins	modified
+true	Baumann, Susan	Baumann, Susan	modified
+true	McCann, Pat	McCann, Pat	modified
+true	Carter, Denzel T	Carter, Denzel T	modified
+true	Tucker, Marianne, ill	Tucker, Marianne, Ill	modified
+true	Dufresne, Michèle,	Dufresne, Michèle	modified
+true	Imagine Television Firm	Imagine Television Firm	modified
+true	Rustad, Martha,	Rustad, Martha	modified
+true	Mueller, Heath	Mueller, Heath	modified
+true	Teagarden, Lilly	Teagarden, Lilly	modified
+true	diMartini, Carmella	Dimartini, Carmella	modified
+true	Paxton, Maureen	Paxton, Maureen	modified
+true	Henslowe, Raymond	Henslowe, Raymond	modified
+true	Thompson, Pam Marie	Thompson, Pam Marie	modified
+true	Gentry-Ederer, Karen	Gentry-Ederer, Karen	modified
+true	Mazza, Lisa Chesters,	Mazza, Lisa Chesters	modified
+true	Tessier, Caitlin	Tessier, Caitlin	modified
+true	California Association of Professors of Educational Administration	California Association Of Professors Of Educational Administration	modified
+true	Kavicky, Emily	Kavicky, Emily	modified
+true	Baddeley, Hermione, 1908-1986	Baddeley, Hermione, 1908-1986	modified
+true	George, Thomas,	George, Thomas	modified
+true	Ronson, Samantha	Ronson, Samantha	modified
+true	Allen, Rex, 1924	Allen, Rex, 1924	modified
+true	Cabot-Conyers, Ravi	Cabot-Conyers, Ravi	modified
+true	Frank Schaffer Publications	Frank Schaffer Publications	modified
+true	Manolis, Kay,	Manolis, Kay	modified
+true	Dodd, Samuel	Dodd, Samuel	modified
+true	Scieszkas, Jon	Scieszkas, Jon	modified
+true	Paris, Stephanie Herweck,	Paris, Stephanie Herweck	modified
+true	Nicoletta, Aria,	Nicoletta, Aria	modified
+true	Geister-Jones, Sophie,	Geister-Jones, Sophie	modified
+true	Crisp, Dan, ill	Crisp, Dan, Ill	modified
+true	Martinez, Manuel	Martinez, Manuel	modified
+true	Sherman, Richard M, 1928	Sherman, Richard M, 1928	modified
+true	Joyce, William, 1957	Joyce, William, 1957	modified
+true	Chabert, Jack,	Chabert, Jack	modified
+true	Tabb, Patricia	Tabb, Patricia	modified
+true	Jameson, Brendan	Jameson, Brendan	modified
+true	Brennan, Joseph Killorin	Brennan, Joseph Killorin	modified
+true	Beach, Michelle,	Beach, Michelle	modified
+true	Botero, María Cecilia, 1955	Botero, María Cecilia, 1955	modified
+true	Letera, Jackie	Letera, Jackie	modified
+true	Alpern, Julie	Alpern, Julie	modified
+true	Terasawa, Miki	Terasawa, Miki	modified
+true	Dancing Bear, Belinda	Dancing Bear, Belinda	modified
+true	Martin, Dayna,	Martin, Dayna	modified
+true	Mackenzie, Amy Allen	MacKenzie, Amy Allen	modified
+true	Lewis, Kathryn E	Lewis, Kathryn E	modified
+true	García Bernal, Gael, 1978	García Bernal, Gael, 1978	modified
+true	Durham, Ruth	Durham, Ruth	modified
+true	McKim, Dorothy	McKim, Dorothy	modified
+true	Kilodavis, Cheryl,	Kilodavis, Cheryl	modified
+true	Bynum, Betty K.,	Bynum, Betty K	modified
+true	Báez, Angela	Báez, Angela	modified
+true	Feliz, Rhenzy, 1997	Feliz, Rhenzy, 1997	modified
+true	Svec, Wendy,	Svec, Wendy	modified
+true	Watson, Donna	Watson, Donna	modified
+true	Cornhill, Solly,	Cornhill, Solly	modified
+true	Powell, Ella	Powell, Ella	modified
+true	Zhu, Ruby	Zhu, Ruby	modified
+true	Panec, D. J.,	Panec, D J	modified
+true	Howe, Annie,	Howe, Annie	modified
+true	Beasley, Kate,	Beasley, Kate	modified
+true	Kay, Jill	Kay, Jill	modified
+true	Monroe, Lulu	Monroe, Lulu	modified
+true	St. Ephan, Susan,	St Ephan, Susan	modified
+true	Roemer, Larry	Roemer, Larry	modified
+true	Rocket Pictures Beverly Hills, Calif	Rocket Pictures Beverly Hills, Calif	modified
+true	Bower, Mary Alice	Bower, Mary Alice	modified
+true	Marlow, Linda	Marlow, Linda	modified
+true	Wright, Wesley.,	Wright, Wesley	modified
+true	Randell, Beverley, 1931	Randell, Beverley, 1931	modified
+true	Carmichael, Brad	Carmichael, Brad	modified
+true	Colby, Jennifer,	Colby, Jennifer	modified
+true	Nelid, Piper	Nelid, Piper	modified
+true	Flores, Carolyn Dee	Flores, Carolyn Dee	modified
+true	Gilbert, J. J	Gilbert, J J	modified
+true	Raúf, Onjali Q.,	Raúf, Onjali Q	modified
+true	Miller, Dean,	Miller, Dean	modified
+true	Alperen, Julie	Alperen, Julie	modified
+true	Adams, Barbara V	Adams, Barbara V	modified
+true	Earle, Erin,	Earle, Erin	modified
+true	Klein, Adria F. Adria Fay	Klein, Adria F Adria Fay	modified
+true	Lehtimäki, Vesa	Lehtimäki, Vesa	modified
+true	Hitner, Harry	Hitner, Harry	modified
+true	Barzdukas, Vidas	Barzdukas, Vidas	modified
+true	Flowerpot Press	Flowerpot Press	modified
+true	Kirby, Nell	Kirby, Nell	modified
+true	Corkin, Tania	Corkin, Tania	modified
+true	Conklin, Melissa	Conklin, Melissa	modified
+true	McGrath, Barbara B.,	McGrath, Barbara B	modified
+true	Herrmann, Agnes	Herrmann, Agnes	modified
+true	Vietro, Lee	Vietro, Lee	modified
+true	Leo Feist, Inc	Leo Feist, Inc	modified
+true	Fanning, Krista	Fanning, Krista	modified
+true	Melvin, Jerry	Melvin, Jerry	modified
+true	Stall, Julie	Stall, Julie	modified
+true	Ted Cortese	Ted Cortese	modified
+true	Cotler, Stephen L.,	Cotler, Stephen L	modified
+true	Hardy, Will	Hardy, Will	modified
+true	Ryan, Evelyn	Ryan, Evelyn	modified
+true	White, E. B 1899	White, E B 1899	modified
+true	Griffin, Maria	Griffin, Maria	modified
+true	Davis, Katherine, 1892-1980	Davis, Katherine, 1892-1980	modified
+true	Janikian, Areka	Janikian, Areka	modified
+true	Conklin, Blance	Conklin, Blance	modified
+true	Ciocchi, Catherine	Ciocchi, Catherine	modified
+true	Fredericks, Nora	Fredericks, Nora	modified
+true	Klein, Adria F./ Gallagher-Cole, Mernie ILT	Klein, Adria F/ Gallagher-Cole, Mernie Ilt	modified
+true	Mack, Aaron	MacK, Aaron	modified
+true	Saldaña, René,	Saldaña, René	modified
+true	González, Karina Nicole,	González, Karina Nicole	modified
+true	Edwin, David,	Edwin, David	modified
+true	Triumph Learning	Triumph Learning	modified
+true	Northrup, Mary,	Northrup, Mary	modified
+true	Dufresne, Michéle	Dufresne, Michéle	modified
+true	Santos, Ricardo	Santos, Ricardo	modified
+true	Little, Rachel,	Little, Rachel	modified
+true	Richter, Marie	Richter, Marie	modified
+true	Lee, Jackie	Lee, Jackie	modified
+true	Ellis, Roman,	Ellis, Roman	modified
+true	Katze, Micah	Katze, Micah	modified
+true	Baker, Cindy	Baker, Cindy	modified
+true	Joven, C. C.,	Joven, C C	modified
+true	Larson, Kirsten W.,	Larson, Kirsten W	modified
+true	Rock 'N Learn	Rock 'n Learn	modified
+true	Brown, Jesse	Brown, Jesse	modified
+true	Eaton, Maxwell,	Eaton, Maxwell	modified
+true	Regallo, Gus	Regallo, Gus	modified
+true	Lewis, Natalie	Lewis, Natalie	modified
+true	Keith, Robert	Keith, Robert	modified
+true	Ernesto, Lilly	Ernesto, Lilly	modified
+true	Warner, Dennis	Warner, Dennis	modified
+true	Vogt, John	Vogt, John	modified
+true	Lamb, Harvey	Lamb, Harvey	modified
+true	Britt, Paige,	Britt, Paige	modified
+true	Rothbardt, Karen J	Rothbardt, Karen J	modified
+true	Kirchner, Jason	Kirchner, Jason	modified
+true	Playtone Firm	Playtone Firm	modified
+true	LaBaff, Stephanie,	Labaff, Stephanie	modified
+true	Jaworowicz, Grace	Jaworowicz, Grace	modified
+true	Black, Emiliano Bermejo	Black, Emiliano Bermejo	modified
+true	Quilty, Jessica	Quilty, Jessica	modified
+true	Wells, Howard	Wells, Howard	modified
+true	Wiener Sängerknaben	Wiener Sängerknaben	modified
+true	Shamsi, Shirin,	Shamsi, Shirin	modified
+true	Hyde, Madeline,	Hyde, Madeline	modified
+true	WGBH Boston Video	Wgbh Boston Video	modified
+true	Michael, Sarah,	Michael, Sarah	modified
+true	Siegel, Jaye,	Siegel, Jaye	modified
+true	Chévere, Celenia	Chévere, Celenia	modified
+true	Castillo, Mauro, 1978	Castillo, Mauro, 1978	modified
+true	Kleiner, Arthur	Kleiner, Arthur	modified
+true	Holland, Ilona E	Holland, Ilona E	modified
+true	Sheldon-Dean, Hannah,	Sheldon-Dean, Hannah	modified
+true	Johansen, Eduard	Johansen, Eduard	modified
+true	Powers, Adrian	Powers, Adrian	modified
+true	Flaherty, Susannah	Flaherty, Susannah	modified
+true	Parra Sr , Angelo M	Parra Sr , Angelo M	modified
+true	Evans, Chenille	Evans, Chenille	modified
+true	Knight, Casey	Knight, Casey	modified
+true	Holmes, Parker,	Holmes, Parker	modified
+true	Spunter, Bill,	Spunter, Bill	modified
+true	Vigoda, Abe, 1921	Vigoda, Abe, 1921	modified
+true	Richert, Catherine	Richert, Catherine	modified
+true	Christie, Peter,	Christie, Peter	modified
+true	Broucek, Margaret	Broucek, Margaret	modified
+true	Mann, Larry D., 1922	Mann, Larry D, 1922	modified
+true	Allen, Nancy,	Allen, Nancy	modified
+true	Bayard Canada	Bayard Canada	modified
+true	Bruneau, LeeAnn	Bruneau, Leeann	modified
+true	Molina, Concepcion,	Molina, Concepcion	modified
+true	Asbjørnsen, Peter Christen,	Asbjørnsen, Peter Christen	modified
+true	Johnson, R. Kikuo,	Johnson, R Kikuo	modified
+true	Sanchez, C.M	Sanchez, CM	modified
+true	Jennings, Terry Catasus,	Jennings, Terry Catasus	modified
+true	Ungaro, Ellen	Ungaro, Ellen	modified
+true	Gleisner, Jeanna Lee	Gleisner, Jeanna Lee	modified
+true	Chesterfield, Jayson,	Chesterfield, Jayson	modified
+true	Koolloori, Eva,	Koolloori, Eva	modified
+true	Dowd, Nancy	Dowd, Nancy	modified
+true	Jude, Riley,	Jude, Riley	modified
+true	Smith, Dalton,	Smith, Dalton	modified
+true	Stark, Ryan	Stark, Ryan	modified
+true	Aurora Productions	Aurora Productions	modified
+true	Nash, Julia	Nash, Julia	modified
+true	Magill, Elizabeth 1971	Magill, Elizabeth 1971	modified
+true	Davis, Natalie	Davis, Natalie	modified
+true	Victor, Renée	Victor, Renée	modified
+true	Beebe, Daniel	Beebe, Daniel	modified
+true	Jacobs, Dawn	Jacobs, Dawn	modified
+true	Child's Play Firm	Child's Play Firm	modified
+true	Ulinski, Michael	Ulinski, Michael	modified
+true	Kidd, Ron	Kidd, Ron	modified
+true	Sibbing, Phyllis, Armelie	Sibbing, Phyllis, Armelie	modified
+true	Allen, Diane	Allen, Diane	modified
+true	Tempkin, Javier	Tempkin, Javier	modified
+true	O'Brien, Annie,	O'Brien, Annie	modified
+true	Ayers, Linda	Ayers, Linda	modified
+true	Rios, Gloria	Rios, Gloria	modified
+true	Davis, Stephan	Davis, Stephan	modified
+true	Isaacs Senzell, Sally	Isaacs Senzell, Sally	modified
+true	Kuhl, Molly	Kuhl, Molly	modified
+true	Johnson, Beth A.,	Johnson, Beth A	modified
+true	Nelid, Piper,	Nelid, Piper	modified
+true	Vassos, Paul	Vassos, Paul	modified
+true	Kaminski, Mary	Kaminski, Mary	modified
+true	Hendricks, Diana	Hendricks, Diana	modified
+true	Sánchez Korrol, Virginia,	Sánchez Korrol, Virginia	modified
+true	Hartman, Mary Dell	Hartman, Mary Dell	modified
+true	Berda, Chryste L.,	Berda, Chryste L	modified
+true	Craft, Jane,	Craft, Jane	modified
+true	Keogh, Josie,	Keogh, Josie	modified
+true	Court, Kimberly,	Court, Kimberly	modified
+true	Panico, Missy	Panico, Missy	modified
+true	Rock 'N Learn Firm	Rock 'n Learn Firm	modified
+true	Easton, Carly	Easton, Carly	modified
+true	Kirk, Deana	Kirk, Deana	modified
+true	Samson, Darnell	Samson, Darnell	modified
+true	Martin, Iris	Martin, Iris	modified
+true	Díaz Rivas, Miguel	Díaz Rivas, Miguel	modified
+true	United Artists Ltd	United Artists Ltd	modified
+true	McCann, Pat,	McCann, Pat	modified
+true	Fonda, Marie	Fonda, Marie	modified
+true	Robert Mack Productions	Robert MacK Productions	modified
+true	Kentor, Sandra,	Kentor, Sandra	modified
+true	Souby, Anne,	Souby, Anne	modified
+true	Miranda, Lin-Manuel, 1980	Miranda, Lin-Manuel, 1980	modified
+true	Jones, Joe	Jones, Joe	modified
+true	Howe, Annie	Howe, Annie	modified
+true	Karsten, Dylan,	Karsten, Dylan	modified
+true	Shepherd, Zeke	Shepherd, Zeke	modified
+true	Bush, Jared, 1974	Bush, Jared, 1974	modified
+true	Morgan, Allen, 1946	Morgan, Allen, 1946	modified
+true	Bernstein, Jon	Bernstein, Jon	modified
+true	The Parent Institute	The Parent Institute	modified
+true	Deenihan, Jamie L. B.,	Deenihan, Jamie L B	modified
+true	Crow, Mindy	Crow, Mindy	modified
+true	Larson, Carl	Larson, Carl	modified
+true	Carlson, Naomi	Carlson, Naomi	modified
+true	Ferrer, José, 1912-1992	Ferrer, José, 1912-1992	modified
+true	Stratton, Phoebe	Stratton, Phoebe	modified
+true	Barkley, Callie,	Barkley, Callie	modified
+true	Levitow, Abe	Levitow, Abe	modified
+true	Manrique, María Eugenia,	Manrique, María Eugenia	modified
+true	James, Jesse,	James, Jesse	modified
+true	Collingsworth, Blake	Collingsworth, Blake	modified
+true	Family Channel	Family Channel	modified
+true	Ramsey, Logan	Ramsey, Logan	modified
+true	Malone, Gavin	Malone, Gavin	modified
+true	Benoit, David	Benoit, David	modified
+true	Koenig, Jenaya	Koenig, Jenaya	modified
+true	Mohr, Carole	Mohr, Carole	modified
+true	Kentcorn, S.J,	Kentcorn, SJ	modified
+true	Jenks, Wendy Roh	Jenks, Wendy Roh	modified
+true	Turner, Katherine,	Turner, Katherine	modified
+true	Cruz, Joanna	Cruz, Joanna	modified
+true	Brissette, Jim	Brissette, Jim	modified
+true	Donner, Erica,	Donner, Erica	modified
+true	Maurer, Daniel D	Maurer, Daniel D	modified
+true	Trifer, Jen	Trifer, Jen	modified
+true	Overend Prior, Jennifer,	Overend Prior, Jennifer	modified
+true	Davis, Scottie	Davis, Scottie	modified
+true	Strand, Jennifer,	Strand, Jennifer	modified
+true	Sciarrino, Stephanie	Sciarrino, Stephanie	modified
+true	McArthur, Marcus,	McArthur, Marcus	modified
+true	Barnes, Iris J.,	Barnes, Iris J	modified
+true	Griffin, Sasha	Griffin, Sasha	modified
+true	Booth, Jack, 1946	Booth, Jack, 1946	modified
+true	Wright, Myles	Wright, Myles	modified
+true	Crawford, Castillo Nury	Crawford, Castillo Nury	modified
+true	Parks, Jesse,	Parks, Jesse	modified
+true	Hedlund, Stephanie,	Hedlund, Stephanie	modified
+true	Godfrey, Neal S	Godfrey, Neal S	modified
+true	Vurnakes, Claudia,	Vurnakes, Claudia	modified
+true	Rigby Education Firm	Rigby Education Firm	modified
+true	Berube, Kate,	Berube, Kate	modified
+true	Neiley, Dani,	Neiley, Dani	modified
+true	Burnell, Heather Ayris,	Burnell, Heather Ayris	modified
+true	Kincaid, Mary	Kincaid, Mary	modified
+true	Allen, Diane,	Allen, Diane	modified
+true	Jackson, Richelle	Jackson, Richelle	modified
+true	Pinkerton, Daniel	Pinkerton, Daniel	modified
+true	Fletcher, Sheila,	Fletcher, Sheila	modified
+true	Ortiz, Raquel M	Ortiz, Raquel M	modified
+true	Cocca, Lisa	Cocca, Lisa	modified
+true	Hester, Elizabeth,	Hester, Elizabeth	modified
+true	Kirk, Alina,	Kirk, Alina	modified
+true	Ragno, Nancy Nickell	Ragno, Nancy Nickell	modified
+true	Kim, Flora	Kim, Flora	modified
+true	Phillipe, Monica	Phillipe, Monica	modified
+true	Smythe, Katie,	Smythe, Katie	modified
+true	Mancilla, Eric	Mancilla, Eric	modified
+true	Dannon, Bob	Dannon, Bob	modified
+true	Hutter, Carollyne	Hutter, Carollyne	modified
+true	Curriculum Associates, Inc	Curriculum Associates, Inc	modified
+true	Kelley, C	Kelley, C	modified
+true	Rossiter, Max,	Rossiter, Max	modified
+true	Bettin, Val	Bettin, Val	modified
+true	Perez, Celia C.,	Perez, Celia C	modified
+true	Kaba, Mariame,	Kaba, Mariame	modified
+true	Bell, Kristen,	Bell, Kristen	modified
+true	McDonald, Luke	McDonald, Luke	modified
+true	Anthony, David Henry,	Anthony, David Henry	modified
+true	Medley, Steven P.,	Medley, Steven P	modified
+true	Cepeda, Angie, 1974	Cepeda, Angie, 1974	modified
+true	Sweeney, Diane,	Sweeney, Diane	modified
+true	Washington, Venus,	Washington, Venus	modified
+true	Karanja, Caroline,	Karanja, Caroline	modified
+true	Liu, Evan	Liu, Evan	modified
+true	Hauss, Sandra	Hauss, Sandra	modified
+true	Mars, Bruno, 1985	Mars, Bruno, 1985	modified
+true	Robinson, Larry, 1929	Robinson, Larry, 1929	modified
+true	McCune, Susan	McCune, Susan	modified
+true	Lordi, Catherine	Lordi, Catherine	modified
+true	Silvie, Monica,	Silvie, Monica	modified
+true	Kopo, Norma	Kopo, Norma	modified
+true	Thomas, Danny	Thomas, Danny	modified
+true	Valderrama, Wilmer, 1980	Valderrama, Wilmer, 1980	modified
+true	Lawrence, Trina,	Lawrence, Trina	modified
+true	Corn, Leslie	Corn, Leslie	modified
+true	Sudduth, Brent H,	Sudduth, Brent H	modified
+true	Shea, Bobby	Shea, Bobby	modified
+true	Chung, Arree,	Chung, Arree	modified
+true	Blane and DeRosa Productions	Blane And Derosa Productions	modified
+true	Watkins, Adam F.,	Watkins, Adam F	modified
+true	Bloodworth, Baker	Bloodworth, Baker	modified
+true	Springer, Kate,	Springer, Kate	modified
+true	Burke, Erin	Burke, Erin	modified
+true	Reed, Gordon J	Reed, Gordon J	modified
+true	Willman, Lisa	Willman, Lisa	modified
+true	Silver, Julie	Silver, Julie	modified
+true	Engelbreit, Mary, ill	Engelbreit, Mary, Ill	modified
+true	Oachs, Emily Rose,	Oachs, Emily Rose	modified
+true	Taylor, Olivia	Taylor, Olivia	modified
+true	Rodgers, Randy	Rodgers, Randy	modified
+true	Falcon, Michael	Falcon, Michael	modified
+true	Neal, Rie,	Neal, Rie	modified
+true	Kate, Nancy	Kate, Nancy	modified
+true	Lau, Susan	Lau, Susan	modified
+true	Ozckus, Lori	Ozckus, Lori	modified
+true	Dempski, Seth	Dempski, Seth	modified
+true	Mitchell, Rachel	Mitchell, Rachel	modified
+true	McPherson, Stephanie S	McPherson, Stephanie S	modified
+true	Court, Alvin	Court, Alvin	modified
+true	Sakayama, Bob	Sakayama, Bob	modified
+true	Johns, Natalie K	Johns, Natalie K	modified
+true	Mayer, Philip	Mayer, Philip	modified
+true	Teton, Linda	Teton, Linda	modified
+true	Monroe, Nathan	Monroe, Nathan	modified
+true	Collins, Kathy,	Collins, Kathy	modified
+true	Snyder, Serena,	Snyder, Serena	modified
+true	Halket, Amy Levin,	Halket, Amy Levin	modified
+true	O'Donnell, Claudea	O'Donnell, Claudea	modified
+true	Sloth, Ryan	Sloth, Ryan	modified
+true	Gorman, Jaqueline Laks,	Gorman, Jaqueline Laks	modified
+true	Dean, Dennis,	Dean, Dennis	modified
+true	Weingartner, Amy E	Weingartner, Amy E	modified
+true	Johnson, Sandra	Johnson, Sandra	modified
+true	Schlichte, Jody,	Schlichte, Jody	modified
+true	Pollatschek, Susanne	Pollatschek, Susanne	modified
+true	Hartman, Elizabeth, 1941-1987	Hartman, Elizabeth, 1941-1987	modified
+true	Lunney, Lisa	Lunney, Lisa	modified
+true	Holloway, Lauren,	Holloway, Lauren	modified
+true	Anderson, Moria	Anderson, Moria	modified
+true	McGovern, Kate L	McGovern, Kate L	modified
+true	Gómez, Ana,	Gómez, Ana	modified
+true	Neyman, Boris	Neyman, Boris	modified
+true	Zacks, Anne	Zacks, Anne	modified
+true	Indovino, Shaina,	Indovino, Shaina	modified
+true	Clark, Donna Schmeltekopk	Clark, Donna Schmeltekopk	modified
+true	Meier, Anna,	Meier, Anna	modified
+true	Burwasser, Daniel A	Burwasser, Daniel A	modified
+true	Bendix, Mary	Bendix, Mary	modified
+true	Lin, Amy Hsu,	Lin, Amy Hsu	modified
+true	Byrne, Valentina	Byrne, Valentina	modified
+true	Styne, Jule, 1905-1994	Styne, Jule, 1905-1994	modified
+true	Wilson, Rachel M.,	Wilson, Rachel M	modified
+true	Abramson, Jill,	Abramson, Jill	modified
+true	Luyken, Corinna,	Luyken, Corinna	modified
+true	Bauman, Leslie	Bauman, Leslie	modified
+true	Doeck, Maryann	Doeck, Maryann	modified
+true	Barnes, Joan Iris,	Barnes, Joan Iris	modified
+true	Bryant, Jennifer,	Bryant, Jennifer	modified
+true	Mondo Publishing U.S	Mondo Publishing US	modified
+true	de la Peña, Matt,	De La Peña, Matt	modified
+true	McCunney, Michelle	McCunney, Michelle	modified
+true	Bruno, Frankie	Bruno, Frankie	modified
+true	Samuels, Sarah	Samuels, Sarah	modified
+true	Franklin, Maya,	Franklin, Maya	modified
+true	Walters, Abby,	Walters, Abby	modified
+true	Svec, Wendy	Svec, Wendy	modified
+true	Shull, Ira	Shull, Ira	modified
+true	Bradshaw, Cody	Bradshaw, Cody	modified
+true	Cappacio, George	Cappacio, George	modified
+true	Spevack, Judy	Spevack, Judy	modified
+true	Greene, Lila,	Greene, Lila	modified
+true	Anderson, Karin,	Anderson, Karin	modified
+true	Sis, Peter, illustrator	Sis, Peter, Illustrator	modified
+true	UPA Pictures	Upa Pictures	modified
+true	Hicer, Nancy,	Hicer, Nancy	modified
+true	Sirota, Lyn,	Sirota, Lyn	modified
+true	Lawrence, Elizabeth,	Lawrence, Elizabeth	modified
+true	DeCicco, Avery,	Decicco, Avery	modified
+true	Byrne, Eileen,	Byrne, Eileen	modified
+true	Kolloori, Eva,	Kolloori, Eva	modified
+true	Birney, Betty G.,	Birney, Betty G	modified
+true	Dosier, Susan,	Dosier, Susan	modified
+true	Nouvion, Judith,	Nouvion, Judith	modified
+true	Méndez, Yamile Saied,	Méndez, Yamile Saied	modified
+true	Richards, Sharon	Richards, Sharon	modified
+true	Brannon, Barbara	Brannon, Barbara	modified
+true	Calson, Christine M	Calson, Christine M	modified
+true	Christinson, Jan	Christinson, Jan	modified
+true	Claire, Linda,	Claire, Linda	modified
+true	Butz, Stephen D	Butz, Stephen D	modified
+true	Van Allen, Leo,	Van Allen, Leo	modified
+true	Derosier, M Michelle,	Derosier, M Michelle	modified
+true	Ames, Ed	Ames, Ed	modified
+true	Pernick, Gary	Pernick, Gary	modified
+true	Halloran, Anna	Halloran, Anna	modified
+true	Lloyd, Megan Wagner,	Lloyd, Megan Wagner	modified
+true	Tichbourne, Amy,	Tichbourne, Amy	modified
+true	McElroy, Joan	McElroy, Joan	modified
+true	Paul, Liza	Paul, Liza	modified
+true	Mattison, Ruth,	Mattison, Ruth	modified
+true	Jake, Linda,	Jake, Linda	modified
+true	Laurelia, Emily de	Laurelia, Emily De	modified
+true	Graham, Caleb	Graham, Caleb	modified
+true	Petersen, Kathleen C. Null	Petersen, Kathleen C Null	modified
+true	Burach, Ross,	Burach, Ross	modified
+true	Allen, Kayleigh	Allen, Kayleigh	modified
+true	Waterhouse, Lucy,	Waterhouse, Lucy	modified
+true	Alvarez, Rosa	Alvarez, Rosa	modified
+true	Baldwin, Ellen	Baldwin, Ellen	modified
+true	Claassen, Christina	Claassen, Christina	modified
+true	Lau, David	Lau, David	modified
+true	Fox, Roxane	Fox, Roxane	modified
+true	Van Horn, Katrina	Van Horn, Katrina	modified
+true	Stein, Rachael	Stein, Rachael	modified
+true	Fitch, Amber	Fitch, Amber	modified
+true	Albermarle, Rufus	Albermarle, Rufus	modified
+true	Warkulwiz, Beverly	Warkulwiz, Beverly	modified
+true	King, Emiliya,	King, Emiliya	modified
+true	Medrick, Jo	Medrick, Jo	modified
+true	Farber, Rachel	Farber, Rachel	modified
+true	Rawley, Pauline	Rawley, Pauline	modified
+true	Finn, Anne	Finn, Anne	modified
+true	Leach, Sara,	Leach, Sara	modified
+true	Noble, Sofia	Noble, Sofia	modified
+true	Cervantes, Jesús	Cervantes, Jesús	modified
+true	Charles, Dagney	Charles, Dagney	modified
+true	Treml, Renée,	Treml, Renée	modified
+true	Beaton, Kathryn,	Beaton, Kathryn	modified
+true	Galligan, Gale,	Galligan, Gale	modified
+true	Byrd, Josiah	Byrd, Josiah	modified
+true	Wallace, Nancy K.,	Wallace, Nancy K	modified
+true	Hesper, Sam,	Hesper, Sam	modified
+true	Nadler, Jill	Nadler, Jill	modified
+true	Jenskins, Tyrese	Jenskins, Tyrese	modified
+true	Pucci, Toni	Pucci, Toni	modified
+true	Burkholder, Margaret	Burkholder, Margaret	modified
+true	Villano, Danielle	Villano, Danielle	modified
+true	Lichten, Betty,	Lichten, Betty	modified
+true	Lipsett, Will	Lipsett, Will	modified
+true	Profiri, Charline,	Profiri, Charline	modified
+true	Bright, Robert, 1902	Bright, Robert, 1902	modified
+true	Beasley, Ava	Beasley, Ava	modified
+true	Holly, Bill	Holly, Bill	modified
+true	Café Productions Ltd	Café Productions Ltd	modified
+true	Hernandez, Carlos Alberto Pablo,	Hernandez, Carlos Alberto Pablo	modified
+true	Corcorane, Ann,	Corcorane, Ann	modified
+true	Slike, Janet,	Slike, Janet	modified
+true	Kentor, Sondra,	Kentor, Sondra	modified
+true	Kemp, Kristin	Kemp, Kristin	modified
+true	Clark-Edmands, Sheila	Clark-Edmands, Sheila	modified
+true	Hall, Hannah C.,	Hall, Hannah C	modified
+true	Stewart, Kyle,	Stewart, Kyle	modified
+true	Olmsted, Michelle	Olmsted, Michelle	modified
+true	Scavatto, Mario	Scavatto, Mario	modified
+true	Brenston, Robin	Brenston, Robin	modified
+true	Harris, Gwen	Harris, Gwen	modified
+true	Riley, Elliot,	Riley, Elliot	modified
+true	Finnigan, Sean,	Finnigan, Sean	modified
+true	Blackmon, Clarissa	Blackmon, Clarissa	modified
+true	Matos, Rebecca	Matos, Rebecca	modified
+true	Kruse, Nancy, 1965	Kruse, Nancy, 1965	modified
+true	Necko, Carolyn	Necko, Carolyn	modified
+true	Brass, Caroline	Brass, Caroline	modified
+true	Brookes, Rachel W	Brookes, Rachel W	modified
+true	Farina, Katy,	Farina, Katy	modified
+true	D'Anna, Cindy	D'Anna, Cindy	modified
+true	Sussman, Michael B.,	Sussman, Michael B	modified
+true	Kazar, Alan	Kazar, Alan	modified
+true	Merideth, Susan,	Merideth, Susan	modified
+true	Hanson, Dorothy	Hanson, Dorothy	modified
+true	Adassa	Adassa	modified
+true	Lost Charge	Lost Charge	modified
+true	Hargrove, Isadora	Hargrove, Isadora	modified
+true	De Wolfe, Billy, 1907-1974	De Wolfe, Billy, 1907-1974	modified
+true	Foster, K. L	Foster, K L	modified
+true	Brand, Dionne,	Brand, Dionne	modified
+true	Harasymiw, Mark J	Harasymiw, Mark J	modified
+true	Grigsby, Chris	Grigsby, Chris	modified
+true	Flagg, Zoey	Flagg, Zoey	modified
+true	Goss, Elizabeth,	Goss, Elizabeth	modified
+true	Rabe, Samantha	Rabe, Samantha	modified
+true	Saldaana, Renae	Saldaana, Renae	modified
+true	Gaertner, Meg,	Gaertner, Meg	modified
+true	Perez, Lilly	Perez, Lilly	modified
+true	Chilembwe, Ted	Chilembwe, Ted	modified
+true	Lê, Minh,	Lê, Minh	modified
+true	Dreyer, Kira	Dreyer, Kira	modified
+true	Meyers, Bernadette	Meyers, Bernadette	modified
+true	Zoehfeld, Kathy	Zoehfeld, Kathy	modified
+true	Layne, Susan A	Layne, Susan A	modified
+true	Guzman, Sienna	Guzman, Sienna	modified
+true	Picou, Lin.,	Picou, Lin	modified
+true	Huffman, Mindy,	Huffman, Mindy	modified
+true	Ansberry, Karen Rohrich,	Ansberry, Karen Rohrich	modified
+true	Russ, Rachel,	Russ, Rachel	modified
+true	Reagan, Naomi	Reagan, Naomi	modified
+true	Sampson, Delilah	Sampson, Delilah	modified
+true	Meyer, Eileen R.,	Meyer, Eileen R	modified
+true	Maluma, 1994	Maluma, 1994	modified
+true	Truran, Stacy	Truran, Stacy	modified
+true	Jones, Scottie	Jones, Scottie	modified
+true	Scott, Benjamin,	Scott, Benjamin	modified
+true	Fleck, Gertrude	Fleck, Gertrude	modified
+true	Lawson, Lela,	Lawson, Lela	modified
+true	Haber, Rebecca	Haber, Rebecca	modified
+true	Cordova, Lucia	Cordova, Lucia	modified
+true	Sadar, Albin,	Sadar, Albin	modified
+true	Alan, Sondra	Alan, Sondra	modified
+true	Homzie, Hillary,	Homzie, Hillary	modified
+true	Brissette, James	Brissette, James	modified
+true	Bright, F. M	Bright, F M	modified
+true	Adair, Zack,	Adair, Zack	modified
+true	Faulkner, Megan,	Faulkner, Megan	modified
+true	Polinsky, Paige V.,	Polinsky, Paige V	modified
+true	Random House Children's Firm	Random House Children's Firm	modified
+true	Chilson, Martin	Chilson, Martin	modified
+true	Scarletti, Jeff	Scarletti, Jeff	modified
+true	American Film Investment Corp	American Film Investment Corp	modified
+true	Betrand, Diane Gonzales	Betrand, Diane Gonzales	modified
+true	Wears, Katie M	Wears, Katie M	modified
+true	Lordi, Catherine,	Lordi, Catherine	modified
+true	Stilwell, Debra	Stilwell, Debra	modified
+true	Diamandopoulous, Stavros	Diamandopoulous, Stavros	modified
+true	Prowell, Denise,	Prowell, Denise	modified
+true	Cordova, Esther Pia,	Cordova, Esther Pia	modified
+true	Curriculum Associates Firm	Curriculum Associates Firm	modified
+true	Jennings, Terry Catasus	Jennings, Terry Catasus	modified
+true	Rice, Erika	Rice, Erika	modified
+true	Luna, Shawn	Luna, Shawn	modified
+true	Micklos, Jr. John	Micklos, Jr John	modified
+true	Staton, Hilary	Staton, Hilary	modified
+true	Kijak, Anna	Kijak, Anna	modified
+true	Sevra, Robert	Sevra, Robert	modified
+true	Kertell, Lynn Maslen,	Kertell, Lynn Maslen	modified
+true	Adams, Diane,	Adams, Diane	modified
+true	Kleinhenz, Meltzer	Kleinhenz, Meltzer	modified
+true	Weitzman, Ilana., ill	Weitzman, Ilana, Ill	modified
+true	Olson, Elsie,	Olson, Elsie	modified
+true	Nicholson, Carrie	Nicholson, Carrie	modified
+true	Beatriz, Stephanie	Beatriz, Stephanie	modified
+true	Woop Studios, ill	Woop Studios, Ill	modified
+true	Sargent, Patrick	Sargent, Patrick	modified
+true	Kelley, Iris	Kelley, Iris	modified
+true	Schumacher, Bev	Schumacher, Bev	modified
+true	Andersen, Michelle Garcia,	Andersen, Michelle Garcia	modified
+true	Colton, Katharine	Colton, Katharine	modified
+true	Shaughnessy, Charles, 1955	Shaughnessy, Charles, 1955	modified
+true	Court, Kimberly	Court, Kimberly	modified
+true	Lisson, Jonas	Lisson, Jonas	modified
+true	Hernandez, Laurie,	Hernandez, Laurie	modified
+true	Pomery, John	Pomery, John	modified
+true	McKenna, Kay	McKenna, Kay	modified
+true	Kuszewski, Ivy,	Kuszewski, Ivy	modified
+true	Bedeksy, Baron	Bedeksy, Baron	modified
+true	Sisk, Maeve	Sisk, Maeve	modified
+true	July, Jeane	July, Jeane	modified
+true	Roemer, Robert	Roemer, Robert	modified
+true	Hargrove, Isadora,	Hargrove, Isadora	modified
+true	Beem, Florence	Beem, Florence	modified
+true	Flannigan, Corey	Flannigan, Corey	modified
+true	Parrish, Sherry,	Parrish, Sherry	modified
+true	Christie, Lee	Christie, Lee	modified
+true	Tichbourne, Amy	Tichbourne, Amy	modified
+true	Gilbert, Elizabeth T., ill	Gilbert, Elizabeth T, Ill	modified
+true	Rijada, Myles	Rijada, Myles	modified
+true	Barbieri, Gladys Elizabeth,	Barbieri, Gladys Elizabeth	modified
+true	Field, Erica,	Field, Erica	modified
+true	Mizrachi, Esther	Mizrachi, Esther	modified
+true	Small, Jane	Small, Jane	modified
+true	Fitch, Amber,	Fitch, Amber	modified
+true	Carosella, Melissa,	Carosella, Melissa	modified
+true	Harrison, Micah	Harrison, Micah	modified
+true	Bernstein, Leora,	Bernstein, Leora	modified
+true	Charles, Tami,	Charles, Tami	modified
+true	Stewart, Kyle	Stewart, Kyle	modified
+true	Porter, Olive	Porter, Olive	modified
+true	Peale, Jonathan	Peale, Jonathan	modified
+true	Cirriculum Associates, LLC	Cirriculum Associates, Llc	modified
+true	Saperstein, Henry G., 1918-1998	Saperstein, Henry G, 1918-1998	modified
+true	Jackson, Demi,	Jackson, Demi	modified
+true	McClure, Robin,	McClure, Robin	modified
+true	Cupp, Dave,	Cupp, Dave	modified
+true	Horender, Philip	Horender, Philip	modified
+true	Fein, Caitlin,	Fein, Caitlin	modified
+true	Brannan, Annie	Brannan, Annie	modified
+true	Walker, Susan Sandvig	Walker, Susan Sandvig	modified
+true	Marshall, L. J	Marshall, L J	modified
+true	Carra, Leslie	Carra, Leslie	modified
+true	Tammany, Mark	Tammany, Mark	modified
+true	Cole, Carol A.,	Cole, Carol A	modified
+true	Vander Heyden, Linda	Vander Heyden, Linda	modified
+true	Royce, Christine Anne,	Royce, Christine Anne	modified
+true	Freeman, Irena	Freeman, Irena	modified
+true	Ingham, Barrie	Ingham, Barrie	modified
+true	Bennett, Doraine,	Bennett, Doraine	modified
+true	Sagitarius Entertainment Firm	Sagitarius Entertainment Firm	modified
+true	Thomas, Rory	Thomas, Rory	modified
+true	Rowe, Julie	Rowe, Julie	modified
+true	Williams, Susie,	Williams, Susie	modified
+true	Roselló, Jarod,	Roselló, Jarod	modified
+true	Mead, Kathryn	Mead, Kathryn	modified
+true	Lizzio, Samantha,	Lizzio, Samantha	modified
+true	Bednarchuk, Bruce	Bednarchuk, Bruce	modified
+true	Murphy, Roscoe	Murphy, Roscoe	modified
+true	White, E. B 1899-1985	White, E B 1899-1985	modified
+true	Koto, Tanner	Koto, Tanner	modified
+true	Appleby, Alex.,	Appleby, Alex	modified
+true	Behar, Natalie	Behar, Natalie	modified
+true	Sisk, Cameron	Sisk, Cameron	modified
+true	Luke, Davia	Luke, Davia	modified
+true	Jenkins, Jamie,	Jenkins, Jamie	modified
+true	Mason, Kimberlee	Mason, Kimberlee	modified
+true	Titzer, Robert C	Titzer, Robert C	modified
+true	Bear, Baldwin B	Bear, Baldwin B	modified
+true	Winn, Kevin P.,	Winn, Kevin P	modified
+true	Durfey-Lavoie, Lee,	Durfey-Lavoie, Lee	modified
+true	Engles, Diane	Engles, Diane	modified
+true	Feldstone, Lena	Feldstone, Lena	modified
+true	McGraw-Hill Companies., McGraw-Hill School Division	McGraw-Hill Companies, McGraw-Hill School Division	modified
+true	Remington, Ben	Remington, Ben	modified
+true	Coulton, Mia,	Coulton, Mia	modified
+true	Watson, Renée,	Watson, Renée	modified
+true	Mohr, Carole,	Mohr, Carole	modified
+true	St.Phan, Susan	StPhan, Susan	modified
+true	Ross, Chudney	Ross, Chudney	modified
+true	Cisneros, Terri	Cisneros, Terri	modified
+true	Celzo, Riley	Celzo, Riley	modified
+true	Parnell, Declan,	Parnell, Declan	modified
+true	Statham, Jason, 1972	Statham, Jason, 1972	modified
+true	Edizioni Piemme	Edizioni Piemme	modified
+true	Lucero, Lucy	Lucero, Lucy	modified
+true	Lockerd, Jodi	Lockerd, Jodi	modified
+true	Parsley, Elise,	Parsley, Elise	modified
+true	Stubbs, Susan	Stubbs, Susan	modified
+true	Cowan, Jo	Cowan, Jo	modified
+true	Kennedy, Marge M.,	Kennedy, Marge M	modified
+true	Rice, Dona Herwerk	Rice, Dona Herwerk	modified
+true	Golding, Theresa	Golding, Theresa	modified
+true	Malone, Charlotte	Malone, Charlotte	modified
+true	Nelson, Steve, 1907-1981	Nelson, Steve, 1907-1981	modified
+true	Cadejo, Oscar	Cadejo, Oscar	modified
+true	King, Alexandra	King, Alexandra	modified
+true	Prough, Chandra	Prough, Chandra	modified
+true	Rodriquez, Kenneth	Rodriquez, Kenneth	modified
+true	Madison, Amelia	Madison, Amelia	modified
+true	Schuck, Donald L	Schuck, Donald L	modified
+true	LeHahn, Davis	Lehahn, Davis	modified
+true	Collins, Savina,	Collins, Savina	modified
+true	Barrs, Karen	Barrs, Karen	modified
+true	Smith, Rich,	Smith, Rich	modified
+true	González, Xelena,	González, Xelena	modified
+true	Josephina, Luis	Josephina, Luis	modified
+true	Harasymiw, R. M	Harasymiw, R M	modified
+true	Singh, Vimla	Singh, Vimla	modified
+true	Rossi, Ann M	Rossi, Ann M	modified
+true	Dufresne, Michèle	Dufresne, Michèle	modified
+true	Darrow, Jessica, 1995	Darrow, Jessica, 1995	modified
+true	Malet, Arthur, 1927	Malet, Arthur, 1927	modified
+true	Laszlo, Eva	Laszlo, Eva	modified
+true	Petrokis, Dixie Lee	Petrokis, Dixie Lee	modified
+true	Rushworth, Gary	Rushworth, Gary	modified
+true	Hutchinson, Hanna,	Hutchinson, Hanna	modified
+true	Severn, Duane	Severn, Duane	modified
+true	Wojick, Luke	Wojick, Luke	modified
+true	Rabe, Sam	Rabe, Sam	modified
+true	Carole, Bonnie	Carole, Bonnie	modified
+true	Obach, Rowan	Obach, Rowan	modified
+true	Sugarman, Dorothy Alexander	Sugarman, Dorothy Alexander	modified
+true	Springer, Kate	Springer, Kate	modified
+true	Brown, India Hill,	Brown, India Hill	modified
+true	Merino Flores, Yvett, 1970	Merino Flores, Yvett, 1970	modified
+true	Reyes, Sandi,	Reyes, Sandi	modified
+true	Torres, Lisa	Torres, Lisa	modified
+true	Pérez, Marlene	Pérez, Marlene	modified
+true	Petra, Lon	Petra, Lon	modified
+true	Osterink, Carole	Osterink, Carole	modified
+true	Griffith, Christine,	Griffith, Christine	modified
+true	Griswold, Cliff,	Griswold, Cliff	modified
+true	Lincoln, Caleb	Lincoln, Caleb	modified
+true	Sloth, Coach	Sloth, Coach	modified
+true	Apgar, Elizabeth	Apgar, Elizabeth	modified
+true	O'Neill, John R	O'Neill, John R	modified
+true	Binns, Barbara,	Binns, Barbara	modified
+true	Tan, Richard	Tan, Richard	modified
+true	Wells, Phoebe	Wells, Phoebe	modified
+true	Nagai, Mariko,	Nagai, Mariko	modified
+true	Franklin, Loralei M.,	Franklin, Loralei M	modified
+true	Díaz, Katacha	Díaz, Katacha	modified
+true	Cabell, Richard	Cabell, Richard	modified
+true	Shenkarow, Justin	Shenkarow, Justin	modified
+true	Jarque, Marta	Jarque, Marta	modified
+true	Jones Brothers. prf	Jones Brothers Prf	modified
+true	Cho, Charles,	Cho, Charles	modified
+true	Rey, H. A 1898	Rey, H A 1898	modified
+true	Hargrove, Isadora,	Hargrove, Isadora	modified
+true	James, Bill, 1943-, ill	James, Bill, 1943-, Ill	modified
+true	Jude, Riley,	Jude, Riley	modified
+true	Necko, Carolyn	Necko, Carolyn	modified
+true	Alonso, Ana	Alonso, Ana	modified
+true	Nicoletta, Aria,	Nicoletta, Aria	modified
+true	Kupetz, Barbara N	Kupetz, Barbara N	modified
+true	Holmes, Tana	Holmes, Tana	modified
+true	Calì, Davide,	Calì, Davide	modified
+true	Cordova, Lucia	Cordova, Lucia	modified
+true	Alfaya, An	Alfaya, An	modified
+true	English Chamber Orchestra. prf	English Chamber Orchestra Prf	modified
+true	Rodriguez, Linda	Rodriguez, Linda	modified
+true	Jake, Linda,	Jake, Linda	modified
+true	Cornhill, Solly,	Cornhill, Solly	modified
+true	Barnes, Iris J.,	Barnes, Iris J	modified
+true	Adams, Barbara V	Adams, Barbara V	modified
+true	Mitchell, Rachel	Mitchell, Rachel	modified
+true	Jobey, Janice	Jobey, Janice	modified
+true	Leung, Julie,	Leung, Julie	modified
+true	Carroll, J. Larry, 1946	Carroll, J Larry, 1946	modified
+true	Goldstein, Julie	Goldstein, Julie	modified
+true	Scavatto, Mario	Scavatto, Mario	modified
+true	Alpern, Julie	Alpern, Julie	modified
+true	Chevance, Audrey	Chevance, Audrey	modified
+true	Riggs, Jennifer, tr	Riggs, Jennifer, Tr	modified
+true	Court, Kimberly,	Court, Kimberly	modified
+true	McDonnell, Ginger,	McDonnell, Ginger	modified
+true	Weech, Patty	Weech, Patty	modified
+true	Horning, Ginny	Horning, Ginny	modified
+true	Bowes, Deborah,	Bowes, Deborah	modified
+true	Prough, Chandra	Prough, Chandra	modified
+true	Foster, K. L	Foster, K L	modified
+true	Hirschhorn, Doris	Hirschhorn, Doris	modified
+true	Mei, Zihan	Mei, Zihan	modified
+true	Hinson, Rick	Hinson, Rick	modified
+true	McGovern, Kate L	McGovern, Kate L	modified
+true	Beethoven, Ludwig van, 1770-1827. Symphonies, no. 9, op. 125, D minor. Presto. Allegro assai	Beethoven, Ludwig Van, 1770-1827 Symphonies, No 9, Op 125, D Minor Presto Allegro Assai	modified
+true	O'Donnell, Claudea	O'Donnell, Claudea	modified
+true	Wilder, Laura Ingalls, 1867-1957	Wilder, Laura Ingalls, 1867-1957	modified
+true	Levesque, Rielle	Levesque, Rielle	modified
+true	Ting, Margaret Yuen Choon	Ting, Margaret Yuen Choon	modified
+true	Hymas, Allison K.,	Hymas, Allison K	modified
+true	Stringfield, Sherry, 1967	Stringfield, Sherry, 1967	modified
+true	Crutchfield, James Andrew,	Crutchfield, James Andrew	modified
+true	Kentcorn, S.J,	Kentcorn, SJ	modified
+true	Coupé, Jessica,	Coupé, Jessica	modified
+true	Mazza, Lisa Chesters,	Mazza, Lisa Chesters	modified
+true	Norton, William Ryan	Norton, William Ryan	modified
+true	Moore, Clement Clark,	Moore, Clement Clark	modified
+true	Kate, Nancy,	Kate, Nancy	modified
+true	Menken, Shepard	Menken, Shepard	modified
+true	Grau, Didi,	Grau, Didi	modified
+true	Triumph Learning Firm	Triumph Learning Firm	modified
+true	Morris, Cassie	Morris, Cassie	modified
+true	Heaton, Mark	Heaton, Mark	modified
+true	Opler, Paul A.,	Opler, Paul A	modified
+true	Peroutka, Thomas	Peroutka, Thomas	modified
+true	Jenkins, Cassandra	Jenkins, Cassandra	modified
+true	Beasley, Kate,	Beasley, Kate	modified
+true	O'Connor, Joe,	O'Connor, Joe	modified
+true	Ceppos, Dave	Ceppos, Dave	modified
+true	de la Peña, Matt,	De La Peña, Matt	modified
+true	Langbaum, Francesca L. V	Langbaum, Francesca L V	modified
+true	Monroe, Nathan	Monroe, Nathan	modified
+true	Quill, Penumbra,	Quill, Penumbra	modified
+true	Barry, Carl	Barry, Carl	modified
+true	Vergés, Glòria	Vergés, Glòria	modified
+true	Castle, Elizabeth	Castle, Elizabeth	modified
+true	Kentor, Sondra,	Kentor, Sondra	modified
+true	Rice, Dona Herwerk	Rice, Dona Herwerk	modified
+true	Icenoggle, Jodi	Icenoggle, Jodi	modified
+true	Mulhall, Jill K.,	Mulhall, Jill K	modified
+true	Pemberton, Rose,	Pemberton, Rose	modified
+true	Pérez Aguilar, Graciela,	Pérez Aguilar, Graciela	modified
+true	Takman, Ann	Takman, Ann	modified
+true	Ungaro, Ellen	Ungaro, Ellen	modified
+true	Fitch, Amber,	Fitch, Amber	modified
+true	Crooks, Lisa	Crooks, Lisa	modified
+true	Beethoven, Ludwig van, 1770-1827. Sonatas, piano, no. 14, op. 27, no. 2, C# minor	Beethoven, Ludwig Van, 1770-1827 Sonatas, Piano, No 14, Op 27, No 2, C# Minor	modified
+true	McDonald, Luke	McDonald, Luke	modified
+true	Smithling, C. F	Smithling, C F	modified
+true	Bliss, James	Bliss, James	modified
+true	Kurtz, Bob	Kurtz, Bob	modified
+true	Ozckus, Lori	Ozckus, Lori	modified
+true	Peterson, Julie	Peterson, Julie	modified
+true	Mattison, Ruth,	Mattison, Ruth	modified
+true	Blair, Denise	Blair, Denise	modified
+true	Bauman, Leslie	Bauman, Leslie	modified
+true	Passe, Shannon	Passe, Shannon	modified
+true	Singer, Irma	Singer, Irma	modified
+true	Special Music Company	Special Music Company	modified
+true	Bates, Matthew,	Bates, Matthew	modified
+true	Bright, Michele	Bright, Michele	modified
+true	Peratt, Karen	Peratt, Karen	modified
+true	PublicLibraryDVDs	Publiclibrarydvds	modified
+true	Mackenzie, Amy Allen	MacKenzie, Amy Allen	modified
+true	Herweck, Don,	Herweck, Don	modified
+true	Smith, Dalton,	Smith, Dalton	modified
+true	Pleasant, Joanie	Pleasant, Joanie	modified
+true	Ehrman, David	Ehrman, David	modified
+true	Stockhaug, Heather	Stockhaug, Heather	modified
+true	Jacobs, Dawn	Jacobs, Dawn	modified
+true	Perrotta, Anne-Marie	Perrotta, Anne-Marie	modified
+true	Wells, Phoebe	Wells, Phoebe	modified
+true	Walters, Abby,	Walters, Abby	modified
+true	Lichten, Betty,	Lichten, Betty	modified
+true	Luna, Shawn	Luna, Shawn	modified
+true	Yuen, Hannah S	Yuen, Hannah S	modified
+true	Bright, F. M	Bright, F M	modified
+true	Veliquette, Eric	Veliquette, Eric	modified
+true	GeBraad, Doug	Gebraad, Doug	modified
+true	Fuller, Elizabeth, ill	Fuller, Elizabeth, Ill	modified
+true	De Azevedo, Lex, 1943	De Azevedo, Lex, 1943	modified
+true	Kentshill, Susan	Kentshill, Susan	modified
+true	Garcia, Christian	Garcia, Christian	modified
+true	Mizrachi, Esther	Mizrachi, Esther	modified
+true	Nicholson, Carrie	Nicholson, Carrie	modified
+true	Waldek, Kelly, ill	Waldek, Kelly, Ill	modified
+true	Malden, Peter	Malden, Peter	modified
+true	Cayanni, Melissa	Cayanni, Melissa	modified
+true	Sill, Lisa M.,	Sill, Lisa M	modified
+true	D.J. Doc Roc	DJ Doc Roc	modified
+true	Malpica, Javier,	Malpica, Javier	modified
+true	Turner, Katherine,	Turner, Katherine	modified
+true	Yurczyk, Judith	Yurczyk, Judith	modified
+true	Collected and published under the direction of Dr. Brooks P. Coleman, Jr	Collected And Published Under The Direction Of Dr Brooks P Coleman, Jr	modified
+true	Adams, Kathryn, ill	Adams, Kathryn, Ill	modified
+true	Garcia, Ellen,	Garcia, Ellen	modified
+true	Byrne, Eileen,	Byrne, Eileen	modified
+true	Egan, Terry,	Egan, Terry	modified
+true	Larousse Firm	Larousse Firm	modified
+true	Gonzalez, Ruth del Carmen	Gonzalez, Ruth Del Carmen	modified
+true	Holt, Bob, 1928-1985	Holt, Bob, 1928-1985	modified
+true	Ritter, Al	Ritter, Al	modified
+true	Freyer, Ellen	Freyer, Ellen	modified
+true	Maxwell, Anne	Maxwell, Anne	modified
+true	Tempkin, Javier	Tempkin, Javier	modified
+true	Dwier, Barbara	Dwier, Barbara	modified
+true	Sargent, Patrick	Sargent, Patrick	modified
+true	Stark, Ryan	Stark, Ryan	modified
+true	Robert Frederick Ltd. Bath, England	Robert Frederick Ltd Bath, England	modified
+true	Two Dog Firm	Two Dog Firm	modified
+true	Santos, Ricardo	Santos, Ricardo	modified
+true	Day, Caryn	Day, Caryn	modified
+true	Mack, Aaron	MacK, Aaron	modified
+true	Galus, Pamela J	Galus, Pamela J	modified
+true	Rowland, Andrew, ill	Rowland, Andrew, Ill	modified
+true	Martínez Vélez, Oscar,	Martínez Vélez, Oscar	modified
+true	Patten, Brian, 1946	Patten, Brian, 1946	modified
+true	Coleman, Clara O.,	Coleman, Clara O	modified
+true	Engles, Diane	Engles, Diane	modified
+true	Freleng, Friz, 1905-1995	Freleng, Friz, 1905-1995	modified
+true	Quintana Crelis, Laura,	Quintana Crelis, Laura	modified
+true	Hughes, Barnard, 1915	Hughes, Barnard, 1915	modified
+true	Barruso, Joe	Barruso, Joe	modified
+true	Young, Mike, 1945	Young, Mike, 1945	modified
+true	Ko, Hannah,	Ko, Hannah	modified
+true	Flannigan, Corey	Flannigan, Corey	modified
+true	Zhu, Ruby,	Zhu, Ruby	modified
+true	Teachers College Reading and Writing Project Columbia University	Teachers College Reading And Writing Project Columbia University	modified
+true	Ernesto, Lilly	Ernesto, Lilly	modified
+true	Nowicki, David	Nowicki, David	modified
+true	Grout, Beth Jenkins	Grout, Beth Jenkins	modified
+true	Owens, Tom,	Owens, Tom	modified
+true	Pat McKissack	Pat McKissack	modified
+true	Benchmark Education Company	Benchmark Education Company	modified
+true	Vassos, Paul,	Vassos, Paul	modified
+true	Fonda, Marie	Fonda, Marie	modified
+true	Palagonia, Peter, ill	Palagonia, Peter, Ill	modified
+true	Petra, Lon	Petra, Lon	modified
+true	Berkow, Danielle	Berkow, Danielle	modified
+true	Fannon, Cecilia, 1950	Fannon, Cecilia, 1950	modified
+true	Graham, Sam	Graham, Sam	modified
+true	Lordi, Catherine	Lordi, Catherine	modified
+true	Boswell, Nicole	Boswell, Nicole	modified
+true	Education Center Greensboro, N.C	Education Center Greensboro, NC	modified
+true	Kazar, Alan	Kazar, Alan	modified
+true	Rudd, Tim	Rudd, Tim	modified
+true	Benchmark Education	Benchmark Education	modified
+true	McGuffee, Michael, ed	McGuffee, Michael, Ed	modified
+true	Deitchová, Zdenka	Deitchová, Zdenka	modified
+true	Montoya, Rosa	Montoya, Rosa	modified
+true	Mazza, Aria Nicoletta	Mazza, Aria Nicoletta	modified
+true	Smith, Rich,	Smith, Rich	modified
+true	Gould, Rick Shin	Gould, Rick Shin	modified
+true	Edwin, David,	Edwin, David	modified
+true	Marshall, L. J	Marshall, L J	modified
+true	Samuels, Sarah,	Samuels, Sarah	modified
+true	Wise, Andrew R	Wise, Andrew R	modified
+true	Shelly, Bruce	Shelly, Bruce	modified
+true	Zapata Lerga, Pablo	Zapata Lerga, Pablo	modified
+true	Sirota, Lyn,	Sirota, Lyn	modified
+true	Kate, Nancy	Kate, Nancy	modified
+true	CLEARVUE/eav Firm	Clearvue/Eav Firm	modified
+true	McArthur, Marcus,	McArthur, Marcus	modified
+true	Greengrass Productions	Greengrass Productions	modified
+true	Sherman, Richard M, 1928	Sherman, Richard M, 1928	modified
+true	Hubbell, Chris	Hubbell, Chris	modified
+true	Cortés Salinas, José L	Cortés Salinas, José L	modified
+true	Hawley, Kelvin, ill	Hawley, Kelvin, Ill	modified
+true	Sargent, Sara,	Sargent, Sara	modified
+true	Guerra, Juan J	Guerra, Juan J	modified
+true	Gerard, Emily Beth	Gerard, Emily Beth	modified
+true	McIntyre, Doug, 1957	McIntyre, Doug, 1957	modified
+true	Gallego García, Laura,	Gallego García, Laura	modified
+true	Marston, Stephen C	Marston, Stephen C	modified
+true	Smith, Arthur, 1921- prf	Smith, Arthur, 1921- Prf	modified
+true	Carren, David Bennett	Carren, David Bennett	modified
+true	Medlock, Michael A	Medlock, Michael A	modified
+true	Morgan, Mary, 1957-, ill	Morgan, Mary, 1957-, Ill	modified
+true	Reader's Digest Children's Book	Reader's Digest Children's Book	modified
+true	Wallace, Nancy K.,	Wallace, Nancy K	modified
+true	Daoust, Cindy K	Daoust, Cindy K	modified
+true	Lordi, Catherine,	Lordi, Catherine	modified
+true	Garr, Bonita	Garr, Bonita	modified
+true	Sagitarius Entertainment Firm	Sagitarius Entertainment Firm	modified
+true	Khalimsky, Rachel	Khalimsky, Rachel	modified
+true	Wilis, John,	Wilis, John	modified
+true	Trujillo, Carmela,	Trujillo, Carmela	modified
+true	Luke, Davia	Luke, Davia	modified
+true	Shofner, Melissa Raé,	Shofner, Melissa Raé	modified
+true	WNED-TV Television station : Buffalo, N.Y	Wned-Tv Television Station : Buffalo, NY	modified
+true	Wears, Katie M	Wears, Katie M	modified
+true	Court, Kimberly	Court, Kimberly	modified
+true	Bellings, Margaret	Bellings, Margaret	modified
+true	Robinson, Suzanne	Robinson, Suzanne	modified
+true	Kratky, Lada Josefa,	Kratky, Lada Josefa	modified
+true	Parra Sr , Angelo M	Parra Sr , Angelo M	modified
+true	Albertson, Al,	Albertson, Al	modified
+true	Kolloori, Eva,	Kolloori, Eva	modified
+true	Tribune Entertainment	Tribune Entertainment	modified
+true	Hyde, Madeline,	Hyde, Madeline	modified
+true	Hopf, Alice Lightner,	Hopf, Alice Lightner	modified
+true	Bright, Lauren	Bright, Lauren	modified
+true	Moore, Lacey	Moore, Lacey	modified
+true	Heck, Ellen,	Heck, Ellen	modified
+true	Richards, Jasmine,	Richards, Jasmine	modified
+true	Northstar Orchestra	Northstar Orchestra	modified
+true	Baughman, John W	Baughman, John W	modified
+true	Brenston, Robin	Brenston, Robin	modified
+true	Bridges, Edwin C	Bridges, Edwin C	modified
+true	Katze, Micah	Katze, Micah	modified
+true	Thompson, Linda,	Thompson, Linda	modified
+true	Kirk, Alina,	Kirk, Alina	modified
+true	Brown, Jesse	Brown, Jesse	modified
+true	Kopo, Norma	Kopo, Norma	modified
+true	Báez, Angela	Báez, Angela	modified
+true	Strand, Jennifer,	Strand, Jennifer	modified
+true	Samson, Darnell,	Samson, Darnell	modified
+true	Overend Prior, Jennifer,	Overend Prior, Jennifer	modified
+true	Step Ahead Productions	Step Ahead Productions	modified
+true	Bella, Laura La	Bella, Laura La	modified
+true	Brass, Caroline	Brass, Caroline	modified
+true	Reading Safari U.S	Reading Safari US	modified
+true	Kirk, Deana	Kirk, Deana	modified
+true	DeCicco, Avery,	Decicco, Avery	modified
+true	Wells, Howard	Wells, Howard	modified
+true	Dowd, Molly,	Dowd, Molly	modified
+true	Roper, Michelle	Roper, Michelle	modified
+true	Prowell, Denise,	Prowell, Denise	modified
+true	Beer, Barbara Vagnozzi, ill	Beer, Barbara Vagnozzi, Ill	modified
+true	Cabell, Richard	Cabell, Richard	modified
+true	Miller, Sharee,	Miller, Sharee	modified
+true	Pickett, George	Pickett, George	modified
+true	Mozart, Wolfgang,	Mozart, Wolfgang	modified
+true	Koch-Thurman, Kathryn	Koch-Thurman, Kathryn	modified
+true	Witiw, Sebastian,	Witiw, Sebastian	modified
+true	Ortiz, Raquel M	Ortiz, Raquel M	modified
+true	Benchmark Education Co	Benchmark Education Co	modified
+true	Milne, Stephanie	Milne, Stephanie	modified
+true	Stowell, Cinci,	Stowell, Cinci	modified
+true	Jeske, Eva	Jeske, Eva	modified
+true	Petersen, Kathleen C. Null	Petersen, Kathleen C Null	modified
+true	Gabrysch, Kelly T	Gabrysch, Kelly T	modified
+true	McNamara, Noelle	McNamara, Noelle	modified
+true	Animated Television	Animated Television	modified
+true	Mondo Publishing U.S	Mondo Publishing US	modified
+true	O'Neill, John R	O'Neill, John R	modified
+true	McKenzie, Pamela Walker,	McKenzie, Pamela Walker	modified
+true	100% Educational Videos, Inc	100% Educational Videos, Inc	modified
+true	Svec, Wendy,	Svec, Wendy	modified
+true	Marsh, Sean,	Marsh, Sean	modified
+true	Lopez, Elizabeth Anderson,	Lopez, Elizabeth Anderson	modified
+true	Buu, Thu,	Buu, Thu	modified
+true	Howe, Annie	Howe, Annie	modified
+true	Bruneau, LeeAnn	Bruneau, Leeann	modified
+true	Santos, Care,	Santos, Care	modified
+true	Anthony, David Henry,	Anthony, David Henry	modified
+true	Collins, Kathy,	Collins, Kathy	modified
+true	Pappa, Rodoula,	Pappa, Rodoula	modified
+true	Longnecker, Theresa,	Longnecker, Theresa	modified
+true	Rey, H. A 1898-1977	Rey, H A 1898-1977	modified
+true	Cullen-Clark, Patricia, ill	Cullen-Clark, Patricia, Ill	modified
+true	Van Allen, Leo,	Van Allen, Leo	modified
+true	Zhu, Ruby	Zhu, Ruby	modified
+true	Harris, Gwen,	Harris, Gwen	modified
+true	Chevannes, Sabrina,	Chevannes, Sabrina	modified
+true	West, Kevin	West, Kevin	modified
+true	Bigford, Julie	Bigford, Julie	modified
+true	Pernick, Gary	Pernick, Gary	modified
+true	Lang, Asi	Lang, Asi	modified
+true	Griffith, Christine,	Griffith, Christine	modified
+true	Smith, Hobart Muir,	Smith, Hobart Muir	modified
+true	Samuels, Sarah	Samuels, Sarah	modified
+true	Arnold, Marsha Diane,	Arnold, Marsha Diane	modified
+true	Koolloori, Eva,	Koolloori, Eva	modified
+true	Gillan, Lisa	Gillan, Lisa	modified
+true	Tichbourne, Amy	Tichbourne, Amy	modified
+true	Bright, Leah	Bright, Leah	modified
+true	Springer, Kate,	Springer, Kate	modified
+true	Bencastro, Mario,	Bencastro, Mario	modified
+true	King Rollo Films, Ltd	King Rollo Films, Ltd	modified
+true	Worrall, Tom	Worrall, Tom	modified
+true	Mazzarella Bros. Production	Mazzarella Bros Production	modified
+true	Washington, Venus,	Washington, Venus	modified
+true	McCann, Pat	McCann, Pat	modified
+true	Ladies' Hermitage Association	Ladies' Hermitage Association	modified
+true	Svec, Wendy	Svec, Wendy	modified
+true	Roome, Hugh,	Roome, Hugh	modified
+true	Wylie, Cynthia,	Wylie, Cynthia	modified
+true	Mao, Casey	Mao, Casey	modified
+true	King, Joey, 1999	King, Joey, 1999	modified
+true	Barth, April,	Barth, April	modified
+true	Tarlton, John, 1950	Tarlton, John, 1950	modified
+true	Eagle Media	Eagle Media	modified
+true	Morrison, Ellen Earnhardt	Morrison, Ellen Earnhardt	modified
+true	Severn, Duane	Severn, Duane	modified
+true	Oachs, Emily Rose,	Oachs, Emily Rose	modified
+true	Malpica, Toño,	Malpica, Toño	modified
+true	Spowart, Robin, ill	Spowart, Robin, Ill	modified
+true	Kaplan, Kim	Kaplan, Kim	modified
+true	Watson, John T, Jr	Watson, John T, Jr	modified
+true	Hall, Robert A. 1911-1997	Hall, Robert A 1911-1997	modified
+true	Pachelbel, Johann, 1653-1706	Pachelbel, Johann, 1653-1706	modified
+true	Lopez, David Mark	Lopez, David Mark	modified
+true	Fernandes, Richard A	Fernandes, Richard A	modified
+true	Springer, Kate	Springer, Kate	modified
+true	Stiles, George	Stiles, George	modified
+true	Banks, Sara H,	Banks, Sara H	modified
+true	Roth, Froma P	Roth, Froma P	modified
+true	Moore, Kirk	Moore, Kirk	modified
+true	Evitts, William J.,	Evitts, William J	modified
+true	Mangual, C. Ines,	Mangual, C Ines	modified
+true	Uitz, Matt	Uitz, Matt	modified
+true	Borst, Terry	Borst, Terry	modified
+true	Halpern, Monica V	Halpern, Monica V	modified
+true	Kalish, Ellen,	Kalish, Ellen	modified
+true	García, Aurora Colón	García, Aurora Colón	modified
+true	Child, Lydia Maria,	Child, Lydia Maria	modified
+true	Uslan, Michael, 1951	Uslan, Michael, 1951	modified
+true	Levy, Eugene, 1946	Levy, Eugene, 1946	modified
+true	Morris, Lucy	Morris, Lucy	modified
+true	Alaraj, Evangelene,	Alaraj, Evangelene	modified
+true	Rowe, Julie	Rowe, Julie	modified
+true	Adams, Diane,	Adams, Diane	modified
+true	Cuff, Marcie Chambers	Cuff, Marcie Chambers	modified
+true	Pair Records	Pair Records	modified
+true	Shelly, Reed	Shelly, Reed	modified
+true	Stihler, Chérie B	Stihler, Chérie B	modified
+true	Ana Maria	Ana Maria	modified
+true	Gonzales, Max	Gonzales, Max	modified
+true	Deren, Anna	Deren, Anna	modified
+true	Judge, Wendy	Judge, Wendy	modified
+true	Diaz, Tomas	Diaz, Tomas	modified
+true	Josephina, Luis	Josephina, Luis	modified
+true	Dana, Liz,	Dana, Liz	modified
+true	Dunford, Elizabeth	Dunford, Elizabeth	modified
+true	Paris, Stephanie Herweck,	Paris, Stephanie Herweck	modified
+true	Norris, Betsy	Norris, Betsy	modified
+true	Parisi, Antonella	Parisi, Antonella	modified
+true	Meyers, Barbara	Meyers, Barbara	modified
+true	Martin, Iris	Martin, Iris	modified
+true	Moisa, Ralph	Moisa, Ralph	modified
+true	Dunbar, Adrian, 1958	Dunbar, Adrian, 1958	modified
+true	Minkoff, Marilyn	Minkoff, Marilyn	modified
+true	Viliquette, Eric	Viliquette, Eric	modified
+true	Downest, Madeline,	Downest, Madeline	modified
+true	Cardoza, Robert	Cardoza, Robert	modified
+true	Sairigné, Catherine de	Sairigné, Catherine De	modified
+true	arr	Arr	modified
+true	Ringwald, Kimmer	Ringwald, Kimmer	modified
+true	Reed, Gordon J	Reed, Gordon J	modified
+true	Cathy Beylon/Evelyne Johnson Associates	Cathy Beylon/Evelyne Johnson Associates	modified
+true	Burmark, Lynell, 1946	Burmark, Lynell, 1946	modified
+true	Center for Film Enhanced Education	Center For Film Enhanced Education	modified
+true	Michelle, Charlotte	Michelle, Charlotte	modified
+true	Scarletti, Jeff	Scarletti, Jeff	modified
+true	Souby, Anne,	Souby, Anne	modified
+true	Flagg, Ann	Flagg, Ann	modified
+true	Salzman, Gabriel	Salzman, Gabriel	modified
+true	Georgia., Dept. of Natural Resources	Georgia, Dept Of Natural Resources	modified
+true	Quilty, Jessica	Quilty, Jessica	modified
+true	McWilliams, Eileen	McWilliams, Eileen	modified
+true	Moreta, Gladys,	Moreta, Gladys	modified
+true	Puga, María Luisa,	Puga, María Luisa	modified
+true	Gerholdt, James E.,	Gerholdt, James E	modified
+true	Altman, Sean	Altman, Sean	modified
+true	Wood, Theodore	Wood, Theodore	modified
+true	Stewart, Kyle,	Stewart, Kyle	modified
+true	Easton, Carly	Easton, Carly	modified
+true	Bowron, Gregory	Bowron, Gregory	modified
+true	Mao, Casey,	Mao, Casey	modified
+true	Roscoe, Charlie,	Roscoe, Charlie	modified
+true	Brooks, Jacqui, ill	Brooks, Jacqui, Ill	modified
+true	French, Amy,	French, Amy	modified
+true	Hugo, Matthew,	Hugo, Matthew	modified
+true	Kenimer, Harkness	Kenimer, Harkness	modified
+true	Malone, Gavin	Malone, Gavin	modified
+true	Mitten, Ellen,	Mitten, Ellen	modified
+true	Cummings, Pat, comp	Cummings, Pat, Comp	modified
+true	Pescetti, Luis Maria,	Pescetti, Luis Maria	modified
+true	Laszlo, Eva	Laszlo, Eva	modified
+true	Judge, Sue	Judge, Sue	modified
+true	Small, Jane	Small, Jane	modified
+true	Child, Lydia Maria, 1802-1880	Child, Lydia Maria, 1802-1880	modified
+true	Bunch, Tyler	Bunch, Tyler	modified
+true	Buckley, Thomas J	Buckley, Thomas J	modified
+true	Lauritzen, Chris	Lauritzen, Chris	modified
+true	Palacio Obón, Martha Riva,	Palacio Obón, Martha Riva	modified
+true	Nugent, Glenda	Nugent, Glenda	modified
+true	Strawderman, Dennis	Strawderman, Dennis	modified
+true	Beckerman, Nell Cross,	Beckerman, Nell Cross	modified
+true	Carosella, Melissa,	Carosella, Melissa	modified
+true	Proctor, Philip	Proctor, Philip	modified
+true	Hendry, Diana, 1941	Hendry, Diana, 1941	modified
+true	Farber, Rachel	Farber, Rachel	modified
+true	Cat in the Hat Firm	Cat In The Hat Firm	modified
+true	Polinsky, Paige V.,	Polinsky, Paige V	modified
+true	Benjamin, A. H., 1950	Benjamin, A H, 1950	modified
+true	Loe, Marie, ill	Loe, Marie, Ill	modified
+true	Reilly, Judy	Reilly, Judy	modified
+true	Artinian, Zareh MacPherson	Artinian, Zareh MacPherson	modified
+true	Yard, Marleen	Yard, Marleen	modified
+true	Redhead Slater, Janet	Redhead Slater, Janet	modified
+true	Finke, Beth,	Finke, Beth	modified
+true	School Media, Inc	School Media, Inc	modified
+true	Shapiro, Barry	Shapiro, Barry	modified
+true	Rossiter, Max,	Rossiter, Max	modified
+true	Einstein, Marsha Goodman	Einstein, Marsha Goodman	modified
+true	Nguyen, Jay	Nguyen, Jay	modified
+true	Rudometkin, J. D	Rudometkin, J D	modified
+true	Byrne, Valentina,	Byrne, Valentina	modified
+true	Austin, Joanna	Austin, Joanna	modified
+true	Allen, Diane	Allen, Diane	modified
+true	Jamestown-Yorktown Foundation	Jamestown-Yorktown Foundation	modified
+true	Wilbur, Helen L,	Wilbur, Helen L	modified
+true	Gonzalez, Eric,	Gonzalez, Eric	modified
+true	Jenkins, Celeste	Jenkins, Celeste	modified
+true	Olson, Elsie,	Olson, Elsie	modified
+true	Guidone, Julie,	Guidone, Julie	modified
+true	Kenderes-Eibner, Vicki	Kenderes-Eibner, Vicki	modified
+true	Lingen, Lorenzo Van Der, Ill	Lingen, Lorenzo Van Der, Ill	modified
+true	Slater, Alexa	Slater, Alexa	modified
+true	Murano, Carl	Murano, Carl	modified
+true	Michael, Sarah,	Michael, Sarah	modified
+true	Norris, Glenn	Norris, Glenn	modified
+true	Schlemme, Roy, ill	Schlemme, Roy, Ill	modified
+true	Sabonis, Darrell	Sabonis, Darrell	modified
+true	Lee, Jackie	Lee, Jackie	modified
+true	Field, Erica,	Field, Erica	modified
+true	Hayward, Amanda,	Hayward, Amanda	modified
+true	Deal, Sandra D.,	Deal, Sandra D	modified
+true	Castro, Rodolfo,	Castro, Rodolfo	modified
+true	SchoolVideos Firm	Schoolvideos Firm	modified
+true	Maliani, Michael	Maliani, Michael	modified
+true	Dominion Foundation	Dominion Foundation	modified
+true	Redd, Nancy,	Redd, Nancy	modified
+true	Letera, Jackie	Letera, Jackie	modified
+true	Cruz, Joanna	Cruz, Joanna	modified
+true	Lee, Jared D, ill	Lee, Jared D, Ill	modified
+true	Maas, Majella	Maas, Majella	modified
+true	Murphy, Roscoe	Murphy, Roscoe	modified
+true	Sommer, Nathan,	Sommer, Nathan	modified
+true	Carey, Jennifer Davis,	Carey, Jennifer Davis	modified
+true	Lemkull, Stan	Lemkull, Stan	modified
+true	Crowninshield, Ethel	Crowninshield, Ethel	modified
+true	Lewis, C. S 1898-1963	Lewis, C S 1898-1963	modified
+true	Malone, Charlotte	Malone, Charlotte	modified
+true	Pouyanne, Thérèse	Pouyanne, Thérèse	modified
+true	Schuff, Nicolás,	Schuff, Nicolás	modified
+true	Stewart, Kyle	Stewart, Kyle	modified
+true	Lewis, Kathryn E	Lewis, Kathryn E	modified
+true	Clark, Zack Loran,	Clark, Zack Loran	modified
+true	Heselwood, Juliet	Heselwood, Juliet	modified
+true	Lakeshore Learning Materials	Lakeshore Learning Materials	modified
+true	Diaz, Ella,	Diaz, Ella	modified
+true	100% Educational Videos Firm	100% Educational Videos Firm	modified
+true	Dunn, Nancy	Dunn, Nancy	modified
+true	Jake, Linda	Jake, Linda	modified
+true	Menville, Scott	Menville, Scott	modified
+true	Knaus, Lyly Rojas de	Knaus, Lyly Rojas De	modified
+true	Hauss, Sandra	Hauss, Sandra	modified
+true	Alston, B. B.,	Alston, B B	modified
+true	Shelby, Melanie	Shelby, Melanie	modified
+true	Ulkutay & Co	Ulkutay & Co	modified
+true	García, Carmen	García, Carmen	modified
+true	Lombard, Jenny,	Lombard, Jenny	modified
+true	Violich, Craig	Violich, Craig	modified
+true	James, Jesse,	James, Jesse	modified
+true	Shepherd, Zeke	Shepherd, Zeke	modified
+true	Stubbs, Susan	Stubbs, Susan	modified
+true	Stratton, Phoebe,	Stratton, Phoebe	modified
+true	De Leeuw, Adele,	De Leeuw, Adele	modified
+true	Cisneros, Terri	Cisneros, Terri	modified
+true	Howe, Annie,	Howe, Annie	modified
+true	DePatie, David H	Depatie, David H	modified
+true	Perez, Celia C.,	Perez, Celia C	modified
+true	Pelletier, Chadwick	Pelletier, Chadwick	modified
+true	Distinguished Productions, Inc	Distinguished Productions, Inc	modified
+true	De Leeuw, Adèle,	De Leeuw, Adèle	modified
+true	Marlow, Linda	Marlow, Linda	modified
+true	Stroud, Cheryl	Stroud, Cheryl	modified
+true	Fresco, Diane M	Fresco, Diane M	modified
+true	Mills, Zach	Mills, Zach	modified
+true	Adair, Zack,	Adair, Zack	modified
+true	Konik, Michael	Konik, Michael	modified
+true	Peñalosa M., Javier,	Peñalosa M, Javier	modified
+true	Shea, Lisa,	Shea, Lisa	modified
+true	Ryan, Pam Muñoz,	Ryan, Pam Muñoz	modified
+true	Ma, Shu Yun	Ma, Shu Yun	modified
+true	Lawlor, Joe,	Lawlor, Joe	modified
+true	Kijak, Anna	Kijak, Anna	modified
+true	Mayes, Ellen	Mayes, Ellen	modified
+true	Goss, Elizabeth,	Goss, Elizabeth	modified
+true	Robins, Maureen Picard,	Robins, Maureen Picard	modified
+true	Aesop. Fables. English. Selections	Aesop Fables English Selections	modified
+true	Randles, William G	Randles, William G	modified
+true	Finley-Holiday Films	Finley-Holiday Films	modified
+true	Atlanta History Center Atlanta, Ga	Atlanta History Center Atlanta, Ga	modified
+true	Siegel, Jaye,	Siegel, Jaye	modified
+true	Sheppard, T. R	Sheppard, T R	modified
+true	Charles, Tami,	Charles, Tami	modified
+true	Halket, Amy Levin,	Halket, Amy Levin	modified
+true	Dvorak, David	Dvorak, David	modified
+true	Byrne, Valentina	Byrne, Valentina	modified
+true	Burke, Erin	Burke, Erin	modified
+true	Log Cabin Boys. prf	Log Cabin Boys Prf	modified
+true	Beem, Florence	Beem, Florence	modified
+true	McDonald, Laura	McDonald, Laura	modified
+true	Russell, Rachel Renée,	Russell, Rachel Renée	modified
+true	Virginia., Dept. of Education	Virginia, Dept Of Education	modified
+true	Laroche, Giles, ill	Laroche, Giles, Ill	modified
+true	Melvin, Jerry	Melvin, Jerry	modified
+true	Cortés, Jesús,	Cortés, Jesús	modified
+true	Singh, Vimla	Singh, Vimla	modified
+true	Penny, Cathleen	Penny, Cathleen	modified
+true	Hutter, Carollyne	Hutter, Carollyne	modified
+true	McCann, Pat,	McCann, Pat	modified
+true	Duncan, Charity	Duncan, Charity	modified
+true	O'Brien, Annie,	O'Brien, Annie	modified
+true	Williams, Jeffrey L	Williams, Jeffrey L	modified
+true	Quest, Dan	Quest, Dan	modified
+true	Allaman	Allaman	modified
+true	Vallejo-Nágera, Alejandra,	Vallejo-Nágera, Alejandra	modified
+true	Morton, Julia Frances,	Morton, Julia Frances	modified
+true	Sudol, Ellen M.,	Sudol, Ellen M	modified
+true	Margaret McGrath, ill	Margaret McGrath, Ill	modified
+true	Allen, Rex, 1924	Allen, Rex, 1924	modified
+true	Janikian, Areka	Janikian, Areka	modified
+true	Rodriguera, Sydney	Rodriguera, Sydney	modified
+true	Obach, Riley	Obach, Riley	modified
+true	Lee, Clarence	Lee, Clarence	modified
+true	Atwater, Nico	Atwater, Nico	modified
+true	McCoy, David B	McCoy, David B	modified
+true	Evans, Chenille	Evans, Chenille	modified
+true	Stone, Serena,	Stone, Serena	modified
+true	Panico, Missy	Panico, Missy	modified
+true	Brown, Richard Eric, 1946-, ill	Brown, Richard Eric, 1946-, Ill	modified
+true	Kennedy, Gregory P.,	Kennedy, Gregory P	modified
+true	Cruz, Calvin,	Cruz, Calvin	modified
+true	Lipsett, Will	Lipsett, Will	modified
+true	Wright, Myles	Wright, Myles	modified
+true	MacDowell, Edward, 1860-1908	MacDowell, Edward, 1860-1908	modified
+true	Nielsen Barsuhn, Rochelle,	Nielsen Barsuhn, Rochelle	modified
+true	Gwinnett County Public Schools	Gwinnett County Public Schools	modified
+true	Lue, Julie Gillum,	Lue, Julie Gillum	modified
+true	Mallett, Kevin	Mallett, Kevin	modified
+true	Rachmaninoff, Sergei, 1873-1943	Rachmaninoff, Sergei, 1873-1943	modified
+true	Skinner, Ernest	Skinner, Ernest	modified
+true	Kelso, Vera	Kelso, Vera	modified
+true	Paramount Pictures	Paramount Pictures	modified
+true	Olmsted, Michelle	Olmsted, Michelle	modified
+true	Anza, Ana Luisa	Anza, Ana Luisa	modified
+true	Gawne, Jonathan	Gawne, Jonathan	modified
+true	D'Alessandro, Cathy,	D'Alessandro, Cathy	modified
+true	Jenkins, Jamie,	Jenkins, Jamie	modified
+true	Wilson, Sierra,	Wilson, Sierra	modified
+true	Feldstone, Lena	Feldstone, Lena	modified
+true	Jortberg, Charles A	Jortberg, Charles A	modified
+true	Alan, Sondra	Alan, Sondra	modified
+true	Barragán, Paula, 1963	Barragán, Paula, 1963	modified
+true	Heron, Henry E.,	Heron, Henry E	modified
+true	Buchanan, Jane,	Buchanan, Jane	modified
+true	Smith, Willow	Smith, Willow	modified
+true	Madsen, Gunnar	Madsen, Gunnar	modified
+true	Patrick, Denise Lewis,	Patrick, Denise Lewis	modified
+true	Barrenetxea, Iban	Barrenetxea, Iban	modified
+true	Chabert, Jack,	Chabert, Jack	modified
+true	Tucker, Jeffrey	Tucker, Jeffrey	modified
+true	Lost Charge	Lost Charge	modified
+true	Taylor-Highsmith Bonnie	Taylor-Highsmith Bonnie	modified
+true	Liu, Evan	Liu, Evan	modified
+true	Chlebowski, Rachel,	Chlebowski, Rachel	modified
+true	Gentry-Ederer, Karen	Gentry-Ederer, Karen	modified
+true	Vidal, Séverine,	Vidal, Séverine	modified
+true	Dean, Dennis,	Dean, Dennis	modified
+true	Alarcon, Roben,	Alarcon, Roben	modified
+true	Jenskins, Tyrese	Jenskins, Tyrese	modified
+true	Shinder, Zahava	Shinder, Zahava	modified
+true	Bodeen, S. A. 1965	Bodeen, S A 1965	modified
+true	Culbertson, J.F	Culbertson, JF	modified
+true	Egan, Bob	Egan, Bob	modified
+true	Ferraro, Bonnie	Ferraro, Bonnie	modified
+true	Wilson, Abby	Wilson, Abby	modified
+true	Moran, Lisa	Moran, Lisa	modified
+true	Alperen, Julie	Alperen, Julie	modified
+true	Lüsted, Marcia Amidon,	Lüsted, Marcia Amidon	modified
+true	Sierra i Fabra, Jordi,	Sierra I Fabra, Jordi	modified
+true	White, E. B 1899	White, E B 1899	modified
+true	Leeming, Susan Jones	Leeming, Susan Jones	modified
+true	Randall, Beverley et. al	Randall, Beverley Et Al	modified
+true	Daniel, Carol, Illustrator	Daniel, Carol, Illustrator	modified
+true	Wise, Andrew	Wise, Andrew	modified
+true	Hutchinson, Caroline,	Hutchinson, Caroline	modified
+true	Houck, Eric L.,	Houck, Eric L	modified
+true	Adleman, Perry	Adleman, Perry	modified
+true	Bessy, Chris	Bessy, Chris	modified
+true	Episcopal Media Center, Inc	Episcopal Media Center, Inc	modified
+true	Tornio, Stacy,	Tornio, Stacy	modified
+true	Hargrove, Isadora	Hargrove, Isadora	modified
+true	Zukerman, Pinchas, 1948- prf cnd	Zukerman, Pinchas, 1948- Prf Cnd	modified
+true	Teletoon Firm	Teletoon Firm	modified
+true	Stratton, Phoebe	Stratton, Phoebe	modified
+true	Galligan, Gale,	Galligan, Gale	modified
+true	Garcia, Colon Aurora	Garcia, Colon Aurora	modified
+true	Mortimer, Wendy	Mortimer, Wendy	modified
+true	McKenna, Kay	McKenna, Kay	modified
+true	Figueredo, D. H,	Figueredo, D H	modified
+true	Tichbourne, Amy,	Tichbourne, Amy	modified
+true	Lopez, Nancy	Lopez, Nancy	modified
+true	Cali, Jennifer	Cali, Jennifer	modified
+true	Kells, Deanne,	Kells, Deanne	modified
+true	Apgar, Elizabeth	Apgar, Elizabeth	modified
+true	St. Ephan, Susan,	St Ephan, Susan	modified
+true	Nadler, Jill	Nadler, Jill	modified
+true	Davis, Nick	Davis, Nick	modified
+true	Walker, C. H	Walker, C H	modified
+true	Fox, Roxane	Fox, Roxane	modified
+true	Hale, Jennifer, 1972	Hale, Jennifer, 1972	modified
+true	Kelley, Iris	Kelley, Iris	modified
+true	Zweeng, Lynette	Zweeng, Lynette	modified
+true	Mavrides, Ernie	Mavrides, Ernie	modified
+true	Bailey, Barbara, ill	Bailey, Barbara, Ill	modified
+true	Moreno, Hortensia	Moreno, Hortensia	modified
+true	Boutignon, Beatrice	Boutignon, Beatrice	modified
+true	Harris, Gwen	Harris, Gwen	modified
+true	Johansen, Eduard	Johansen, Eduard	modified
+true	Pierce, Jenifer	Pierce, Jenifer	modified
+true	Brøderbund	Brøderbund	modified
+true	Osterink, Carole	Osterink, Carole	modified
+true	Gerlings, Rebecca, ed	Gerlings, Rebecca, Ed	modified
+true	Picture House Firm	Picture House Firm	modified
+true	Mays, Lydia Criss	Mays, Lydia Criss	modified
+true	White, E. B 1899-1985	White, E B 1899-1985	modified
+true	Brown, Kaaren	Brown, Kaaren	modified
+true	Gallego García, Laura	Gallego García, Laura	modified
+true	Spevack, Judy	Spevack, Judy	modified
+true	O'Flaherty, Dennis	O'Flaherty, Dennis	modified
+true	Díaz, José M	Díaz, José M	modified
+true	Charles, Dagney	Charles, Dagney	modified
+true	Weber, Paige, comp	Weber, Paige, Comp	modified
+true	Ange, Don. prf	Ange, Don Prf	modified
+true	Georgia Learning Resource System., Metro East Center	Georgia Learning Resource System, Metro East Center	modified
+true	Allen, Diane,	Allen, Diane	modified
+true	Mudge, Jon	Mudge, Jon	modified
+true	Molina, Alicia,	Molina, Alicia	modified
+true	Marks, Lorenzo	Marks, Lorenzo	modified
+true	Nathan, Bob	Nathan, Bob	modified
+true	Kirby, Nell	Kirby, Nell	modified
+true	Beach, Michelle,	Beach, Michelle	modified
+true	Shaw, Peter, ill	Shaw, Peter, Ill	modified
+true	Kennedy, Marge M.,	Kennedy, Marge M	modified
+true	Morris, Wendell	Morris, Wendell	modified
+true	Corkin, Tania	Corkin, Tania	modified
+true	Barnes, Peter W.,	Barnes, Peter W	modified
+true	Dowd, Nancy	Dowd, Nancy	modified
+true	Busch, Miriam,	Busch, Miriam	modified
+true	Houk, Rose,	Houk, Rose	modified
+true	Barnes, Joan Iris,	Barnes, Joan Iris	modified
+true	Sylvester, Paige	Sylvester, Paige	modified
+true	Méndez, Yamile Saied,	Méndez, Yamile Saied	modified
+true	Dilday, Thaddeus,	Dilday, Thaddeus	modified
+true	Doeck, Maryann	Doeck, Maryann	modified
+true	Janes, Patricia,	Janes, Patricia	modified
+true	Randell, Beverly and Giles, Jenny and Smith, Annette	Randell, Beverly And Giles, Jenny And Smith, Annette	modified
+true	Dingee, A. E.,	Dingee, A E	modified
+true	Kentor, Sandra,	Kentor, Sandra	modified
+true	Schoolvideos	Schoolvideos	modified
+true	Paré, Roger	Paré, Roger	modified
+true	Buamah, Nicholas,	Buamah, Nicholas	modified
+true	St.Phan, Susan	StPhan, Susan	modified
+true	Edgerley, Colin, ill	Edgerley, Colin, Ill	modified
+true	Samson, Darnell	Samson, Darnell	modified
+true	Chopin, Frédéric, 1810-1849	Chopin, Frédéric, 1810-1849	modified
+true	Fernández Sifres, David	Fernández Sifres, David	modified
+true	Layne, Susan A	Layne, Susan A	modified
+true	London, Robby	London, Robby	modified
+true	Borrás, Alicia	Borrás, Alicia	modified
+true	Davenport, Madison	Davenport, Madison	modified
+true	Mussunda, Valéria	Mussunda, Valéria	modified
+true	Flores, Carolyn Dee	Flores, Carolyn Dee	modified
+true	Johns, Natalie K	Johns, Natalie K	modified
+true	Conner, Mairanne	Conner, Mairanne	modified
+true	Parks, Jesse,	Parks, Jesse	modified
+true	Fitch, Amber	Fitch, Amber	modified
+true	Parkinson, Carolyn	Parkinson, Carolyn	modified
+true	Vassos, Paul	Vassos, Paul	modified
+true	Aston, Dianna,	Aston, Dianna	modified
+true	Bumpass, Rodger	Bumpass, Rodger	modified
+true	Duranti, Riccardo	Duranti, Riccardo	modified
+true	Gomez, Selena, 1992	Gomez, Selena, 1992	modified
+true	Brick, Andy	Brick, Andy	modified
+true	Pescetti, Luis María,	Pescetti, Luis María	modified
+true	Franklin, Loralei M.,	Franklin, Loralei M	modified
+true	Filipina, Monika, ill	Filipina, Monika, Ill	modified
+true	March, Cassie	March, Cassie	modified
+true	Watson, J. Thomas	Watson, J Thomas	modified
+true	Gundersheimer, Karen, ill	Gundersheimer, Karen, Ill	modified
+true	Leighton, Christina,	Leighton, Christina	modified

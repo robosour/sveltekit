@@ -18,6 +18,7 @@
 	let match_num: RegExpMatchArray | null;
 	let match_date: RegExpMatchArray | null;
 	let license: string;
+	let finance = new Date($test.fin_date).getDate() + "/" + (new Date($test.fin_date).getMonth()+1)
 </script>
 
 <div class="flex  ">
@@ -41,15 +42,15 @@
 		<hr />
 		<p>
 			<strong>Brooklyn type selection:</strong>
-			{$test.districtName}
+			{$test.country}
 			{$test.type} <br />
 			<strong>ODIN: </strong>
-			{$test.districtName}
+			{$test.country}
 			{$test.type}
 			<br />
 			<strong>Select Country:</strong>
-			USA<br />
-			<strong>Set Financial Year Start Date: </strong>{$test.fin_date}<br
+			{$test.country}<br />
+			<strong>Set Financial Year Start Date: </strong>{finance}<br
 			/>
 		</p>
 		<hr />
@@ -98,11 +99,12 @@
 		<textarea
 			class="form-textarea w-11/12  h-96 rounded "
 			placeholder="Paste License Here"
-			bind:value={license}
+			bind:value={$test.license}
 		/>
 		<button on:click={click} class=" btn btn-ghost-accent w-11/12"
 			>Save License</button
 		>
+		<p>{$test.license}</p>
 	</div>
 </div>
 <style>
