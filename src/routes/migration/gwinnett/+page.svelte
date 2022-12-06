@@ -15,7 +15,6 @@ import FriendAdder from "$lib/components/FriendAdder.svelte"
     import Pmf from "$lib/components/PMF.svelte";
 	import GwinnettPrep from "$lib/components/GwinnettPrep.svelte";
     import GwinnetMigNotes from "$lib/components/GwinnetMigNotes.svelte";
-
 	const storeTab: Writable<string> = writable("a");
 </script>
 
@@ -69,3 +68,6 @@ import FriendAdder from "$lib/components/FriendAdder.svelte"
 	{#if $storeTab === "j"}Change status, get update for scis, remove day after
 		training complete{/if}
 </div>
+<svelte:head>
+	<title>{$test.code}</title>
+</svelte:head>

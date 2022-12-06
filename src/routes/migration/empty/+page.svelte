@@ -12,7 +12,9 @@
 	// $test.country = ''
 	const storeTab: Writable<string> = writable("a");
 </script>
-
+<svelte:head>
+	<title>{$test.code}</title>
+</svelte:head>
 <div class="sticky top-0">
 	<!-- <div class="float-right justify-end mr-20">
 		<button  class="flex btn bg-primary-500 btn-base text-white btn-lg">Save</button>
