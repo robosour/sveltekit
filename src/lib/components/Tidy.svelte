@@ -11,6 +11,7 @@
 
 <div class="grid grid-cols-3">
     <div class="">
+
         <TidyForm />
     </div>
     <div>
@@ -25,32 +26,24 @@
                     <span class="flex-auto">{$test.phone}</span>
                 </li>
                 <li>
-                    <span class="flex-auto"
-                        >https://na.accessit.online/{$test.code}</span
-                    >
-                </li>
-                <li>
-                    <span class="flex-auto">{x[1]}</span>
-                </li>
-                <li>
-                    <span class="flex-auto">{x[2]}</span>
-                </li>
-                <li>
-                    <span class="flex-auto">{x[3]}</span>
-                </li>
-                <li>
-                    <span class="flex-auto">{x[4]}</span>
+                    <span class="flex-auto">{x[1]} // {x[2]} // {x[3]} // {x[4]}</span>
                 </li>
 
                 <!-- ... -->
             </ul>
             <hr />
+            <div class="card card-body m-5">
+                <div class="card card-body m-2 bg-red-200">
+                    <h6 class="text-center">Expected:</h6>
+                    <strong>Resources</strong> : {$test.resources}<br />
+                    <strong>Copies</strong> : {$test.copies}<br />
+                    <strong>Patrons</strong>: {$test.patrons}<br />
+                    <strong>On Loan</strong>: {$test.on_loan}<br />
+                </div>
+         
+            </div>
 
-            <p>{$test.name} Migration Notes</p>
-
-            <p>Collection Usage Report</p>
-
-            <p>Location Usage Report</p>
+            
         </div>
         <div class="grid grid-cols-2">
             <div>
@@ -66,8 +59,6 @@
                 {/if}
             </div>
 
-            <!-- <PatBac></PatBac>
-        <CopyBac></CopyBac> -->
         </div>
     </div>
 
@@ -108,13 +99,14 @@
             <li>
                 <input type="checkbox" bind:checked={$test.tidy7} />
                 <label for="" class="ml-10">
-                    Collections tidy => Collection Report
+                    Authority Files Tidy => Location Report
                 </label>
+          
             </li>
             <li>
                 <input type="checkbox" bind:checked={$test.tidy8} />
                 <label for="" class="ml-10">
-                    Authority Files Tidy => Location Report
+                    Collections tidy => Collection Report
                 </label>
             </li>
             <li>

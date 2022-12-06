@@ -1,6 +1,7 @@
 <script>
     import DistrictModal from "./DistrictModal.svelte";
     import EmptyModal from "./EmptyModal.svelte";
+    import GwinnettModal from "./GwinnettModal.svelte";
     import SchoolModal from "./SchoolModal.svelte";
 </script>
 
@@ -9,7 +10,9 @@
         <h3 class="flex justify-center pt-5">Migrations:</h3>
 
         <div class="flex flex-row p-10 space-x-10 justify-center">
-            <DistrictModal />
+            <!-- <DistrictModal />
+             -->
+             <GwinnettModal/>
             <SchoolModal />
             <EmptyModal />
         </div>

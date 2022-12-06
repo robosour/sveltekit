@@ -8,6 +8,7 @@
 	import "@brainandbones/skeleton/styles/all.css";
 	import { writable, type Writable } from "svelte/store";
 	import "../app.postcss";
+    import GwinnettModal from "$lib/components/GwinnettModal.svelte";
 	let formModal = false;
 	const storeTab: Writable<string> = writable("a");
 	let place =""
@@ -44,8 +45,12 @@
 		<!-- Insert the list: -->
 		<nav class="list-nav">
 			<ul>
-				<li>
+				<!-- <li>
 					<DistrictModalSmall title={"District"}>/</DistrictModalSmall
+					>
+				</li> -->
+				<li>
+					<GwinnettModal >/</GwinnettModal
 					>
 				</li>
 				<li>

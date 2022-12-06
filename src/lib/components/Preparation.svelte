@@ -14,6 +14,6 @@
 		<PMF />
 	</div>
 	<div>
-		<Checklist checks={a} title="Preparation Checklist" />
+		<Checklist />
 	</div>
 </div>
