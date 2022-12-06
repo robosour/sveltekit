@@ -1,4 +1,5 @@
 <script lang="ts">
+	import GwinnettModalSmall from './../lib/components/GwinnettModalSmall.svelte';
 	import EmptyModalSmall from "./../lib/components/EmptyModalSmall.svelte";
 	// import "@brainandbones/skeleton/themes/theme-seafoam.css";
 	import "../theme.postcss"; // <--
@@ -51,7 +52,9 @@
 					>
 				</li> -->
 				<li>
+
 					<GwinnetModalSmall/>
+
 				</li>
 				<li>
 					<SchoolModalSmall title={"School"} />
