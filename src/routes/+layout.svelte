@@ -10,7 +10,6 @@
 	import { writable, type Writable } from "svelte/store";
 	import "../app.postcss";
     import GwinnettModal from "$lib/components/GwinnettModal.svelte";
-    import GwinnettModalSmall from "$lib/components/GwinnettModalSmall.svelte";
 	let formModal = false;
 	const storeTab: Writable<string> = writable("a");
 	let place =""
