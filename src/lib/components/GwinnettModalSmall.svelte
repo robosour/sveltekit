@@ -18,7 +18,7 @@
 <button
 	on:click={() => (formModal = true)}
 	type="submit"
-	class="btn  btn-base btn-ghost-accent ">+ Gwinnett Migration</button
+	class="btn  btn-base btn-ringed-accent ">+ Gwinnett Migration</button
 >
 <Modal bind:open={formModal} size="xs" autoclose={false}>
 	<form class="flex flex-col space-y-6" action="/migration/gwinnett/">
