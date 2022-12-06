@@ -4,7 +4,7 @@
 	let data: string = ""; //pasted row from district spreadsheet
 	$: list = data.split("\t");
 	function load() {
-		// $test.code = $key
+		$test.code =list[1]
 		$test.name = list[0];
 		$test.address =
 			list[9];
