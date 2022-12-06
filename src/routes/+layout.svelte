@@ -1,4 +1,5 @@
 <script lang="ts">
+	import GwinnettModalSmall from './../lib/components/GwinnettModalSmall.svelte';
 	import EmptyModalSmall from "./../lib/components/EmptyModalSmall.svelte";
 	// import "@brainandbones/skeleton/themes/theme-seafoam.css";
 	import "../theme.postcss"; // <--
@@ -9,6 +10,7 @@
 	import { writable, type Writable } from "svelte/store";
 	import "../app.postcss";
     import GwinnettModal from "$lib/components/GwinnettModal.svelte";
+    import GwinnettModalSmall from "$lib/components/GwinnettModalSmall.svelte";
 	let formModal = false;
 	const storeTab: Writable<string> = writable("a");
 	let place =""
@@ -50,7 +52,7 @@
 					>
 				</li> -->
 				<li>
-					<GwinnettModal >/</GwinnettModal
+					<GwinnettModalSmall >/</GwinnettModalSmall
 					>
 				</li>
 				<li>
