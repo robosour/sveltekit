@@ -1,15 +1,13 @@
 <script lang="ts">
-	import Checklist from "./Checklist.svelte";
 	import { test } from "$lib/stores/localskeletonStore";
-	import Permissions from "./Permissions.svelte";
 	import LicPermissions from "./LicPermissions.svelte";
 	function click() {
-		match_num = license.match(/Number =(.*)/);
+		match_num = $test.license.match(/Number =(.*)/);
 		if (match_num != null) {
 			$test.license_num = match_num[1];
 			// {$test.license_num} = match_num[1];
 		}
-		match_date = license.match(/Ending[\s\S]*/);
+		match_date = $test.license.match(/Ending[\s\S]*/);
 		if (match_date != null) {
 			$test.date = match_date[0];
 			// {$test.date} = match_date[0];
@@ -17,7 +15,7 @@
 	}
 	let match_num: RegExpMatchArray | null;
 	let match_date: RegExpMatchArray | null;
-	let license: string;
+	// let license: string;
 </script>
 
 <div class="grid grid-cols-3 ">
@@ -64,10 +62,11 @@
 		<textarea
 			class="form-textarea w-11/12  h-96 rounded "
 			placeholder="Paste License Here"
-			bind:value={license}
+			bind:value={$test.license}
 		/>
 		<button on:click={click} class=" btn btn-ghost-accent w-11/12"
 			>Save License</button
 		>
+		<p>{$test.license}</p>
 	</div>
 </div>

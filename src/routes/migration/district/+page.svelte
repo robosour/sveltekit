@@ -12,6 +12,7 @@
 	import { Tab, TabGroup } from "@brainandbones/skeleton";
 import FriendAdder from "$lib/components/FriendAdder.svelte"
 	import { writable, type Writable } from "svelte/store";
+    import Pmf from "$lib/components/PMF.svelte";
 
 	const storeTab: Writable<string> = writable("a");
 </script>
@@ -25,7 +26,7 @@ import FriendAdder from "$lib/components/FriendAdder.svelte"
 		<FriendAdder></FriendAdder>
 	</div>
 		<h2 class=" flex font-sans justify-center mt-10 ">
-			{$test.name} - {$test.code} 
+			{$test.code} - {$test.name} - {$test.districtName}
 		</h2>
 		<br />
 		
@@ -54,7 +55,7 @@ import FriendAdder from "$lib/components/FriendAdder.svelte"
 		</TabGroup>
 	</div>
 	<!-- Conditionally display content -->
-	{#if $storeTab === "a"}<LoadDistric />{/if}
+	{#if $storeTab === "a"}<Pmf />{/if}
 	{#if $storeTab === "b"}<Licensing />{/if}
 	{#if $storeTab === "c"}
 		<Borgit />
