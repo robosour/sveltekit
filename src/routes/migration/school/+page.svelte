@@ -4,7 +4,7 @@
 	import Pmf from "$lib/components/PMF.svelte";
 	import SchoolBorgit from "$lib/components/SchoolBorgit.svelte";
 	import Tidy from "$lib/components/Tidy.svelte";
-	import { test } from "$lib/stores/localskeletonStore";
+	import { test, key } from "$lib/stores/localskeletonStore";
 	import { Tab, TabGroup } from "@brainandbones/skeleton";
 	import { writable, type Writable } from "svelte/store";
 	import Deliver from "$lib/components/Deliver.svelte";
@@ -15,7 +15,7 @@
 	const storeTab: Writable<string> = writable("a");
 </script>
 <svelte:head>
-	<title>{$test.code}</title>
+	<title>{$key}</title>
 </svelte:head>
 <div class="sticky top-0">
 	<!-- <div class="float-right justify-end mr-20">
