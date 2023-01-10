@@ -26,7 +26,7 @@
                     <span class="flex-auto">{$test.phone}</span>
                 </li>
                 <li>
-                    <span class="flex-auto">{x[1]} // {x[2]} // {x[3]} // {x[4]}</span>
+                    <span class="flex-auto">{x[1]} <br> {x[2]} <br> {x[3]} <br> {x[4]}</span>
                 </li>
 
                 <!-- ... -->

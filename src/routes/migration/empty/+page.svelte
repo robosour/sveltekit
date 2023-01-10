@@ -3,7 +3,7 @@
 	import Licensing from "$lib/components/Licensing.svelte";
 	import EmptyBorgit from "$lib/components/EmptyBorgit.svelte";
 	import EmptyPrep from "$lib/components/EmptyPrep.svelte";
-	import { test } from "$lib/stores/localskeletonStore";
+	import { test, key } from "$lib/stores/localskeletonStore";
 	import { Tab, TabGroup } from "@brainandbones/skeleton";
 	import Notes from "$lib/components/Notes.svelte";
 	import { writable, type Writable } from "svelte/store";
@@ -12,7 +12,9 @@
 	// $test.country = ''
 	const storeTab: Writable<string> = writable("a");
 </script>
-
+<svelte:head>
+	<title>{$key}</title>
+</svelte:head>
 <div class="sticky top-0">
 	<!-- <div class="float-right justify-end mr-20">
 		<button  class="flex btn bg-primary-500 btn-base text-white btn-lg">Save</button>

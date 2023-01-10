@@ -8,14 +8,13 @@
     import MigNotesBase from "$lib/components/MigNotesBase.svelte";
 	import Notes from "$lib/components/Notes.svelte";
 	import Tidy from "$lib/components/Tidy.svelte";
-	import { test } from "$lib/stores/localskeletonStore";
+	import { test, key } from "$lib/stores/localskeletonStore";
 	import { Tab, TabGroup } from "@brainandbones/skeleton";
 import FriendAdder from "$lib/components/FriendAdder.svelte"
 	import { writable, type Writable } from "svelte/store";
     import Pmf from "$lib/components/PMF.svelte";
 	import GwinnettPrep from "$lib/components/GwinnettPrep.svelte";
     import GwinnetMigNotes from "$lib/components/GwinnetMigNotes.svelte";
-
 	const storeTab: Writable<string> = writable("a");
 </script>
 
@@ -69,3 +68,6 @@ import FriendAdder from "$lib/components/FriendAdder.svelte"
 	{#if $storeTab === "j"}Change status, get update for scis, remove day after
 		training complete{/if}
 </div>
+<svelte:head>
+	<title>{$key}</title>
+</svelte:head>
