@@ -8,7 +8,7 @@
     import MigNotesBase from "$lib/components/MigNotesBase.svelte";
 	import Notes from "$lib/components/Notes.svelte";
 	import Tidy from "$lib/components/Tidy.svelte";
-	import { test } from "$lib/stores/localskeletonStore";
+	import { test, key } from "$lib/stores/localskeletonStore";
 	import { Tab, TabGroup } from "@brainandbones/skeleton";
 import FriendAdder from "$lib/components/FriendAdder.svelte"
 	import { writable, type Writable } from "svelte/store";
@@ -69,5 +69,5 @@ import FriendAdder from "$lib/components/FriendAdder.svelte"
 		training complete{/if}
 </div>
 <svelte:head>
-	<title>{$test.code}</title>
+	<title>{$key}</title>
 </svelte:head>
